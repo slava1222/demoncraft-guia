@@ -28,6 +28,18 @@ modo normal (el que hace falta para algunas misiones de golpear objetos).
 - Los demonios de la noche tienen un **tope de daño** por golpe: ningún demonio normal te mata de un golpe con la vida llena.
 - Las técnicas (las tuyas y las de los jefes) **no dañan** a los personajes del servidor, a los aldeanos ni a la decoración.
 
+## El remate
+
+Cuando das el golpe final a un demonio, a veces lo verás como una escena de película: bandas negras, el tiempo que se
+detiene mientras te pones en guardia, el salto a través del demonio y su cabeza saliendo por los aires mientras el cuerpo
+se deshace en ceniza.
+
+- A los **jefes**, siempre, con una tarjeta final con su nombre y el tuyo. A los **demonios de la noche**, de vez en cuando.
+- Mientras dura no puedes moverte ni pegar, pero **nadie puede hacerte daño**.
+- Acabas **detrás del demonio**, como en la escena, solo si ahí hay sitio; si no, el tajo vuela hasta su cuello.
+- Los efectos son los de **tu respiración**. Si el golpe final lo da un Pilar que te acompaña, es él quien corta la cabeza.
+- Quien peleaba contigo contra el jefe también lo ve con cámara; los demás que estén cerca, en el mundo.
+
 ## Curarte
 
 - Tras recibir un golpe, la curación **lenta** (comida, regeneración, reliquias) se **para 4 segundos**. Las curaciones
