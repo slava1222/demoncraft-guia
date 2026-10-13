@@ -61,7 +61,11 @@ campañas también ves la lista de objetivos y, si hay prisa, un reloj.
 - Si otro jugador ya está peleando contra él, entras en **cola**. Puedes ayudarle: si le quitas al menos un 10 % de
   vida, también cuenta para ti.
 - Si mueres, el rastro «se enfría»: vuelve a hablar con quien te dio el paso para retomarlo.
-- En algunas peleas aparece un **Pilar** a ayudarte.
+- En algunas peleas aparece un **Pilar** a ayudarte. Solo pelea en la tuya.
+- Al jefe le puedes golpear **siempre**, también mientras lanza una técnica.
+- Ningún golpe le quita más de **un cuarto de su vida**: hacen falta varios golpes y formas. Ningún jefe te mata de un
+  solo golpe, pero si te quedas quieto delante te tumba en pocos segundos.
+- Lo que invoca un jefe (peces, árboles…) tiene tope: como mucho **tres** a la vez.
 - Las **cacerías con nombre** son al revés: el demonio te busca a ti de noche, al aire libre.
 
 ## Recompensas
