@@ -63,9 +63,14 @@ campañas también ves la lista de objetivos y, si hay prisa, un reloj.
 - Si mueres, el rastro «se enfría»: vuelve a hablar con quien te dio el paso para retomarlo.
 - En algunas peleas aparece un **Pilar** a ayudarte. Solo pelea en la tuya.
 - Al jefe le puedes golpear **siempre**, también mientras lanza una técnica.
-- Ningún golpe le quita más de **un cuarto de su vida**: hacen falta varios golpes y formas. Ningún jefe te mata de un
-  solo golpe, pero si te quedas quieto delante te tumba en pocos segundos.
-- Lo que invoca un jefe (peces, árboles…) tiene tope: como mucho **tres** a la vez.
+- Ningún golpe le quita más de **un cuarto de su vida**: hacen falta varios golpes y formas.
+- Los jefes tienen **ritmo**: sus técnicas salen cada pocos segundos y no repiten la misma seguida, y el golpe de su arma o
+  de sus puños llega con pausas. Entre ataque y ataque tienes tu momento para pegar.
+- Ningún jefe te mata de un golpe ni de una sola ráfaga: en unos segundos no te quita más de **un tercio de tu vida**
+  (también el veneno, la marchitez o la caída si te lanza por los aires). Pero si te quedas quieto delante, caes antes que
+  él: apártate, esquiva y come entre sus ataques.
+- Lo que invoca un jefe tiene tope: como mucho **tres** peces de Gyokko o árboles de Zohakuten a la vez, y Enmu, un par de
+  tentáculos y de brazos del suelo.
 - Las **cacerías con nombre** son al revés: el demonio te busca a ti de noche, al aire libre.
 
 ## Recompensas
