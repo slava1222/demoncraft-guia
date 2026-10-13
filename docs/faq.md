@@ -74,8 +74,8 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
     vender en el Mercado. [Ver economía](economia/index.md).
 
 ??? question "¿Cómo le paso dinero a un amigo?"
-    No hay `/pagar`. Véndele algo en el **Mercado** al precio que acordéis, o usa el **tesoro del clan**.
-    [Ver cómo](economia/index.md#puedo-darle-dinero-a-otro-jugador).
+    Con **`/pagar <jugador> <cantidad>`** (tiene que estar conectado): te enseña el pago y lo confirmas pulsando
+    **[✔ PAGAR]** en el chat. Necesitas 2 días de servicio y no se puede deshacer. [Ver cómo](economia/index.md#puedo-darle-dinero-a-otro-jugador).
 
 ??? question "¿Dónde compro comida?"
     En la tienda de **Kohei**, en Tokio. [Ver tiendas](economia/tiendas.md).

@@ -9,8 +9,8 @@ description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta
 
 !!! info "Si un comando no funciona"
     Los demás comandos están cerrados para los jugadores: *«✖ Ese comando no está disponible para jugadores. Todo lo que
-    necesitas está en la K…»*. No hay `/spawn`, `/home`, `/tpa` ni `/pagar`: se viaja con el [cuervo](mundo/viajar.md) y el
-    dinero se pasa por el [Mercado o el tesoro del clan](economia/index.md#puedo-darle-dinero-a-otro-jugador).
+    necesitas está en la K…»*. No hay `/spawn`, `/home` ni `/tpa`: se viaja con el [cuervo](mundo/viajar.md). Para pasar
+    dinero a otro jugador, [`/pagar`](economia/index.md#puedo-darle-dinero-a-otro-jugador).
 
 ## Cuenta
 
@@ -44,6 +44,7 @@ description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta
 
 | Comando | Qué hace |
 |---|---|
+| `/pagar <jugador> <cantidad>` | Pagar a otro jugador conectado: te enseña el pago y pulsas **[✔ PAGAR]**. [Ver](economia/index.md#puedo-darle-dinero-a-otro-jugador) |
 | `/rentar <casa>` | Alquilar o renovar una casa (el nombre está en su cartel). [Ver](economia/casas.md) |
 | `/mercado` | Abrir el Mercado (también `/subastas`). [Ver](economia/mercado.md) |
 | `/buy` | Abrir la tienda de rangos y extras. [Ver](vip.md) |

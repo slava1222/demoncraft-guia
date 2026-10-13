@@ -46,12 +46,32 @@ Con un **[rango VIP](../vip.md)** todo lo que paga el servidor (misiones, encarg
 
 ## ¿Puedo darle dinero a otro jugador?
 
-**No hay comando para pagar** (no existe `/pagar` ni `/pay`). Si quieres pasarle dinero a alguien:
+**Sí, con `/pagar`.** El otro jugador tiene que estar conectado.
 
-- **Véndele algo en el [Mercado](mercado.md)** al precio que acordéis.
-- **Tesoro del clan:** cualquier miembro puede aportar con `/clan tesoro aportar <cantidad>` y **solo el Fundador**
+<ol class="pasos" markdown>
+<li markdown>Escribe **`/pagar <jugador> <cantidad>`**, por ejemplo `/pagar Pepe 5000`.</li>
+<li markdown>Te enseña el pago: *«Vas a pagar 5.000 a Pepe. Te quedarán 15.000.»* Todavía no se ha movido nada.</li>
+<li markdown>Si está bien, pulsa **[✔ PAGAR]** en el chat (++t++ para abrirlo). Los dos lo veréis: *«Has pagado…»* y *«+5.000 · … te ha pagado»*.</li>
+</ol>
+
+Ten en cuenta:
+
+- **Un pago no se puede deshacer.** Mira bien el nombre y los ceros antes de pulsar.
+- El botón **vale una sola vez y durante un minuto**. Si caduca, vuelve a escribir la orden.
+- Para pagar necesitas llevar **2 días de servicio**. No puedes pagarte a ti mismo ni pagar a alguien desconectado,
+  en la pantalla de muerte o congelado por la moderación.
+- Entre un pago y el siguiente hay que esperar 3 segundos.
+
+!!! warning "Cuidado con los tratos"
+    Si cambias algo por dinero, **págalo solo cuando tengas lo tuyo**. Si es un objeto, mejor véndelo en el
+    [Mercado](mercado.md): allí nadie se queda sin pagar ni sin cobrar.
+
+Otras formas de mover dinero:
+
+- **El [Mercado](mercado.md):** véndele algo al precio que acordéis.
+- **El tesoro del clan:** cualquier miembro aporta con `/clan tesoro aportar <cantidad>` y **solo el Fundador**
   retira con `/clan tesoro retirar <cantidad>`.
-- Los objetos sí se pueden tirar con ++q++ para que otro los coja (salvo los ligados).
+- Los objetos se pueden tirar con ++q++ para que otro los coja (salvo los ligados).
 
 ??? info "¿Y las monedas que tengo en el inventario?"
     Las monedas físicas no sirven para comprar en DemonCraft. Si entras con alguna, se convierten solas en saldo de tu
