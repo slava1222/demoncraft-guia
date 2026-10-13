@@ -19,6 +19,11 @@ description: Cómo fundar un clan en DemonCraft, invitar miembros, los grados, l
 - **El nombre:** de 3 a 16 caracteres.
 - Cuesta **5.000** y no puedes estar en otro clan. Se anuncia a todo el servidor.
 
+<figure markdown="span">
+  ![K, pestaña Clan para fundar uno](../assets/img/capturas/clan-fundar.webp){ loading=lazy }
+  <figcaption>Sin clan, K → Clan te deja fundar uno: etiqueta, nombre y una vista previa de tu bandera.</figcaption>
+</figure>
+
 ## Entrar en un clan
 
 Solo por **invitación** de un Pilar o del Fundador. Te llega un aviso y tienes **2 minutos** para responder:
@@ -32,6 +37,10 @@ Solo por **invitación** de un Pilar o del Fundador. Te llega un aviso y tienes 
 <figure markdown="span">
   ![Ajustes del clan](../assets/img/capturas/clan-ajustes.webp){ loading=lazy }
   <figcaption>Ajustes: aportar al tesoro, color de la bandera, lema y salir o disolver.</figcaption>
+</figure>
+<figure markdown="span">
+  ![Miembros del clan](../assets/img/capturas/clan-miembros.webp){ loading=lazy }
+  <figcaption>Miembros: elige a alguien para ascenderlo, degradarlo, expulsarlo o traspasarle el clan.</figcaption>
 </figure>
 </div>
 

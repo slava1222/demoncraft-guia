@@ -19,6 +19,10 @@ está a un paseo.
   ![La tienda de Kohei, estantería de comida](../assets/img/capturas/tienda-comida.webp){ loading=lazy }
   <figcaption>La tienda: estanterías arriba, artículos con su precio y tu bolsa.</figcaption>
 </figure>
+<figure markdown="span">
+  ![La tienda de Kohei, estantería Casa Taisho](../assets/img/capturas/tienda-materiales.webp){ loading=lazy }
+  <figcaption>La estantería «Casa Taisho»: tatamis, puertas correderas y futones para tu casa.</figcaption>
+</figure>
 </div>
 
 **Cómo se compra:**

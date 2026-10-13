@@ -31,6 +31,23 @@ description: Los rangos de apoyo (VIP) de DemonCraft - qué da cada uno, sus kit
 | 【紅】 | **Oscuridad Carmesí** | Cazador | `/kit oscuridadcarmesi` | Mariposa del abismo | **Su propia respiración**: la Oscuridad Carmesí, cinco formas. |
 | 【魂】 | **Señor de las Ánimas** | **Demonio** | `/kit animas` | Farol maldito | **Su propio linaje**: cinco artes de sangre que se suman a las tuyas. |
 
+Los tres últimos traen técnicas que no existen en ningún otro sitio del juego:
+
+<div class="galeria tres" markdown>
+<figure markdown="span">
+  ![Ceniza Oscura: el cazador que no se apaga](assets/img/vip/sello-ceniza.webp){ loading=lazy }
+  <figcaption>Ceniza Oscura: la Respiración de la Ceniza.</figcaption>
+</figure>
+<figure markdown="span">
+  ![Oscuridad Carmesí: la noche bebe de tus enemigos](assets/img/vip/sello-carmesi.webp){ loading=lazy }
+  <figcaption>Oscuridad Carmesí: su respiración de cinco formas.</figcaption>
+</figure>
+<figure markdown="span">
+  ![Señor de las Ánimas: el primer rango para demonios](assets/img/vip/sello-animas.webp){ loading=lazy }
+  <figcaption>Señor de las Ánimas: el rango de los demonios.</figcaption>
+</figure>
+</div>
+
 <div class="galeria" markdown>
 <figure markdown="span">
   ![El conjunto de Ceniza Oscura](assets/img/vip/ceniza-conjunto.webp){ loading=lazy }
@@ -99,6 +116,8 @@ En el tatami del dojo no cuentan.
   y un anuncio a todo el servidor.
 
 ### Otros extras de la tienda
+
+![El Sello de Sangre](assets/img/vip/sello-sangre.webp){ align=right width="180" loading=lazy }
 
 - **Metal nichirin premium:** cada lingote es una tirada de la **Caja Premium** (K → Caja), que da una de cinco hojas personalizadas.
 - **Sello de Sangre:** para quien cambia de bando muchas veces ([ver la cura](demonio/cura.md)).

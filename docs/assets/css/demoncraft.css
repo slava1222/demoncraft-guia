@@ -175,6 +175,10 @@
   width: 100%;
   border-radius: 6px;
 }
+.md-typeset .galeria.tres {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: .6rem;
+}
 
 /* ---------- Tarjetas (rejillas) ---------- */
 .md-typeset .grid.cards > ul > li,

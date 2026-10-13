@@ -35,6 +35,10 @@ no se tira ni se recoge nada. Al acabar recuperas tu sitio, tu vida, tu comida y
 
 <div class="galeria" markdown>
 <figure markdown="span">
+  ![Pestaña Combate del dojo](../assets/img/capturas/dojo-combate.webp){ loading=lazy }
+  <figcaption>Pestaña Combate: si el tatami está libre, desde aquí retas a alguien.</figcaption>
+</figure>
+<figure markdown="span">
   ![Las reglas del dojo](../assets/img/capturas/dojo-reglas.webp){ loading=lazy }
   <figcaption>La pestaña Reglas del dojo lo resume todo.</figcaption>
 </figure>
