@@ -1,0 +1,167 @@
+site_name: Guía de DemonCraft
+site_url: https://slava1222.github.io/demoncraft-guia/
+site_description: >-
+  La guía para jugadores de DemonCraft: cómo entrar, el camino del cazador y el del demonio,
+  respiraciones, misiones, economía, clanes, duelos, rangos de apoyo y todos los comandos.
+site_author: DemonCraft
+copyright: DemonCraft · La noche es de los demonios. El amanecer, tuyo.
+
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+  anchors: warn
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: es
+  logo: assets/img/marca/icono.png
+  favicon: assets/img/marca/favicon.png
+  palette:
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo oscuro
+  font:
+    text: Noto Sans
+    code: JetBrains Mono
+  icon:
+    admonition:
+      note: material/notebook-outline
+      tip: material/lightbulb-on-outline
+      warning: material/alert-outline
+      danger: material/skull-outline
+      info: material/information-outline
+      example: material/sword-cross
+      question: material/help-circle-outline
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.tabs.link
+    - content.tooltips
+    - toc.follow
+
+extra_css:
+  - assets/css/demoncraft.css
+
+extra_javascript:
+  - assets/js/demoncraft.js
+
+plugins:
+  - search:
+      lang: es
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - icono
+        - no-zoom
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: "#"
+      toc_depth: 3
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      auto_append:
+        - includes/glosario.md
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tilde
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/mdwAvAMBvr
+      name: Discord de DemonCraft
+    - icon: material/download
+      link: https://github.com/slava1222/demoncraft-launcher/releases/latest
+      name: Descargar el launcher
+
+nav:
+  - Inicio: index.md
+  - Empezar:
+      - empezar/index.md
+      - Tus primeros minutos: empezar/primeros-pasos.md
+      - Controles: empezar/controles.md
+      - La K y la pantalla: empezar/menu-k.md
+      - Normas y mapa cerrado: empezar/normas.md
+  - Cazador:
+      - cazador/index.md
+      - Respiraciones y formas: cazador/respiraciones.md
+      - Entrenar el aliento: cazador/entrenamiento.md
+      - Tu katana nichirin: cazador/katana.md
+      - Rangos del Cuerpo: cazador/rangos.md
+      - Combate: cazador/combate.md
+  - Demonio:
+      - demonio/index.md
+      - Sangre, rangos y árbol: demonio/sangre.md
+      - Linajes y artes: demonio/artes.md
+      - La vida de un demonio: demonio/vida.md
+      - Volver a ser humano: demonio/cura.md
+  - Misiones:
+      - misiones/index.md
+      - Encargos y tablón: misiones/encargos.md
+  - Mundo:
+      - mundo/index.md
+      - Viajar: mundo/viajar.md
+      - La noche: mundo/noche.md
+  - Economía:
+      - economia/index.md
+      - Tiendas y forja: economia/tiendas.md
+      - El Mercado: economia/mercado.md
+      - Casas de alquiler: economia/casas.md
+      - Cajas y objetos: economia/objetos.md
+  - Social:
+      - social/index.md
+      - Clanes: social/clanes.md
+      - Duelos y dojo: social/duelos.md
+      - Chat, voz y reportes: social/chat.md
+  - Rangos VIP: vip.md
+  - Comandos: comandos.md
+  - Preguntas frecuentes: faq.md

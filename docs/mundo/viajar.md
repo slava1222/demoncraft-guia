@@ -1,0 +1,47 @@
+---
+title: Viajar
+description: Cómo viajar por el mapa de DemonCraft con el cuervo Kasugai, el arriero y la biwa de Nakime, cuánto cuesta y qué reglas tiene.
+---
+
+# Viajar
+
+<p class="dc-entradilla">Por el mapa se viaja con el cuervo: abre la K, ve a <strong>Lugares</strong> y pulsa <strong>Ir</strong>.</p>
+
+## El cuervo Kasugai
+
+<ol class="pasos" markdown>
+<li markdown>**Descubre el lugar.** Solo puedes viajar a sitios que ya hayas pisado (sale la tarjeta «LUGAR DESCUBIERTO»).</li>
+<li markdown>**K → Lugares → Ir.** Al lado de cada lugar ves lo que cuesta ir desde donde estás.</li>
+<li markdown>**Quédate quieto 3 segundos** mientras el cuervo marca el rumbo. Si te mueves o te hacen daño, se cancela sin cobrar.</li>
+<li markdown>**Llegas** y se te cobra: *«Has llegado a … -precio»*.</li>
+</ol>
+
+<div class="galeria" markdown>
+<figure markdown="span">
+  ![K, pestaña Lugares con los precios](../assets/img/capturas/k-lugares.webp){ loading=lazy }
+  <figcaption>K → Lugares: precio de cada viaje y el botón Ir.</figcaption>
+</figure>
+<figure markdown="span">
+  ![El cuervo marca el rumbo](../assets/img/capturas/cuervo-viaje.webp){ loading=lazy }
+  <figcaption>«¡CAW! ¡No te muevas!»: el cuervo marca el rumbo durante 3 segundos.</figcaption>
+</figure>
+</div>
+
+## Cuánto cuesta
+
+- **60 + 0,4 por cada bloque** de distancia en línea recta, con un **tope de 1.200**.
+- Con un [rango VIP](../vip.md) pagas **la mitad**.
+- Ejemplos desde Tokio: Monte Natagumo 120 · Dojo de las Glicinas 160 · Tren Infinito 240 · Aldea de los Herreros 300 ·
+  Templo Kyogai 400 · Barrio del Placer 540.
+
+## Reglas
+
+- Entre un viaje y otro hay que esperar **45 segundos**.
+- No puedes viajar si un enemigo te ha golpeado hace poco, ni con un duelo en marcha.
+- **Antes de tener tu cuervo** (al principio de tu formación), te lleva un **arriero** por el mismo precio.
+- Las **waystones** no se usan y las **barcas** están desactivadas.
+
+!!! demonio "Los demonios viajan con la biwa"
+    Un demonio no tiene cuervo: cuando avanza en su historia, **Nakime** le abre sus puertas (K → Lugares pasa a
+    llamarse «Las puertas de Nakime»). Funciona solo de noche, cobra igual que el cuervo y salir del castillo es
+    gratis. [Más sobre la vida del demonio](../demonio/vida.md).

@@ -1,0 +1,29 @@
+{% extends "main.html" %}
+
+{% block tabs %}
+  {{ super() }}
+  <section class="dc-hero">
+    <div class="dc-hero__fondo" style="background-image: url('{{ 'assets/img/portada.webp' | url }}')"></div>
+    <div class="md-grid dc-hero__contenido">
+      <img class="dc-hero__logo" src="{{ 'assets/img/marca/logo.png' | url }}" alt="DemonCraft" width="908" height="277">
+      <p class="dc-hero__texto">
+        La guía completa para jugar en DemonCraft: cómo entrar, qué hacer los primeros días, el camino del cazador
+        y el del demonio, las respiraciones, las misiones, el dinero, los clanes, los duelos y todos los comandos.
+        Si no sabes para qué sirve algo, búscalo aquí.
+      </p>
+      <a href="{{ 'empezar/' | url }}" class="md-button md-button--primary">Empieza aquí</a>
+      <a href="https://github.com/slava1222/demoncraft-launcher/releases/latest" class="md-button">Descargar el launcher</a>
+      <a href="https://discord.gg/mdwAvAMBvr" class="md-button">Discord</a>
+      <div>
+        <span class="dc-ip"><span class="dc-ip__etiqueta">Dirección del servidor:</span> <code>demoncraft.world</code>
+          <button type="button" data-copiar="demoncraft.world">Copiar</button></span>
+      </div>
+    </div>
+  </section>
+{% endblock %}
+
+{% block content %}
+  <div class="dc-portada">
+    {{ super() }}
+  </div>
+{% endblock %}
