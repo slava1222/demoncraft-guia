@@ -47,8 +47,8 @@ formas de tu respiración igual que tu hoja.
 
 ## Si pierdes tu katana: la reforja
 
-Habla con **Haganezuka** (en el hogar de tu maestro) o con **Hotaru Haganezuka** (en la Aldea de los Herreros) cuando
-no tengan ninguna misión para ti: se abre la **Forja**.
+Habla con **Haganezuka** (en el hogar de tu maestro) o con **Hotaru Haganezuka** (en la Aldea de los Herreros): se abre
+la **Forja** (si tienen una misión para ti, agáchate y háblales).
 
 | Qué | Precio |
 |---|---|
@@ -57,6 +57,8 @@ no tengan ninguna misión para ti: se abre la **Forja**.
 
 - Solo **una reforja al día**, y no si ya llevas esa hoja encima. Necesitas un hueco libre.
 - Tu katana trae **Reparación** (*Mending*): la experiencia la va reparando sola.
+- Tu katana **se gasta**: si se queda **rota** no lanza formas, pero no desaparece. Hotaru te la repara y también la
+  **templa** para que pegue más. [Ver la Aldea de los Herreros](../economia/aldea.md).
 - Los herreros no forjan para demonios.
 
 !!! info "La funda"

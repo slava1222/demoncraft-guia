@@ -38,7 +38,7 @@ está a un paseo.
 | Estantería | Qué hay |
 |---|---|
 | **Comida** | Pan, carne, pescado, onigiri, dango… |
-| **Haori** | Haoris de personaje: son ropa, **no protegen** (0 de armadura) y ocupan el sitio del peto del uniforme. |
+| **Haori** | Haoris de personaje: son ropa, **no protegen** (0 de armadura) y ocupan el sitio del peto del uniforme. Los que protegen se forjan en la [Aldea de los Herreros](aldea.md). |
 | **Decoración** y **Hogar** | Cofres, barriles, hornos, cuadros, marcos, faroles, macetas… para tu casa. |
 | **Materiales** | Tablones, piedra, ladrillos, cristal, lana… |
 | **Casa Taisho** | Muebles japoneses: tatamis, fusuma, futón, braseros, linternas de papel… |
@@ -53,7 +53,10 @@ Al terminar algunas campañas y encargos, el personaje que te ayudó **abre su m
 ninguna misión para ti y verás la estantería **«Desbloqueado»** con remedios y objetos especiales (por ejemplo,
 ungüentos de glicina o botiquines). Los demonios no pueden comprar en ellos.
 
-## La forja
+## La forja y la Aldea de los Herreros
 
 Si pierdes tu katana, los herreros te la **reforjan** por un precio. Está explicado en
 [Tu katana nichirin](../cazador/katana.md#si-pierdes-tu-katana-la-reforja).
+
+Para **equiparte** (prendas que protegen de los demonios, máscaras, amuletos, el temple de tu katana) ve a la
+**[Aldea de los Herreros](aldea.md)**.

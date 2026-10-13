@@ -80,6 +80,10 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
 ??? question "¿Dónde compro comida?"
     En la tienda de **Kohei**, en Tokio. [Ver tiendas](economia/tiendas.md).
 
+??? question "¿Dónde consigo armadura y equipo?"
+    En la **Aldea de los Herreros**: Kojiro forja las prendas, Kotetsu los amuletos y Hotaru Haganezuka templa tu katana.
+    Lo más fuerte pide planos que sueltan los demonios muy de vez en cuando. [Ver la Aldea](economia/aldea.md).
+
 ## Demonios
 
 ??? question "¿Cómo me convierto en demonio?"

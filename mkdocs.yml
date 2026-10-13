@@ -154,6 +154,7 @@ nav:
   - Economía:
       - economia/index.md
       - Tiendas y forja: economia/tiendas.md
+      - La Aldea de los Herreros: economia/aldea.md
       - El Mercado: economia/mercado.md
       - Casas de alquiler: economia/casas.md
       - Cajas y objetos: economia/objetos.md

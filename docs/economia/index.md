@@ -41,6 +41,7 @@ Con un **[rango VIP](../vip.md)** todo lo que paga el servidor (misiones, encarg
 | [Viajes](../mundo/viajar.md) en cuervo | 60 + 0,4 por bloque (máximo 1.200; VIP, la mitad) |
 | [Tiendas](tiendas.md) | Comida, provisiones, muebles y materiales |
 | [Reforja](../cazador/katana.md#si-pierdes-tu-katana-la-reforja) de tu katana | Desde 4.000 |
+| [Equipo de la Aldea](aldea.md) | Prendas de 1.000 a 55.000, amuletos de 400 a 42.000, templar la katana de 1.000 a 15.000 |
 | Fundar un [clan](../social/clanes.md) | 5.000 |
 | Comisión del [Mercado](mercado.md) | 5 % de cada venta |
 
