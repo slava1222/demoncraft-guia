@@ -75,4 +75,7 @@ mientras las llevas encima (en un duelo no cuentan). No van ligadas: se pueden r
 
 ## Si mueres
 
-No pierdes el inventario ni el dinero. Reapareces en la casa de los Kamado con 10 segundos de protección.
+No pierdes el inventario ni el dinero. Verás caer a tu personaje (la espada se le escapa de la mano, los ojos se le
+cierran) y **despertarás vendado en una cama del Hospital de Tokio**: los Kakushi te han traído hasta allí. Mientras
+despiertas nadie puede hacerte daño. Si tienes prisa, **mantén ESPACIO** un segundo para saltar cualquiera de las dos
+escenas.

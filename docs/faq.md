@@ -28,8 +28,8 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
 ## Jugando
 
 ??? question "¿Pierdo cosas al morir?"
-    No. Conservas tu inventario y tu dinero. El cazador reaparece en la casa de los Kamado; el demonio, en el castillo
-    (perdiendo algo de la sangre que llevaba hacia el siguiente rango).
+    No. Conservas tu inventario y tu dinero. El cazador despierta vendado en el Hospital de Tokio; el demonio, en el
+    castillo (perdiendo algo de la sangre que llevaba hacia el siguiente rango).
 
 ??? question "No sé qué hacer ahora"
     Mira la **tarjeta de arriba a la derecha** (te dice qué hacer y hacia dónde ir) o abre **K → Misiones** y pulsa

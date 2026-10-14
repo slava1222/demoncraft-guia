@@ -38,7 +38,8 @@ El mapa está hecho a mano y es igual para todos. Por eso:
 ## Al morir
 
 - **No pierdes tu inventario ni tu dinero.** Los objetos ligados vuelven siempre contigo.
-- Tras la pantalla de muerte, el **cazador** reaparece en la casa de los Kamado, con 10 segundos de protección.
+- El **cazador** despierta vendado en el **Hospital de Tokio** (verás una escena de tu caída y otra del despertar;
+  mantén ESPACIO para saltarlas). Mientras despierta está protegido.
 - El **demonio** reaparece en el castillo y pierde parte de la sangre que llevaba hacia el siguiente rango (nunca baja
   de rango). [Más sobre el demonio](../demonio/sangre.md).
 
