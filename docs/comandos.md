@@ -45,7 +45,11 @@ description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta
 | Comando | Qué hace |
 |---|---|
 | `/pagar <jugador> <cantidad>` | Pagar a otro jugador conectado: te enseña el pago y pulsas **[✔ PAGAR]**. [Ver](economia/index.md#puedo-darle-dinero-a-otro-jugador) |
-| `/rentar <casa>` | Alquilar o renovar una casa (el nombre está en su cartel). [Ver](economia/casas.md) |
+| `/casa` | Tu casa: los días que te quedan, pagar más, tus compañeros. Junto a la placa de una casa, la tecla **I**. [Ver](economia/casas.md) |
+| `/casa ver <casa>` · `/casa ir <casa>` | Ver una casa desde cualquier sitio · ir hasta su puerta con el cuervo |
+| `/casa pagar <días>` · `/casa automatico si\|no` | Pagar días de tu casa · el pago automático |
+| `/casa invitar <jugador>` · `aceptar` · `rechazar` | Vivir juntos (hasta 4 compañeros) |
+| `/casa quitar <jugador>` · `/casa salir` · `/casa dejar` | Quitar a un compañero · irte de la casa en la que vives · dejar tu casa |
 | `/mercado` | Abrir el Mercado (también `/subastas`). [Ver](economia/mercado.md) |
 | `/buy` | Abrir la tienda de rangos y extras. [Ver](vip.md) |
 

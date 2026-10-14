@@ -46,7 +46,8 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
     guarda en reserva y se te suma al ascender. [Ver rangos](cazador/rangos.md#dias-de-servicio).
 
 ??? question "No puedo abrir cofres ni romper bloques"
-    El mapa está protegido: solo funcionan los cofres y la construcción **dentro de tu casa de alquiler**.
+    El mapa está protegido: solo funcionan los cofres y la construcción **dentro de la casa en la que vives** (la tuya o la de
+    quien te invitó).
     [Ver casas](economia/casas.md).
 
 ??? question "No puedo retar a duelo a nadie"
@@ -59,7 +60,8 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
     Los objetos de misión importantes van ligados y no se pierden. Si aun así te falta uno, pide ayuda al staff.
 
 ??? question "Mi casa ha desaparecido"
-    Se te acabó el alquiler. Todo lo que tenías dentro está en tu **buzón**: K → Subastas → Buzón.
+    Se acabó lo pagado y pasaron los **3 días de mora**. Todo lo que tenías dentro está en tu **buzón**: K → Subastas → Buzón.
+    Para que no pase, paga días con `/casa` o deja puesto el pago automático.
 
 ??? question "No veo los mensajes del chat"
     Con la K (o cualquier menú del servidor) abierta no se ve el chat. Ciérrala.

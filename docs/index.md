@@ -91,5 +91,5 @@ duelos, los clanes y la economía entre jugadores.
 | **Tienda** | [Rangos de apoyo y extras](vip.md) |
 
 !!! tip "¿No sabes para qué sirve algo?"
-    Usa el **buscador** de arriba: escribe lo que ves en el juego (por ejemplo «aliento», «Mercado» o «/rentar») y te
+    Usa el **buscador** de arriba: escribe lo que ves en el juego (por ejemplo «aliento», «Mercado» o «/casa») y te
     lleva a la parte de la guía que lo explica.
