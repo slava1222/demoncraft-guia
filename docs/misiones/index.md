@@ -76,4 +76,4 @@ campañas también ves la lista de objetivos y, si hay prisa, un reloj.
 ## Recompensas
 
 Dinero (*«+X a tu banco»*), **méritos** para tu rango, objetos, **títulos** y, al aprender respiraciones o forjar tu
-katana, sus tarjetas especiales. Con un [rango VIP](../vip.md) las misiones pagan un 25 % más.
+katana, sus tarjetas especiales. Con un [rango VIP](../vip.md) las misiones pagan un 25 % más (salvo el Amanecer, que es solo de aspecto).

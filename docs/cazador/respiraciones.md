@@ -49,7 +49,7 @@ pedir cada una:
 | **Cacerías** | Demonios y jefes que hayas matado tú (las arañas del Monte Natagumo no cuentan). |
 | **Días de servicio** | A partir de la 4ª forma. Un día cuenta cuando juegas 30 minutos en el mismo día. |
 | **Maestría** | La última forma del Agua, la Llama y la Niebla se aprende con un Pilar. |
-| **Rango de apoyo** | Desde la **7ª** forma de cada lista hace falta un [rango VIP](../vip.md). |
+| **Rango de apoyo** | Desde la **7ª** forma de cada lista hace falta un [rango VIP](../vip.md) (cualquiera menos el Amanecer, que es solo de aspecto). |
 
 En **K → Respiración** ves el estado de cada forma: **bloqueada**, **disponible** (y lo que le falta, por ejemplo
 *45/60 cacerías*), **desbloqueada**, **elegida** («En tu hoja») o **activa** («En curso»).

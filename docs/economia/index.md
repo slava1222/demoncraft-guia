@@ -28,7 +28,8 @@ description: Cómo funciona el dinero en DemonCraft - dónde ver tu saldo, todas
 | **Temporada del dojo** | 15.000 / 8.000 / 4.000 para los tres primeros del mes. |
 | **Apuestas** en los duelos | Si aciertas, te repartes lo que pierden los demás. |
 
-Con un **[rango VIP](../vip.md)** todo lo que paga el servidor (misiones, encargos, noche, Luna) es un **25 % más**.
+Con un **[rango VIP](../vip.md)** todo lo que paga el servidor (misiones, encargos, noche, Luna) es un **25 % más** (salvo con el
+Amanecer, que es solo de aspecto).
 
 !!! demonio "Si eres demonio"
     Tus misiones y tus encargos de la noche también pagan. No tienes recompensa nocturna, Luna de Sangre ni Caja del Cuartel.
@@ -38,7 +39,7 @@ Con un **[rango VIP](../vip.md)** todo lo que paga el servidor (misiones, encarg
 | Gasto | Precio |
 |---|---|
 | [Casa de alquiler](casas.md) | 20.000 cada 30 días |
-| [Viajes](../mundo/viajar.md) en cuervo | 60 + 0,4 por bloque (máximo 1.200; VIP, la mitad) |
+| [Viajes](../mundo/viajar.md) en cuervo | 60 + 0,4 por bloque (máximo 1.200; VIP, la mitad, salvo el Amanecer) |
 | [Tiendas](tiendas.md) | Comida, provisiones, muebles y materiales |
 | [Reforja](../cazador/katana.md#si-pierdes-tu-katana-la-reforja) de tu katana | Desde 4.000 |
 | [Equipo de la Aldea](aldea.md) | Prendas de 1.000 a 55.000, amuletos de 400 a 42.000, templar la katana de 1.000 a 15.000 |
