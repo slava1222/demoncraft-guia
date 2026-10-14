@@ -88,6 +88,8 @@ description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta
 |---|---|
 | `/vip info` | Tu rango y tus ventajas. |
 | `/vip mascota` | Llamar o despedir a tu mascota. |
+| `/vip mascota <cuál>` | Con varios rangos: elegir tu mascota (`cuervo`, `zorro`, `mariposa`, `farol`, `dragon` o `ropa`). |
+| `/vip titulo` | Con varios rangos: elegir el rango que enseñas (sobre tu cabeza, en el chat y en tu título). |
 | `/kit` · `/kit <id>` | Ver tus kits · recoger el kit de tu rango (cada semana; el del Amanecer, cada mes). |
 
 [Todo sobre los rangos VIP](vip.md)

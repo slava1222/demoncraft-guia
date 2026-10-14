@@ -143,12 +143,28 @@ En el tatami del dojo no cuentan.
 - **Si el rango caduca:** la ropa se queda contigo sin efectos, la katana del kit se va y el título se queda.
 - **El Amanecer** no tiene ninguno de estos efectos: su equipo es solo aspecto.
 
+## Si tienes varios rangos
+
+Tú eliges qué rango enseñas y qué mascota te acompaña:
+
+- **`/vip titulo`**: tus títulos VIP para pulsar. El que elijas sale en **todo**: la línea sobre tu cabeza, el prefijo del chat,
+  tu nombre en los mensajes del servidor, tu anuncio al entrar y tu título. También lo eliges poniéndote su título en
+  **K → Títulos**.
+- **`/vip mascota <cuál>`**: `cuervo`, `zorro`, `mariposa`, `farol` o `dragon`. Al llamar a tu mascota con `/vip mascota` verás
+  las demás para cambiar pulsando. Seas cazador o demonio, te acompaña cualquiera de las de tus rangos.
+- Con **`ropa`** (`/vip titulo ropa`, `/vip mascota ropa`) vuelves a lo de siempre: lo del conjunto que llevas puesto.
+
+Elegir no cambia tus ventajas: los efectos siguen siendo los del conjunto que llevas puesto. Un rango nuevo se pone a la vista
+con su mascota en cuanto te llega.
+
 ## Comandos
 
 | Comando | Qué hace |
 |---|---|
 | `/vip info` | Tu rango, tus ventajas y cuándo te toca el próximo kit. |
 | `/vip mascota` | Llama o despide a tu mascota. |
+| `/vip mascota <cuál>` | Con varios rangos, elige qué mascota te acompaña (`ropa`: la de tu conjunto). |
+| `/vip titulo` | Con varios rangos, elige qué rango enseñas (`/vip titulo <rango>`, o `ropa`). |
 | `/kit` | Lista tus kits y cuándo puedes recogerlos. |
 | `/kit <id>` | Recoge el kit de tu rango (una vez cada 7 días; el del Amanecer, una vez al mes; necesitas hueco en el inventario). |
 
