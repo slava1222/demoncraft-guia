@@ -68,10 +68,13 @@ mientras las llevas encima (en un duelo no cuentan). No van ligadas: se pueden r
 ## PvP
 
 - **Entre cazadores** solo hay combate en **duelo**, en el [dojo](../social/duelos.md). Allí los dos entráis iguales y
-  nadie pierde nada.
+  nadie pierde nada (con los mismos topes de daño que fuera).
 - **Demonios contra cazadores**: en todo el mapa, salvo en los refugios (bosques de glicinas y la casa de los Kamado) y
   contra cazadores que aún no tienen su katana.
-- Fuera del dojo, en PvP la **armadura cuenta la mitad** y hay un tope de daño por golpe y por segundo.
+- Fuera del dojo, en PvP la **armadura cuenta la mitad** y nadie cae de una ráfaga: como mucho **5 de vida por golpe**, **7 por
+  segundo** y, de un mismo rival, **12 cada 10 segundos** (lo que pase entra muy rebajado). Cuenta todo lo suyo: sus técnicas, lo que
+  invoca, el frío, el veneno o la marchitez que te deje y la caída si te lanzó por los aires. Dos rivales a la vez son más peligrosos que uno.
+- Entre jugadores, lo que te deja sin pelear (lentitud fuerte, debilidad, ceguera, náusea, quedarte clavado) dura **2 segundos** como mucho.
 
 ## Si mueres
 

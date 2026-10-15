@@ -17,7 +17,7 @@ Lo deciden tus respuestas a las **seis preguntas** de Muzan y **no se cambia** j
 | 氷 **Linaje del Hielo** | Hielo que congela, lotos helados y aliados de cristal. |
 | 破 **Linaje del Puño** | Puñetazos a distancia, contragolpes y movimientos rápidos. |
 | 喜怒哀楽 **Linaje de las Emociones** | Rayos, abanicos, lanzas y alas. |
-| 壺 **Linaje de las Vasijas** | Peces, agujas y prisiones de agua. |
+| 壺 **Linaje de las Vasijas** | Peces (como mucho dos a la vez; se van si te desconectas), agujas y prisiones de agua. |
 | 妓 **Linaje de los Hermanos** | Hoces de sangre voladoras y cintas. |
 
 Cada linaje tiene además su **golpe a mano desnuda** (clic izquierdo) con un efecto propio.

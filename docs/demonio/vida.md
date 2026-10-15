@@ -55,7 +55,10 @@ viajas a los lugares que ya descubriste, al **Castillo Infinito** y a la **salid
 - Puedes estar en un **clan** con cazadores. Los grados del demonio tienen sus propios nombres (Siervo, Colmillo, Veterano, Luna del Clan).
 - Cada demonio del clan conectado recibe un **10 %** de la sangre que cazas.
 - **Duelos** en el dojo: desde tu primer rito (o si ya tenías katana). Peleas con tus artes, sin sol ni regeneración.
-- **PvP libre** contra cazadores que ya tengan su katana, fuera de los refugios.
+- **PvP libre** contra cazadores que ya tengan su katana, fuera de los refugios, con los mismos topes de daño que ellos (como mucho
+  5 por golpe, 7 por segundo y 12 cada 10 segundos de un mismo rival).
+- Desde que te conviertes tienes **carne de demonio** (armadura que crece con tu sangre; si llevas armadura, solo completa lo que
+  falte) y **garras** a mano desnuda. Contra un cazador, tu zarpazo pega más fuerte: su uniforme lo frena mucho.
 
 ## Tu ropa
 
