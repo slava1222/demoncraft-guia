@@ -18,6 +18,10 @@ los demonios. Y una noche, alguien te ofrecerá su sangre: puedes rechazarla… 
 El mapa está hecho a mano y no se rompe ni se construye en él. Todo gira alrededor de las misiones, el combate, los
 duelos, los clanes y la economía entre jugadores.
 
+!!! tip "Halloween 2026: hasta el 1 de noviembre"
+    Cada noche salen de la tierra los **Kabocha-oni**. Cázalos para ganar el kit de Halloween de tu bando, la Hoja de la
+    Calabaza o el Farol del Rey Calabaza, y decoraciones para tu casa. [Ver el evento](eventos/halloween.md)
+
 <div class="grid cards" markdown>
 
 -   :material-door-open:{ .lg .middle } **[Empezar](empezar/index.md)**

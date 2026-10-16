@@ -86,6 +86,10 @@ una noche. Solo viene si:
 
     Dinero, tiendas, Mercado, la biwa de Nakime, clanes y encargos de la noche.
 
+-   **[El Mercado de la Noche](mercado.md)**
+
+    Tu equipo: ropa, amuletos, la botica y las garras endurecidas, en el Castillo Infinito.
+
 -   **[Volver a ser humano](cura.md)**
 
     La cura: qué pide, qué conservas y cuánto cuesta cada vuelta.

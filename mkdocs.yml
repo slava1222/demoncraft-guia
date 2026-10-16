@@ -125,6 +125,7 @@ extra:
 
 nav:
   - Inicio: index.md
+  - Halloween 2026: eventos/halloween.md
   - Empezar:
       - empezar/index.md
       - Tus primeros minutos: empezar/primeros-pasos.md
@@ -143,6 +144,7 @@ nav:
       - Sangre, rangos y árbol: demonio/sangre.md
       - Linajes y artes: demonio/artes.md
       - La vida de un demonio: demonio/vida.md
+      - El Mercado de la Noche: demonio/mercado.md
       - Volver a ser humano: demonio/cura.md
   - Misiones:
       - misiones/index.md

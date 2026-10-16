@@ -19,6 +19,10 @@ description: Dónde conseguir equipo en DemonCraft - las prendas de Kojiro, los 
 Háblales con **clic derecho**. Si alguno tiene una misión pendiente contigo, de pie te habla de la misión: **agáchate
 (++shift++) y háblale** para ver su tienda.
 
+!!! demonio "Si eres demonio"
+    Los artesanos de la Aldea no atienden a demonios: tu equipo está en el [Mercado de la Noche](../demonio/mercado.md),
+    en el Castillo Infinito.
+
 <div class="galeria" markdown>
 <figure markdown="span">
   ![El taller de Kojiro con el probador](../assets/img/capturas/aldea-kojiro.webp){ loading=lazy }

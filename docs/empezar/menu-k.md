@@ -17,6 +17,7 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
 |---|---|---|
 | **Misiones** | Tu diario: historia, respiraciones y campañas. *Seguir*, *Pausar* y ver cada paso. | [Misiones](../misiones/index.md) |
 | **Encargos** | Los encargos que tienes abiertos y los rumores de quién necesita ayuda. | [Encargos](../misiones/encargos.md) |
+| **Halloween** | Solo durante el evento: tu camino de las calabazas, la tienda de la Anciana y la clasificación. | [Halloween](../eventos/halloween.md) |
 | **Respiración** | El árbol de respiraciones: cuál tienes activa, tus formas y el entrenamiento. | [Respiraciones](../cazador/respiraciones.md) |
 | **Lugares** | Los lugares que has descubierto, con el precio del viaje y el botón **Ir**. | [Viajar](../mundo/viajar.md) |
 | **Títulos** | Todos los títulos, cómo se consiguen y cuál llevas puesto. | [Títulos](../social/chat.md#titulos) |
@@ -30,7 +31,7 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
 !!! demonio "Si eres demonio"
     Tu K cambia: no tienes *Respiración*, *Rango* ni *Caja*, y a cambio tienes **Sangre** (tu rango de sangre, el árbol
     y los encargos de la noche) y **Artes** (tus artes de sangre y sus teclas). *Encargos* pasa a ser «Susurros de la
-    noche» y *Lugares*, «Las puertas de Nakime». [Ver el camino del demonio](../demonio/index.md).
+    noche» y *Lugares*, «Las puertas de Nakime» (con el [Mercado de la Noche](../demonio/mercado.md)). [Ver el camino del demonio](../demonio/index.md).
 
 <div class="galeria" markdown>
 <figure markdown="span">

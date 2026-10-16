@@ -53,6 +53,13 @@ description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta
 | `/mercado` | Abrir el Mercado (también `/subastas`). [Ver](economia/mercado.md) |
 | `/buy` | Abrir la tienda de rangos y extras. [Ver](vip.md) |
 
+## Halloween 2026 (hasta el 1 de noviembre)
+
+| Comando | Qué hace |
+|---|---|
+| `/halloween` | La pantalla del evento: el camino de las calabazas, la tienda de la Anciana y la clasificación (también **K → Halloween**). [Ver](eventos/halloween.md) |
+| `/halloween sustos on` · `off` | Encender o apagar tus sustos. |
+
 ## Clanes
 
 | Comando | Qué hace |
