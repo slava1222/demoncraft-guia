@@ -91,6 +91,11 @@ Los tres últimos traen técnicas que no existen en ningún otro sitio del juego
 </figure>
 </div>
 
+- La **5.ª forma de la Ceniza** y la de la **Oscuridad Carmesí** atrapan y arrastran a quien está cerca y le dan siempre: no se
+  paran con el bloqueo ni con la parada, no se esquivan rodando y la defensa del demonio no las frena.
+- Con el **farol de las Ánimas** en la mano, su arte del clic derecho no alcanza a ningún jugador a más de **6 bloques**. Sin el
+  farol, con Z, X y C, y contra los demonios de la noche y los jefes, igual que siempre.
+
 ## Amanecer: el rango de aspecto
 
 ![Amanecer: la primera luz camina contigo](assets/img/vip/sello-amanecer.webp){ align=right width="260" loading=lazy }

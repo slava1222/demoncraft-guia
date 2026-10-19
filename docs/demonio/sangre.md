@@ -32,6 +32,7 @@ description: Cómo gana sangre un demonio, los diez rangos de sangre, el sol, la
 | 5 · Sombra de la Noche | 1.750 | | 10 · Sangre de Muzan | 10.000 |
 
 Cada rango te da más velocidad, un **punto del árbol** y un **punto de linaje**; cada dos rangos, un corazón más.
+Los rangos **3**, **6** y **9** abren además tus teclas ++z++, ++x++ y ++c++ ([ver](artes.md#las-teclas-se-abren-con-tu-rango)).
 Desde el rango 4 te regeneras solo de noche o bajo techo.
 
 **El sol** (a cielo abierto, de día y sin lluvia):

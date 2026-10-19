@@ -18,7 +18,7 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
 | **Misiones** | Tu diario: historia, respiraciones y campañas. *Seguir*, *Pausar* y ver cada paso. | [Misiones](../misiones/index.md) |
 | **Encargos** | Los encargos que tienes abiertos y los rumores de quién necesita ayuda. | [Encargos](../misiones/encargos.md) |
 | **Halloween** | Solo durante el evento: tu camino de las calabazas, la tienda de la Anciana y la clasificación. | [Halloween](../eventos/halloween.md) |
-| **Respiración** | El árbol de respiraciones: cuál tienes activa, tus formas y el entrenamiento. | [Respiraciones](../cazador/respiraciones.md) |
+| **Respiración** | El árbol de respiraciones: cuál tienes activa, tus formas, el entrenamiento y tus teclas Z, X y C. | [Respiraciones](../cazador/respiraciones.md) |
 | **Lugares** | Los lugares que has descubierto, con el precio del viaje y el botón **Ir**. | [Viajar](../mundo/viajar.md) |
 | **Títulos** | Todos los títulos, cómo se consiguen y cuál llevas puesto. | [Títulos](../social/chat.md#titulos) |
 | **Ranking** | Clasificaciones: duelos, demonios cazados, jefes y los demonios más temidos. | [Duelos](../social/duelos.md) |
@@ -67,8 +67,8 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
 ## La pantalla mientras juegas
 
 <figure markdown="span">
-  ![La pantalla de juego con todos sus elementos](../assets/img/capturas/aliento-listo.webp){ loading=lazy }
-  <figcaption>Arriba a la izquierda el minimapa; arriba a la derecha la tarjeta de misión; abajo, la barra de vida y, con la katana en la mano, la barra del aliento.</figcaption>
+  ![La pantalla de juego con todos sus elementos](../assets/img/capturas/pantalla-juego.webp){ loading=lazy }
+  <figcaption>Arriba a la izquierda el minimapa; arriba a la derecha la tarjeta de misión; abajo, la barra de vida, tus teclas (C.D., Z, X y C) y, a la derecha, la E del golpe crítico.</figcaption>
 </figure>
 
 | Elemento | Dónde | Qué te dice |
@@ -76,8 +76,8 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
 | **Minimapa** | Arriba a la izquierda | Lo que te rodea y tus coordenadas. El mapa grande, con ++m++. |
 | **Tarjeta de misión** | Arriba a la derecha | El paso que sigues, quién lo da, la flecha y la distancia. |
 | **Barra de vida** | Encima de la barra de objetos | Tu vida en números («20/20») y tu armadura. Con poca vida, los bordes laten en rojo. |
-| **Barra del aliento** | Abajo a la derecha | Cuánto falta para poder lanzar otra forma («6,8 s») o **LISTO**. Solo con la katana en la mano. |
-| **Barra de artes** | Abajo a la izquierda | Solo demonios: tus artes en clic derecho, Z, X y C con su espera. |
+| **Tus teclas** | Abajo a la izquierda | Lo que lanzas con el clic derecho (**C.D.**), ++z++, ++x++ y ++c++: tus formas si eres cazador, tus artes si eres demonio. Cada una con su espera (la sombra baja y cuenta los segundos) y un **candado** si tu rango aún no la abre. Debajo, una raya: los 2,5 s entre dos técnicas. |
+| **Golpe crítico** | A la derecha de la barra de objetos | Solo cazadores: **突** cuando está listo o los segundos que le faltan. [Ver el golpe crítico](../cazador/combate.md#el-golpe-critico). |
 | **Tarjetas grandes** | En el centro | Capítulos, «LUGAR DESCUBIERTO», respiración aprendida… |
 
 ## La lista de jugadores (++tab++)

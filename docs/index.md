@@ -22,6 +22,15 @@ duelos, los clanes y la economía entre jugadores.
     Cada noche salen de la tierra los **Kabocha-oni**. Cázalos para ganar el kit de Halloween de tu bando, la Hoja de la
     Calabaza o el Farol del Rey Calabaza, y decoraciones para tu casa. [Ver el evento](eventos/halloween.md)
 
+!!! tip "Novedades de la actualización 1.1 (19 de octubre)"
+    La katana pega un **70 % más rápido** y también **corriendo**; con tres golpes seguidos a un demonio llega el
+    [golpe crítico](cazador/combate.md#el-golpe-critico) con la ++e++. Los cazadores estrenan las
+    [teclas Z, X y C](cazador/respiraciones.md#las-teclas-z-x-y-c) y los demonios las abren con su
+    [rango de sangre](demonio/artes.md#las-teclas-se-abren-con-tu-rango). Las formas esperan **la mitad**, ya no hay barra del
+    aliento (la espera se ve en cada tecla), o te cubres o atacas, y en el dojo hay un
+    [muñeco de práctica](social/duelos.md#el-muneco-de-practica). Salirse en plena pelea ya no salva:
+    [ver el PvP](cazador/combate.md#pvp).
+
 <div class="grid cards" markdown>
 
 -   :material-door-open:{ .lg .middle } **[Empezar](empezar/index.md)**

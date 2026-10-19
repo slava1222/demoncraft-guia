@@ -1,11 +1,11 @@
 ---
 title: Combate
-description: Cómo funciona el combate en DemonCraft - combos, bloqueo y esquiva, parkour, daño de las formas, curación, reliquias y PvP.
+description: Cómo funciona el combate en DemonCraft - combos, la katana en carrera, el golpe crítico, bloqueo y esquiva, parkour, daño de las formas, curación, reliquias y PvP.
 ---
 
 # Combate
 
-<p class="dc-entradilla">Combos con clic izquierdo, formas con clic derecho, bloqueo y esquiva. Lo demás es saber cuándo usar cada cosa.</p>
+<p class="dc-entradilla">Combos con clic izquierdo, formas con clic derecho y con Z, X y C, bloqueo, esquiva y el golpe crítico con la E. Lo demás es saber cuándo usar cada cosa.</p>
 
 ## Lo básico
 
@@ -13,18 +13,59 @@ description: Cómo funciona el combate en DemonCraft - combos, bloqueo y esquiva
 |---|---|---|
 | Atacar | ++"Clic izq."++ | Encadena golpes para hacer combos. |
 | Forma de respiración | ++"Clic der."++ | Tu técnica: mucho más daño contra demonios. |
+| Formas de otras respiraciones | ++z++ · ++x++ · ++c++ | Desde los rangos Kanoe, Hinoto y Kinoe ([ver](respiraciones.md#las-teclas-z-x-y-c)). |
+| Golpe crítico | ++e++ | Cuando sale «Pulsa E», tras tres golpes seguidos al mismo demonio. |
 | Bloquear / parar | ++f++ | Mantén para bloquear. Púlsalo **justo antes** del golpe para hacer una parada. |
 | Esquivar | ++alt++ izq. | Una voltereta rápida. |
 | Fijar objetivo | ++g++ | La cámara sigue al enemigo. |
 | Parkour | ++shift++ en el aire · ++ctrl++ en una pared | Agarrarte, deslizarte, rodar al caer, correr por paredes. |
 
-El **modo de combate** se pone solo cuando llevas un arma en la mano. Con la mano vacía o un objeto cualquiera estás en
-modo normal (el que hace falta para algunas misiones de golpear objetos).
+Siempre peleas en **modo combate**, lleves lo que lleves en la mano: cada golpe tiene su animación y su ritmo, y pulsar más
+deprisa no pega más. Para picar un bloque (o golpear el poste y la roca de un entrenamiento), míralo y pica como siempre.
+
+## La katana
+
+- Con tu **katana nichirin**, el combo del clic izquierdo va un **70 % más rápido**: unos dos golpes por segundo.
+- **Pegas corriendo**: el tajo va con los brazos y tus piernas siguen corriendo, sin perder el sprint. Para alcanzar a un
+  demonio que huye, corre y pega.
+- Quieto, el tajo te acerca un paso al enemigo, como siempre.
+
+## Cubrirse o atacar
+
+- Con el bloqueo o la parada puestos (++f++) **no sale ninguna técnica**: ni formas ni artes de sangre.
+- Mientras sale una técnica no puedes cubrirte ni esquivar.
+- Entre dos técnicas cualesquiera pasan **2,5 segundos**, para cazadores y para demonios.
+
+## El golpe crítico
+
+<ol class="pasos" markdown>
+<li markdown>**Da tres golpes seguidos al mismo demonio** con la katana (clic izquierdo, también corriendo), sin dejar pasar más de 1,5 segundos entre uno y otro.</li>
+<li markdown>Aparece **«Pulsa E»** junto a la mira: tienes **2,5 segundos** para pulsar ++e++.</li>
+<li markdown>Tu cazador **atraviesa al demonio** con la katana en una escena corta. Si le queda vida, la pelea sigue.</li>
+</ol>
+
+<figure markdown="span">
+  ![La escena del golpe crítico](../assets/img/capturas/critico-estocada.webp){ loading=lazy }
+  <figcaption>El golpe crítico: cuánto le has quitado y cuánta vida le queda.</figcaption>
+</figure>
+
+![El icono del golpe crítico: faltan 9 segundos](../assets/img/capturas/critico-espera.webp){ align=right width="96" loading=lazy }
+
+- Quita como **tres golpes en uno** a los demonios (más cuanto mejor sea tu katana) y **6 de vida** a un jugador demonio.
+  A los jefes, como cualquier golpe, no más de un cuarto de su vida.
+- Una vez cada **30 segundos**: a la derecha de la barra de objetos, el icono **突** cuenta los segundos hasta el siguiente. Si aún no toca, en vez del aviso ves cuánto falta.
+- Solo cuentan los **golpes normales que entran**: las formas, las teclas Z, X y C, un golpe bloqueado o esquivado no suman. Cada
+  demonio lleva su cuenta.
+- Vale contra los demonios de la noche, los jefes, los jugadores demonio (fuera del dojo), los Kabocha-oni de Halloween y el
+  [muñeco del dojo](../social/duelos.md#el-muneco-de-practica).
+- Sin el aviso, la ++e++ abre el inventario como siempre.
 
 ## El daño
 
 - Tu **katana nichirin** pega más que una espada normal.
-- Las **formas** hacen **2,5 veces más daño contra demonios** (y un 3 % más por cada rango del Cuerpo).
+- Las **formas** hacen **2,5 veces más daño contra demonios** (y un 3 % más por cada rango del Cuerpo); a los que no son
+  jefes, un 20 % más todavía. Cada forma pega algo más que la anterior de su respiración y **ninguna mata de un golpe**
+  ([ver](respiraciones.md#cada-forma-un-poco-mas-fuerte)).
 - Los demonios de la noche tienen un **tope de daño** por golpe: ningún demonio normal te mata de un golpe con la vida llena.
 - Las técnicas (las tuyas y las de los jefes) **no dañan** a los personajes del servidor, a los aldeanos ni a la decoración.
 
@@ -74,7 +115,14 @@ mientras las llevas encima (en un duelo no cuentan). No van ligadas: se pueden r
 - Fuera del dojo, en PvP la **armadura cuenta la mitad** y nadie cae de una ráfaga: como mucho **5 de vida por golpe**, **7 por
   segundo** y, de un mismo rival, **12 cada 10 segundos** (lo que pase entra muy rebajado). Cuenta todo lo suyo: sus técnicas, lo que
   invoca, el frío, el veneno o la marchitez que te deje y la caída si te lanzó por los aires. Dos rivales a la vez son más peligrosos que uno.
+- Las **formas** tienen topes algo más altos cuanto mayor es su número (la última, hasta 12 por golpe), pero una forma entera no
+  quita más del 90 % de tu vida.
 - Entre jugadores, lo que te deja sin pelear (lentitud fuerte, debilidad, ceguera, náusea, quedarte clavado) dura **2 segundos** como mucho.
+- **Al conectarte** tienes **30 segundos** en los que nada puede hacerte daño (tampoco el sol, si eres demonio); se acaban en
+  cuanto atacas, lanzas una técnica o empiezas un duelo. Si te fuiste en plena pelea y vuelves antes de 10 minutos, no los tienes.
+- **Salirse en plena pelea no salva**: si te desconectas con un golpe dado o recibido de otro jugador en los últimos
+  **30 segundos**, mueres al salir y la muerte es de ese jugador (cuenta como una muerte en PvP de verdad, con aviso para todos).
+  En los duelos no pasa.
 
 ## Si mueres
 

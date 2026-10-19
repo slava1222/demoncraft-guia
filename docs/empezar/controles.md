@@ -1,6 +1,6 @@
 ---
 title: Controles
-description: Todas las teclas de DemonCraft - combate, formas de respiración, artes de demonio, perfil, mapa, mochila y chat de voz.
+description: Todas las teclas de DemonCraft - combate, formas de respiración, teclas Z, X y C, golpe crítico, artes de demonio, perfil, mapa, mochila y chat de voz.
 ---
 
 # Controles
@@ -11,25 +11,31 @@ description: Todas las teclas de DemonCraft - combate, formas de respiración, a
 
 | Tecla | Qué hace |
 |---|---|
-| ++"Clic izq."++ | Atacar. Encadenando golpes haces combos. |
+| ++"Clic izq."++ | Atacar. Encadenando golpes haces combos. Con la katana nichirin, también corriendo. |
 | ++"Clic der."++ | **Cazador:** lanzar la forma de respiración elegida (con la katana nichirin en la mano principal). |
 | ++r++ / ++shift+r++ | Pasar a la forma siguiente / a la anterior. |
+| ++z++ · ++x++ · ++c++ | **Cazador:** las formas de otras respiraciones que hayas puesto en cada tecla (desde los rangos Kanoe, Hinoto y Kinoe; [cómo](../cazador/respiraciones.md#las-teclas-z-x-y-c)). |
+| ++e++ | **Cazador:** cuando sale «Pulsa E», el [golpe crítico](../cazador/combate.md#el-golpe-critico). Sin el aviso, abre el inventario como siempre. |
 | ++f++ (mantener) | Bloquear. Si lo pulsas justo antes del golpe, haces una **parada**. |
 | ++alt++ izquierdo | Esquivar (voltereta). |
 | ++g++ | Fijar el objetivo. |
 | ++h++ | **La Marca del Cazador** (desde el rango Kinoe). |
 | ++y++ | Habilidades de combate. |
 
-!!! info "El modo de combate cambia solo"
-    Con un arma en la mano estás en **modo combate** (combos, bloqueo y esquiva). Con cualquier otra cosa o la mano
-    vacía, en **modo normal**. No hay que cambiarlo a mano.
+!!! info "Siempre en modo combate"
+    Peleas siempre en **modo combate** (combos, bloqueo y esquiva), lleves lo que lleves en la mano: cada golpe tiene su
+    animación y su ritmo, y pulsar más deprisa no pega más. Para picar o romper un bloque, **míralo** y pica como siempre.
+
+!!! warning "O te cubres o atacas"
+    Con el bloqueo puesto (++f++) no sale ninguna técnica (ni formas ni artes), y entre dos técnicas cualesquiera pasan
+    **2,5 segundos**.
 
 ## Demonio
 
 | Tecla | Qué hace |
 |---|---|
 | ++"Clic der."++ con la mano vacía | Lanzar tu **arte principal** (apuntando al aire o a un enemigo). |
-| ++z++ · ++x++ · ++c++ | Lanzar el arte que hayas puesto en cada tecla ([cómo elegirlas](../demonio/artes.md)). |
+| ++z++ · ++x++ · ++c++ | Lanzar el arte que hayas puesto en cada tecla. Se abren con tu rango de sangre: Z en el 3, X en el 6 y C en el 9 ([cómo elegirlas](../demonio/artes.md#ponerlas-en-las-teclas)). |
 | Agachado + ++"Clic der."++ sobre un vecino | Devorar. |
 
 ## Movimiento (parkour)

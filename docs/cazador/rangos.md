@@ -14,17 +14,18 @@ description: Los once rangos del Cuerpo de cazadores, cuántos méritos y días 
 | 癸 Mizunoto | 0 | 0 | El primer paso. |
 | 壬 Mizunoe | 50 | 1 | — |
 | 辛 Kanoto | 125 | 2 | +1 corazón y +1 armadura · *Destello de caza* |
-| 庚 Kanoe | 250 | 3 | Salto de cazador I · *Estela al esprintar* |
+| 庚 Kanoe | 250 | 3 | Salto de cazador I · *Estela al esprintar* · **tecla ++z++** |
 | 己 Tsuchinoto | 400 | 4 | +1 corazón y +1 armadura · paso veloz II · *Aura al caminar* |
 | 戊 Tsuchinoe | 600 | 5 | — |
-| 丁 Hinoto | 850 | 7 | +1 corazón y +1 armadura · paso veloz III · salto II |
+| 丁 Hinoto | 850 | 7 | +1 corazón y +1 armadura · paso veloz III · salto II · **tecla ++x++** |
 | 丙 Hinoe | 1.150 | 9 | — |
 | 乙 Kinoto | 1.500 | 11 | +1 corazón y +1 armadura · paso veloz IV |
-| 甲 Kinoe | 2.000 | 14 | Salto III · **despierta la Marca del Cazador** |
+| 甲 Kinoe | 2.000 | 14 | Salto III · **despierta la Marca del Cazador** · **tecla ++c++** · sin daño de caída |
 | 柱 Hashira | 3.000 | 18 | +1 corazón y +1 armadura · paso veloz V · título «Pilar» |
 
 **Además, cada rango** te da un 3 % más de velocidad, un 3 % más de daño de tus formas contra demonios, un 3 % menos de
-espera del aliento y un 5 % más de botín nocturno.
+espera de las formas y un 5 % más de botín nocturno. Las teclas ++z++, ++x++ y ++c++ son para formas de otras respiraciones
+([ver](respiraciones.md#las-teclas-z-x-y-c)).
 
 ## Días de servicio
 
@@ -65,6 +66,8 @@ esprintar** y **Aura al caminar** (que cambia de aspecto en los rangos altos). Y
 
 Desde el rango **Kinoe**, pulsa ++h++: durante **20 segundos** recibes **Regeneración II**. Después necesita
 **2 minutos** de descanso. Antes de Kinoe: *«La Marca del Cazador despierta en el rango Kinoe. Todavía no.»*
+
+Desde **Kinoe**, además, **ninguna caída te hace daño** (en el tatami de un duelo, sí: allí los dos sois iguales).
 
 !!! demonio "Si te conviertes en demonio"
     Tu rango del Cuerpo se queda **congelado** (no lo pierdes). Mientras seas demonio no ganas méritos ni tienes sus

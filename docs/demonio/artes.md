@@ -1,6 +1,6 @@
 ---
 title: Linajes y artes
-description: Los seis linajes de demonio, cómo se aprenden las artes de sangre, cómo se ponen en las teclas y cómo se lanzan.
+description: Los seis linajes de demonio, cómo se aprenden las artes de sangre, qué rango de sangre abre cada tecla, cómo se ponen en ellas y cómo se lanzan.
 ---
 
 # Linajes y artes de sangre
@@ -40,6 +40,30 @@ Cada linaje tiene además su **golpe a mano desnuda** (clic izquierdo) con un ef
 En **K → Artes**, elige un arte que ya sepas (con el ratón o ++arrow-up++ ++arrow-down++) y pulsa ++z++, ++x++ o ++c++
 (o los botones *Clic der.*, *Z*, *X*, *C*) para ponerla en esa tecla. Cada arte va en una sola tecla.
 
+### Las teclas se abren con tu rango
+
+El clic derecho lo tienes desde el principio. Las otras tres se abren con tu **rango de sangre**:
+
+| Tecla | Se abre en el rango |
+|---|---|
+| ++z++ | 3 · Acechador |
+| ++x++ | 6 · Demonio Mayor |
+| ++c++ | 9 · Luna Superior |
+
+Hasta entonces, la tecla lleva un **candado** y, si la pulsas, te dice en qué rango se abre. Al subir de rango, un aviso te
+dice qué tecla se ha abierto.
+
+<div class="galeria" markdown>
+<figure markdown="span">
+  ![Tus teclas en K → Artes, con el rango que abre cada una](../assets/img/capturas/kd-teclas-rango.webp){ loading=lazy }
+  <figcaption>K → Artes: «Z · 3», «X · 6» y «C · 9», el rango de sangre que abre cada tecla.</figcaption>
+</figure>
+<figure markdown="span">
+  ![Una tecla que aún no se ha abierto](../assets/img/capturas/demonio-tecla-cerrada.webp){ loading=lazy }
+  <figcaption>Con candado: «La tecla Z se abre en el rango de sangre «Acechador» (3)».</figcaption>
+</figure>
+</div>
+
 ## Lanzarlas
 
 | Tecla | Lanza |
@@ -59,9 +83,11 @@ En **K → Artes**, elige un arte que ya sepas (con el ratón o ++arrow-up++ ++a
 </div>
 
 - Cada arte tiene su **espera**, que baja con tu rango de sangre. Peleando contra un jugador, las esperas son algo más largas.
-- No puedes lanzar dos artes a la vez.
+- No puedes lanzar dos artes a la vez: entre dos técnicas cualesquiera pasan **2,5 segundos**.
+- **O te cubres o atacas**: con el bloqueo puesto no sale ningún arte, y mientras sale una no puedes cubrirte ni esquivar.
 - Tras un arte que te lanza por los aires, la caída no te hace daño durante unos segundos.
 
 !!! vip "Señor de las Ánimas"
     El rango de apoyo de demonio **Señor de las Ánimas** te presta un linaje extra con cinco artes propias, que conviven
-    con las de tu linaje y van en las mismas teclas. [Ver los rangos VIP](../vip.md).
+    con las de tu linaje y van en las mismas teclas. Con su **farol** en la mano, el arte del clic derecho no alcanza a
+    ningún jugador a más de **6 bloques**. [Ver los rangos VIP](../vip.md).

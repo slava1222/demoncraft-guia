@@ -1,6 +1,6 @@
 ---
 title: Duelos y dojo
-description: Duelos en el Dojo de las Glicinas - requisitos, cómo retar, las reglas del tatami, la puntuación, las temporadas, las apuestas y el Trofeo del Dojo.
+description: Duelos en el Dojo de las Glicinas - requisitos, cómo retar, las reglas del tatami, la puntuación, las temporadas, las apuestas, el Trofeo del Dojo y el muñeco de práctica.
 ---
 
 # Duelos y dojo
@@ -77,6 +77,18 @@ Vuelves con `/duelo ver` otra vez.
 
 El campeón de cada mes recoge su trofeo en el dojo (**Clasificación → «✦ Reclamar trofeo»**) o con **`/duelo trofeo`**.
 Es un trofeo 3D con su nombre, el mes y sus puntos que se coloca en **su casa de alquiler**. No se vende.
+
+## El muñeco de práctica
+
+En la **galería oeste del dojo**, junto al Maestro, hay un **muñeco de práctica** para probar tus golpes, tus formas, tus artes
+y el [golpe crítico](../cazador/combate.md#el-golpe-critico), sin retar a nadie.
+
+- Tiene la vida de un jugador (**20**) y recibe exactamente lo que recibiría un jugador del otro bando sin armadura, con los
+  mismos topes del PvP.
+- Cada golpe se ve en tu barra y en su nombre («Muñeco de práctica · 9,3/20,0 ❤»).
+- **Nunca muere**: al llegar a cero dice **«¡KO!»** con el resumen de tu tanda (golpes, daño y tiempo) y vuelve a estar entero;
+  si dejas de pegarle 5 segundos, también.
+- No cuenta para nada: ni muertes, ni misiones, ni méritos.
 
 ## Comandos
 

@@ -37,9 +37,24 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
 
 ??? question "¿Por qué no me sale la forma de respiración?"
     - La katana nichirin tiene que estar en la **mano principal**.
-    - Espera a que la barra del aliento ponga **LISTO**.
+    - Espera a que su casilla (abajo a la izquierda: **C.D.**, Z, X o C) acabe de contar su espera; entre dos técnicas pasan 2,5 s.
+    - Con el bloqueo puesto (++f++) no sale ninguna técnica: o te cubres o atacas.
     - Puede que esa forma aún no sea tuya: pulsa ++r++ para elegir otra o mira qué le falta en K → Respiración.
     - La **Katana de Aprendiz** no lanza formas: necesitas tu hoja personal.
+
+??? question "¿Qué es el aviso «Pulsa E»?"
+    El **golpe crítico**: tras tres golpes seguidos con la katana al mismo demonio, tienes 2,5 segundos para pulsar ++e++ y
+    atravesarle en una escena corta. Una vez cada 30 segundos. [Ver el golpe crítico](cazador/combate.md#el-golpe-critico).
+
+??? question "No encuentro la pista de una misión"
+    Las pistas solo las ves tú. Busca el **haz de luz** que sale de ella por encima de los tejados y, cuando la tarjeta ponga
+    «Has llegado», busca a tu alrededor. Si llevas 45 segundos buscando, la flecha de la tarjeta te lleva hasta ella. Si alguien
+    construye encima de una pista, sale en otro sitio.
+
+??? question "¿Qué pasa si me desconecto en plena pelea?"
+    Si te sales con un golpe dado o recibido de otro jugador en los últimos 30 segundos, **mueres al salir** y la muerte es de
+    ese jugador. En los duelos no pasa. Al conectarte tienes 30 segundos de protección, pero no si te fuiste en plena pelea y
+    vuelves antes de 10 minutos. [Ver el PvP](cazador/combate.md#pvp).
 
 ??? question "¿Por qué no me suben los méritos?"
     Te faltan **días de servicio** para el siguiente rango. Juega 30 minutos ese día: lo que ganes con misiones se

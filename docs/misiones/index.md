@@ -46,10 +46,21 @@ campañas también ves la lista de objetivos y, si hay prisa, un reloj.
 | Aguantar la noche | Unos 8 minutos de noche sin morir, donde quieras. Si te mata otro jugador, no se pierde. |
 | Quedarse en un sitio | Salir pausa el tiempo, no lo reinicia. |
 | Golpes, carreras, entrenamientos | Golpear un poste o una roca (no se rompen), correr, o un entrenamiento del aliento. |
-| **Investigar** | **Agáchate 2 segundos** junto a la pista (o clic derecho al bloque). Las pistas solo las ves tú. |
+| **Investigar** | **Agáchate 2 segundos** junto a la pista (o clic derecho al bloque). Las pistas solo las ves tú: un **haz de luz** las señala desde lejos, por encima de los tejados, y si llevas 45 segundos buscando, la flecha te lleva hasta ella. |
 | **Rastrear / patrullar** | Sigue las huellas o la columna de luz, en orden. |
 | **Rescatar, escoltar, defender** | Acaba con los atacantes, acompaña al personaje o aguanta la posición. |
 | **Decisiones ⚖** | En algunas conversaciones eliges de verdad: cambia lo que pasa y lo que ganas. |
+
+<div class="galeria" markdown>
+<figure markdown="span">
+  ![Un haz de luz señala la pista](../assets/img/capturas/pista-haz.webp){ loading=lazy }
+  <figcaption>El haz de luz de una pista: se ve desde toda la zona y solo lo ves tú.</figcaption>
+</figure>
+<figure markdown="span">
+  ![La flecha lleva hasta la pista](../assets/img/capturas/pista-flecha.webp){ loading=lazy }
+  <figcaption>Tras 45 s buscando, la tarjeta te da el rumbo y los bloques hasta la pista.</figcaption>
+</figure>
+</div>
 
 !!! warning "Inventario lleno = el paso espera"
     Si no tienes sitio para la recompensa, el paso **no se completa**: el personaje te dice cuántos huecos necesitas.
