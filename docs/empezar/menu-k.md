@@ -68,7 +68,7 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
 
 <figure markdown="span">
   ![La pantalla de juego con todos sus elementos](../assets/img/capturas/pantalla-juego.webp){ loading=lazy }
-  <figcaption>Arriba a la izquierda el minimapa; arriba a la derecha la tarjeta de misión; abajo, la barra de vida, tus teclas (C.D., Z, X y C) y, a la derecha, la E del golpe crítico.</figcaption>
+  <figcaption>Arriba a la izquierda el minimapa; arriba a la derecha la tarjeta de misión; abajo, la barra de vida, tus teclas (C.D., Z, X y C) y la E del golpe crítico.</figcaption>
 </figure>
 
 | Elemento | Dónde | Qué te dice |
@@ -77,7 +77,7 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
 | **Tarjeta de misión** | Arriba a la derecha | El paso que sigues, quién lo da, la flecha y la distancia. |
 | **Barra de vida** | Encima de la barra de objetos | Tu vida en números («20/20») y tu armadura. Con poca vida, los bordes laten en rojo. |
 | **Tus teclas** | Abajo a la izquierda | Lo que lanzas con el clic derecho (**C.D.**), ++z++, ++x++ y ++c++: tus formas si eres cazador, tus artes si eres demonio. Cada una con su espera (la sombra baja y cuenta los segundos) y un **candado** si tu rango aún no la abre. Debajo, una raya: los 2,5 s entre dos técnicas. |
-| **Golpe crítico** | A la derecha de la barra de objetos | Solo cazadores: **突** cuando está listo o los segundos que le faltan. [Ver el golpe crítico](../cazador/combate.md#el-golpe-critico). |
+| **Golpe crítico** | Junto a tus teclas (si no cabe, a la derecha de la barra de objetos) | Solo cazadores: **突** cuando está listo o los segundos que le faltan. [Ver el golpe crítico](../cazador/combate.md#el-golpe-critico). |
 | **Tarjetas grandes** | En el centro | Capítulos, «LUGAR DESCUBIERTO», respiración aprendida… |
 
 ## La lista de jugadores (++tab++)

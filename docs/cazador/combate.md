@@ -53,7 +53,7 @@ deprisa no pega más. Para picar un bloque (o golpear el poste y la roca de un e
 
 - Quita como **tres golpes en uno** a los demonios (más cuanto mejor sea tu katana) y **6 de vida** a un jugador demonio.
   A los jefes, como cualquier golpe, no más de un cuarto de su vida.
-- Una vez cada **30 segundos**: a la derecha de la barra de objetos, el icono **突** cuenta los segundos hasta el siguiente. Si aún no toca, en vez del aviso ves cuánto falta.
+- Una vez cada **30 segundos**: el icono **突**, junto a tus teclas (o a la derecha de la barra de objetos), cuenta los segundos hasta el siguiente. Si aún no toca, en vez del aviso ves cuánto falta.
 - Solo cuentan los **golpes normales que entran**: las formas, las teclas Z, X y C, un golpe bloqueado o esquivado no suman. Cada
   demonio lleva su cuenta.
 - Vale contra los demonios de la noche, los jefes, los jugadores demonio (fuera del dojo), los Kabocha-oni de Halloween y el
