@@ -83,7 +83,8 @@ dice qué tecla se ha abierto.
 </div>
 
 - Cada arte tiene su **espera**, que baja con tu rango de sangre. Peleando contra un jugador, las esperas son algo más largas.
-- No puedes lanzar dos artes a la vez: entre dos técnicas cualesquiera pasan **2,5 segundos**.
+- No puedes lanzar dos artes seguidas: tras cada una tienes **4 segundos para recuperarte**, contados desde que **acaba**. Cada
+  arte sigue con su propia espera.
 - **O te cubres o atacas**: con el bloqueo puesto no sale ningún arte, y mientras sale una no puedes cubrirte ni esquivar.
 - Tras un arte que te lanza por los aires, la caída no te hace daño durante unos segundos.
 

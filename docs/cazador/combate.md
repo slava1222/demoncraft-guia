@@ -34,7 +34,9 @@ deprisa no pega más. Para picar un bloque (o golpear el poste y la roca de un e
 
 - Con el bloqueo o la parada puestos (++f++) **no sale ninguna técnica**: ni formas ni artes de sangre.
 - Mientras sale una técnica no puedes cubrirte ni esquivar.
-- Entre dos técnicas cualesquiera pasan **2,5 segundos**, para cazadores y para demonios.
+- Tras cada técnica tienes **4 segundos para recuperarte**, contados desde que **acaba**: mientras dura no sale otra, con
+  ninguna tecla. Vale para cazadores y para demonios.
+- Cada forma y cada arte siguen con **su propia espera**: los 4 s son solo la pausa antes de la siguiente técnica.
 
 ## El golpe crítico
 

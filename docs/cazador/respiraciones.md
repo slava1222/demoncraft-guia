@@ -32,8 +32,10 @@ description: Cómo se lanzan las formas de respiración, cuánto esperan, las te
 - El clic derecho es **un solo reloj para ti**, no uno por katana: cada forma que lanzas con él lo pone a contar su espera.
   Se ve en la casilla **C.D.**, abajo a la izquierda (ya no hay barra del aliento).
 - Las formas de ++z++, ++x++ y ++c++ cuentan **cada una su espera**, aparte, en su casilla.
-- Entre dos técnicas cualesquiera pasan **2,5 segundos** (la raya de debajo de las casillas). Y **o te cubres o atacas**: con
-  el bloqueo puesto no sale ninguna forma, y mientras sale una no puedes cubrirte ni esquivar.
+- Tras cada forma tienes **4 segundos para recuperarte**, contados desde que **acaba**: mientras dura, todas las casillas se
+  apagan, y al acabar cuentan los 4 s (también la raya de debajo). Cada forma sigue con **su propia espera**: una forma alta,
+  con una espera larga, no está lista solo porque hayan pasado los 4 s.
+- Y **o te cubres o atacas**: con el bloqueo puesto no sale ninguna forma, y mientras sale una no puedes cubrirte ni esquivar.
 - La espera **baja** con tu **rango del Cuerpo** (un 3 % por rango), con tu **nivel de aliento** (hasta un 50 % menos,
   [entrenando](entrenamiento.md)) y, las de tu respiración, si tu katana **resuena** con ella (un 10 % menos).
 - Salir y volver a entrar no la recupera.

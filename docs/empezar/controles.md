@@ -27,8 +27,8 @@ description: Todas las teclas de DemonCraft - combate, formas de respiración, t
     animación y su ritmo, y pulsar más deprisa no pega más. Para picar o romper un bloque, **míralo** y pica como siempre.
 
 !!! warning "O te cubres o atacas"
-    Con el bloqueo puesto (++f++) no sale ninguna técnica (ni formas ni artes), y entre dos técnicas cualesquiera pasan
-    **2,5 segundos**.
+    Con el bloqueo puesto (++f++) no sale ninguna técnica (ni formas ni artes), y tras cada técnica tienes **4 segundos** para
+    recuperarte, contados desde que acaba.
 
 ## Demonio
 

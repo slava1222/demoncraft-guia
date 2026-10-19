@@ -22,6 +22,11 @@ duelos, los clanes y la economía entre jugadores.
     Cada noche salen de la tierra los **Kabocha-oni**. Cázalos para ganar el kit de Halloween de tu bando, la Hoja de la
     Calabaza o el Farol del Rey Calabaza, y decoraciones para tu casa. [Ver el evento](eventos/halloween.md)
 
+!!! tip "Novedades de la actualización 1.2 (19 de octubre)"
+    Al pegar **corriendo** con la katana ya se ve la carrera de combate: el brazo da el tajo y sigues corriendo. Y las
+    técnicas tienen su ritmo: tras cada forma o arte tienes **4 segundos para recuperarte**, contados desde que acaba
+    (mientras dura no sale otra), y cada una sigue con su propia espera. [Ver el combate](cazador/combate.md#cubrirse-o-atacar).
+
 !!! tip "Novedades de la actualización 1.1 (19 de octubre)"
     La katana pega un **70 % más rápido** y también **corriendo**; con tres golpes seguidos a un demonio llega el
     [golpe crítico](cazador/combate.md#el-golpe-critico) con la ++e++. Los cazadores estrenan las

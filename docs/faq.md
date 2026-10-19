@@ -37,7 +37,7 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
 
 ??? question "¿Por qué no me sale la forma de respiración?"
     - La katana nichirin tiene que estar en la **mano principal**.
-    - Espera a que su casilla (abajo a la izquierda: **C.D.**, Z, X o C) acabe de contar su espera; entre dos técnicas pasan 2,5 s.
+    - Espera a que su casilla (abajo a la izquierda: **C.D.**, Z, X o C) acabe de contar su espera; tras cada técnica hay **4 s** para recuperarte, desde que acaba.
     - Con el bloqueo puesto (++f++) no sale ninguna técnica: o te cubres o atacas.
     - Puede que esa forma aún no sea tuya: pulsa ++r++ para elegir otra o mira qué le falta en K → Respiración.
     - La **Katana de Aprendiz** no lanza formas: necesitas tu hoja personal.
