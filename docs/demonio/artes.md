@@ -1,6 +1,6 @@
 ---
 title: Linajes y artes
-description: Los seis linajes de demonio, cómo se aprenden las artes de sangre, qué rango de sangre abre cada tecla, cómo se ponen en ellas y cómo se lanzan.
+description: Los seis linajes de demonio, cómo se aprenden las artes de sangre, qué rango de sangre abre cada tecla, cómo se ponen en ellas, cómo se lanzan y el Árbol de la Sangre para heredar las sangres de las demás Lunas.
 ---
 
 # Linajes y artes de sangre
@@ -9,18 +9,23 @@ description: Los seis linajes de demonio, cómo se aprenden las artes de sangre,
 
 ## Tu linaje
 
-Lo deciden tus respuestas a las **seis preguntas** de Muzan y **no se cambia** jugando. Hay seis:
+Tu primera sangre la deciden tus respuestas a las **seis preguntas** de Muzan. Hay seis, una por cada Luna Superior, y las
+demás se pueden heredar después con el [Árbol de la Sangre](#el-arbol-de-la-sangre):
 
-| Linaje | Estilo |
-|---|---|
-| 月 **Linaje de la Luna** | Filos de carne y ondas de lunas que cortan a distancia. |
-| 氷 **Linaje del Hielo** | Hielo que congela, lotos helados y aliados de cristal. |
-| 破 **Linaje del Puño** | Puñetazos a distancia, contragolpes y movimientos rápidos. |
-| 喜怒哀楽 **Linaje de las Emociones** | Rayos, abanicos, lanzas y alas. |
-| 壺 **Linaje de las Vasijas** | Peces (como mucho dos a la vez; se van si te desconectas), agujas y prisiones de agua. |
-| 妓 **Linaje de los Hermanos** | Hoces de sangre voladoras y cintas. |
+| Linaje | Su Luna | Estilo |
+|---|---|---|
+| 月 **Linaje de la Luna** | Kokushibo | Filos de carne y ondas de lunas que cortan a distancia. |
+| 氷 **Linaje del Hielo** | Doma | Hielo que congela, lotos helados y aliados de cristal. |
+| 破 **Linaje del Puño** | Akaza | Puñetazos a distancia, contragolpes y movimientos rápidos. |
+| 喜怒哀楽 **Linaje de las Emociones** | Hantengu | Rayos, abanicos, lanzas y alas. |
+| 壺 **Linaje de las Vasijas** | Gyokko | Peces (como mucho dos a la vez; se van si te desconectas), agujas y prisiones de agua. |
+| 妓 **Linaje de los Hermanos** | Gyutaro y Daki | Hoces de sangre voladoras y cintas. |
 
 Cada linaje tiene además su **golpe a mano desnuda** (clic izquierdo) con un efecto propio.
+
+**Hielo en Polvo**, el arte principal del Linaje del Hielo, **frena**: mientras lo soplas, lo que pelea a tu alrededor (a
+3,5 bloques) va con **Lentitud II** hasta 2 segundos después de la última bocanada, y a quien respiraba una forma se le corta.
+No hace daño: es un arte para frenar.
 
 ## Aprender artes (K → Artes)
 
@@ -82,13 +87,47 @@ dice qué tecla se ha abierto.
 </figure>
 </div>
 
-- Cada arte tiene su **espera**, que baja con tu rango de sangre. Peleando contra un jugador, las esperas son algo más largas.
+- Cada arte tiene su **espera**, que baja con tu rango de sangre. Es la misma peleando contra un jugador que contra
+  cualquier otro.
 - No puedes lanzar dos artes seguidas: tras cada una tienes **4 segundos para recuperarte**, contados desde que **acaba**. Cada
   arte sigue con su propia espera.
-- **O te cubres o atacas**: con el bloqueo puesto no sale ningún arte, y mientras sale una no puedes cubrirte ni esquivar.
+- **O te cubres o atacas**: con el bloqueo puesto (también con los brazos) no sale ningún arte, y mientras sale una no puedes
+  cubrirte ni esquivar.
 - Tras un arte que te lanza por los aires, la caída no te hace daño durante unos segundos.
 
 !!! vip "Señor de las Ánimas"
     El rango de apoyo de demonio **Señor de las Ánimas** te presta un linaje extra con cinco artes propias, que conviven
     con las de tu linaje y van en las mismas teclas. Con su **farol** en la mano, el arte del clic derecho no alcanza a
     ningún jugador a más de **6 bloques**. [Ver los rangos VIP](../vip.md).
+
+## El Árbol de la Sangre
+
+Tu sangre no es la única que puedes llevar: las seis Lunas tienen la suya y puedes **heredarlas una a una**.
+
+- Ábrelo con **`/sangre`** o en **K → Artes → «☾ Árbol de la Sangre»**. Las seis sangres están en corro y cada una dice si
+  es la que usas, si ya es tuya, si es **la siguiente** que puedes heredar o si aún está cerrada (y qué te falta).
+- **El orden**: Gyutaro y Daki → Gyokko → Hantengu → Akaza → Doma → Kokushibo, y vuelta a empezar. Empiezas por la tuya (la
+  que te dio Muzan) y sigues el corro desde ahí.
+- **Para heredar la siguiente**, primero **completa entera** la anterior (todas sus artes aprendidas, también las mayores)
+  y después termina la cadena de la nueva, **su herencia**: la Luna de esa sangre te busca de noche, al aire libre. Hay
+  pistas que seguir, gente que devorar, una pelea, una decisión que cambia lo que pasa y un cazador con nombre que irá a por
+  ti. Al final la sangre despierta y es tuya, con su título y un recuerdo.
+- Al heredarla **no se activa sola**. Para usar otra de tus sangres, elígela en el árbol y pulsa **«☾ Activar esta
+  sangre»**. Entre un cambio y otro hay que esperar **una hora**; si tienes una **Ficha de Sangre**, puedes activarla al
+  momento («☾ Activar ya (1 Ficha)»).
+- **Cada sangre guarda lo suyo**: sus artes aprendidas, sus teclas y sus puntos de linaje. Si vuelves a una, está como la
+  dejaste. Tu rango de sangre y tu árbol de K → Sangre no cambian.
+- No se cambia en plena pelea, en un duelo, en una escena ni con un arte en marcha.
+
+| Sangre | Su herencia |
+|---|---|
+| 妓 Linaje de los Hermanos (Gyutaro y Daki) | «Dos que Comparten Sangre» |
+| 壺 Linaje de las Vasijas (Gyokko) | «El Ceramista y el Pez» |
+| 喜怒哀楽 Linaje de las Emociones (Hantengu) | «Las Cuatro Voces» |
+| 破 Linaje del Puño (Akaza) | «El Camino del Más Fuerte» |
+| 氷 Linaje del Hielo (Doma) | «El Paraíso de la Eterna Dicha» |
+| 月 Linaje de la Luna (Kokushibo) | «La Sangre de la Luna Uno» (y, al terminarla, la [Espada de Kokushibo](combate.md#la-espada-de-kokushibo)) |
+
+!!! tip "Es un camino largo"
+    Completar una sangre entera pide subir de rango y de edad, su prueba de linaje y lotos negros; y cada herencia, unas
+    cuantas noches. Lo que pase en ellas lo descubrirás jugando.

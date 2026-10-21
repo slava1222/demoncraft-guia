@@ -1,6 +1,6 @@
 ---
 title: Comandos
-description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta, chat, clanes, duelos, casas, Mercado, VIP, entrenamiento y más.
+description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta, chat, clanes, duelos, mesas de juego, casas y parcelas, Mercado, VIP, entrenamiento, el Árbol de la Sangre y más.
 ---
 
 # Todos los comandos
@@ -39,6 +39,8 @@ description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta
 |---|---|
 | `/entrenar` | Abrir los entrenamientos del aliento. [Ver](cazador/entrenamiento.md) |
 | `/bando` | Tu estado entre cazador y demonio, y lo que te falta para cambiar. [Ver](demonio/cura.md#el-comando-bando) |
+| `/sangre` | Demonio: el Árbol de la Sangre (heredar y activar sangres). [Ver](demonio/artes.md#el-arbol-de-la-sangre) |
+| `/cabezas` | Los cinco cazadores conectados cuya cabeza vale más para los demonios. [Ver](demonio/combate.md#cabezas-con-precio) |
 
 ## Economía
 
@@ -50,6 +52,9 @@ description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta
 | `/casa pagar <días>` · `/casa automatico si\|no` | Pagar días de tu casa · el pago automático |
 | `/casa invitar <jugador>` · `aceptar` · `rechazar` | Vivir juntos (hasta 4 compañeros) |
 | `/casa quitar <jugador>` · `/casa salir` · `/casa dejar` | Quitar a un compañero · irte de la casa en la que vives · dejar tu casa |
+| `/casa pvp si\|no` | Poner o quitar el PvP dentro de tu casa (solo el inquilino). [Ver](economia/casas.md#pvp-en-tu-casa) |
+| `/parcela` | Tu parcela para construir: lo mismo que `/casa` (`ver`, `ir`, `pagar`, `automatico`, `invitar`, `quitar`, `salir`, `dejar`, `pvp`…). [Ver](economia/casas.md#parcelas-para-construir) |
+| `/parcela lista` · `/parcela obras <jugador> si\|no` | Las parcelas libres · dar o quitar a un compañero el permiso de obra |
 | `/mercado` | Abrir el Mercado (también `/subastas`). [Ver](economia/mercado.md) |
 | `/buy` | Abrir la tienda de rangos y extras. [Ver](vip.md) |
 
@@ -89,13 +94,23 @@ description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta
 
 [Todo sobre los duelos](social/duelos.md)
 
+## Mesas de juego
+
+| Comando | Qué hace |
+|---|---|
+| `/ajedrez` · `/pulso` · `/dardos` | Cómo se juega cada uno. |
+| `/ajedrez retar <jugador> [apuesta]` | Retar a quien tengas cerca, después de pinchar la mesa (igual con `/pulso` y `/dardos`). |
+| `/ajedrez rechazar` · `cancelar` · `rendirse` | Rechazar un reto · retirar el tuyo · dejar la partida. |
+
+[Todo sobre las mesas de juego](social/juegos.md)
+
 ## Rangos VIP
 
 | Comando | Qué hace |
 |---|---|
 | `/vip info` | Tu rango y tus ventajas. |
 | `/vip mascota` | Llamar o despedir a tu mascota. |
-| `/vip mascota <cuál>` | Con varios rangos: elegir tu mascota (`cuervo`, `zorro`, `mariposa`, `farol`, `dragon` o `ropa`). |
+| `/vip mascota <cuál>` | Con varios rangos: elegir tu mascota (`koi`, `gorrion`, `lechuza`, `fenix`, `avelira`, `jabato`, `zorro`, `mariposa`, `farol`, `dragon` o `ropa`). |
 | `/vip titulo` | Con varios rangos: elegir el rango que enseñas (sobre tu cabeza, en el chat y en tu título). |
 | `/kit` · `/kit <id>` | Ver tus kits · recoger el kit de tu rango (cada semana; el del Amanecer, cada mes). |
 
@@ -109,6 +124,7 @@ description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta
 | ++j++ | Tu diario de misiones. |
 | ++m++ | El mapa del mundo. |
 | ++b++ | Tu mochila. |
+| ++i++ | Junto a la placa de una casa o al cartel de una parcela: su pantalla. |
 | ++v++ | El menú del chat de voz. |
 | ++tab++ | La lista de jugadores. |
 

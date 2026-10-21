@@ -21,7 +21,7 @@ Antes de la última noche hacen falta **días de servicio como demonio** (3 la p
 | Conservas (vuelve tu cazador) | Pierdes (todo lo del demonio) |
 |---|---|
 | Tus misiones del Cuerpo, tu rango, méritos y días | Rango y edad de la sangre |
-| Respiraciones y formas | El árbol de sangre, las artes y el linaje |
+| Respiraciones y formas | El árbol de sangre, las artes, el linaje y las sangres heredadas (si vuelves a ser demonio, puedes heredarlas otra vez) |
 | Dinero, casa, clan, puntos del dojo y títulos | Notoriedad y miedo |
 | Tu inventario de cazador y tu **uniforme** | Misiones del demonio, ofrendas y carne |
 | Tus rangos VIP | — |

@@ -28,8 +28,10 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
 ## Jugando
 
 ??? question "¿Pierdo cosas al morir?"
-    No. Conservas tu inventario y tu dinero. El cazador despierta vendado en el Hospital de Tokio; el demonio, en el
-    castillo (perdiendo algo de la sangre que llevaba hacia el siguiente rango).
+    Conservas tu inventario y tu dinero, pero pierdes una parte de lo que has ganado desde tu rango (nunca el rango): el
+    cazador, de sus méritos; el demonio, de su sangre. El 15 % si te mata un jugador del otro bando y el 7 % si mueres de otra
+    cosa. El cazador despierta vendado en el Hospital de Tokio; el demonio, en el castillo.
+    [Ver lo que cuesta morir](cazador/combate.md#si-mueres).
 
 ??? question "No sé qué hacer ahora"
     Mira la **tarjeta de arriba a la derecha** (te dice qué hacer y hacia dónde ir) o abre **K → Misiones** y pulsa
@@ -45,6 +47,17 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
 ??? question "¿Qué es el aviso «Pulsa E»?"
     El **golpe crítico**: tras tres golpes seguidos con la katana al mismo demonio, tienes 2,5 segundos para pulsar ++e++ y
     atravesarle en una escena corta. Una vez cada 30 segundos. [Ver el golpe crítico](cazador/combate.md#el-golpe-critico).
+    El demonio tiene el suyo, el «MORDISCO», tras tres golpes al mismo cazador. [Ver el mordisco](demonio/combate.md#el-mordisco).
+
+??? question "¿Qué es la franja «⚔ EN COMBATE» encima de mi vida?"
+    La **marca de combate**: has cruzado un golpe con otro jugador hace menos de 30 segundos. Mientras la tengas, si sales del
+    juego mueres, no puedes viajar ni hablar con los personajes y una zona segura no te protege. Cuando pone «✓ FUERA DE
+    COMBATE», ya puedes. [Ver la marca](cazador/combate.md#la-marca-de-combate).
+
+??? question "La técnica me ha roto la guardia"
+    Es así: cubrirte de una forma o un arte tiene un riesgo. Con un arma, a veces te la rompe y, si no, te cuesta mucha
+    estamina; con los brazos del demonio, la rompe siempre. La parada justo a tiempo sí la para.
+    [Ver la guardia](cazador/combate.md#las-tecnicas-contra-la-guardia).
 
 ??? question "No encuentro la pista de una misión"
     Las pistas solo las ves tú. Busca el **haz de luz** que sale de ella por encima de los tejados y, cuando la tarjeta ponga
@@ -52,27 +65,40 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
     construye encima de una pista, sale en otro sitio.
 
 ??? question "¿Qué pasa si me desconecto en plena pelea?"
-    Si te sales con un golpe dado o recibido de otro jugador en los últimos 30 segundos, **mueres al salir** y la muerte es de
-    ese jugador. En los duelos no pasa. Al conectarte tienes 30 segundos de protección, pero no si te fuiste en plena pelea y
-    vuelves antes de 10 minutos. [Ver el PvP](cazador/combate.md#pvp).
+    Si te sales con la marca de combate (un golpe dado o recibido de otro jugador en los últimos 30 segundos: la franja
+    «⚔ EN COMBATE»), **mueres al salir** y la muerte es de ese jugador. En los duelos no pasa. Al conectarte tienes 30 segundos
+    de protección, pero no si te fuiste en plena pelea y vuelves antes de 10 minutos.
+    [Ver la marca de combate](cazador/combate.md#la-marca-de-combate).
 
 ??? question "¿Por qué no me suben los méritos?"
     Te faltan **días de servicio** para el siguiente rango. Juega 30 minutos ese día: lo que ganes con misiones se
     guarda en reserva y se te suma al ascender. [Ver rangos](cazador/rangos.md#dias-de-servicio).
 
 ??? question "No puedo abrir cofres ni romper bloques"
-    El mapa está protegido: solo funcionan los cofres y la construcción **dentro de la casa en la que vives** (la tuya o la de
-    quien te invitó).
-    [Ver casas](economia/casas.md).
+    El mapa está protegido: solo funcionan los cofres y la construcción **dentro de la casa o la parcela en la que vives** (la
+    tuya o la de quien te invitó).
+    [Ver casas y parcelas](economia/casas.md).
 
 ??? question "No puedo retar a duelo a nadie"
-    Necesitas tu katana nichirin, y no puedes haber estado peleando hace unos segundos. [Ver duelos](social/duelos.md).
+    Necesitas tu katana nichirin y no puedes estar en combate (la franja «⚔ EN COMBATE»). Se reta por el chat (clic en su
+    nombre o `/duelo retar <jugador>`): el clic derecho sobre un jugador ya no abre el reto. [Ver duelos](social/duelos.md).
+
+??? question "¿Cómo me pongo la segunda katana en la otra mano?"
+    Las gemelas de los rangos del Sonido y de La Bestia: coge la segunda en la mano y pulsa ++o++ (o arrástrala al hueco del
+    escudo). Van dobles con cualquier respiración. [Ver las gemelas](vip.md#las-gemelas-del-sonido-y-de-la-bestia).
 
 ??? question "He perdido mi katana"
     Pide una nueva en la **reforja** de los herreros. [Ver la reforja](cazador/katana.md#si-pierdes-tu-katana-la-reforja).
 
 ??? question "He perdido un objeto de una misión"
-    Los objetos de misión importantes van ligados y no se pierden. Si aun así te falta uno, pide ayuda al staff.
+    Los objetos de misión importantes van ligados y no se pierden al morir. Si lo guardaste en un cofre y el paso te lo pide
+    encima, **habla con quien te lo pide**: te lo devuelve. Si aun así te falta uno, pide ayuda al staff.
+    [Ver objetos de misión](misiones/index.md#objetos-de-mision).
+
+??? question "Ha desaparecido lo de mi encargo (la gata, las pistas, la persona que acompañaba)"
+    Lo que un encargo pone en el mapa para ti se retira si sales del servidor o te alejas mucho de su zona, y vuelve a salir
+    cuando regresas. No pierdes lo que llevabas; una escolta vuelve a empezar desde su punto de salida.
+    [Ver encargos](misiones/encargos.md).
 
 ??? question "Mi casa ha desaparecido"
     Se acabó lo pagado y pasaron los **3 días de mora**. Todo lo que tenías dentro está en tu **buzón**: K → Subastas → Buzón.
@@ -88,7 +114,8 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
 
 ??? question "¿Cómo gano dinero?"
     Las misiones, los **tres encargos del día** del tablón de Tokio, la recompensa nocturna, la Luna de Sangre y
-    vender en el Mercado. [Ver economía](economia/index.md).
+    vender en el Mercado. El demonio, además, con su paga de la noche y las cabezas de los cazadores.
+    [Ver economía](economia/index.md).
 
 ??? question "¿Cómo le paso dinero a un amigo?"
     Con **`/pagar <jugador> <cantidad>`** (tiene que estar conectado): te enseña el pago y lo confirmas pulsando
@@ -104,8 +131,17 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
 ## Demonios
 
 ??? question "¿Cómo me convierto en demonio?"
-    No se pide: cuando ya estés avanzado en el Cuerpo, Muzan puede ofrecerte su sangre una noche, al aire libre y lejos
-    de las glicinas. [Ver el camino del demonio](demonio/index.md).
+    No se pide: cuando ya tengas tu primera katana nichirin (la cadena del Agua terminada), Muzan puede ofrecerte su sangre
+    una noche, al aire libre y lejos de las glicinas. [Ver el camino del demonio](demonio/index.md).
+
+??? question "Soy demonio, ¿puedo cambiar de sangre?"
+    Sí, heredándolas: completa entera tu sangre y la Luna de la siguiente te buscará para su herencia. Las que ya tienes se
+    activan con `/sangre`, con una hora de espera entre cambios. [Ver el Árbol de la Sangre](demonio/artes.md#el-arbol-de-la-sangre).
+
+??? question "Soy demonio: ¿cuándo viene a por mí un Pilar?"
+    Los cazadores con nombre solo salen a por ti en **la misión que sigues** (la de tu tarjeta); los de tus otras misiones te
+    esperan hasta que sigas la suya, y una vez por noche te dicen dónde. Y cada uno va solo a por su demonio.
+    [Ver los cazadores del Cuerpo](demonio/combate.md#los-cazadores-del-cuerpo).
 
 ??? question "¿Puedo volver a ser humano?"
     Sí, con la cura de Tamayo, y recuperas tu cazador tal como era. Cada cambio de bando cuesta más que el anterior.

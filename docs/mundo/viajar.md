@@ -38,6 +38,8 @@ description: Cómo viajar por el mapa de DemonCraft con el cuervo Kasugai, el ar
 
 - Entre un viaje y otro hay que esperar **45 segundos**.
 - No puedes viajar si un enemigo te ha golpeado hace poco, ni con un duelo en marcha.
+- Tampoco en plena pelea con otro jugador: con la [marca de combate](../cazador/combate.md#la-marca-de-combate), «En combate no
+  se viaja: espera N s». Si la coges mientras esperas los 3 segundos, el viaje se cancela. Vale también para la biwa.
 - **Antes de tener tu cuervo** (al principio de tu formación), te lleva un **arriero** por el mismo precio.
 - Las **waystones** no se usan y las **barcas** están desactivadas.
 

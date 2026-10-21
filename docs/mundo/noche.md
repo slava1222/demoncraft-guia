@@ -1,6 +1,6 @@
 ---
 title: La noche
-description: Qué pasa de noche en DemonCraft - encuentros con demonios, demonios con nombre, la recompensa nocturna, los refugios y la Luna de Sangre.
+description: Qué pasa de noche en DemonCraft - encuentros con demonios, demonios con nombre, la recompensa nocturna, los refugios, las zonas seguras y la Luna de Sangre.
 ---
 
 # La noche
@@ -47,7 +47,21 @@ date la vuelta, suelen venir **por la espalda**.
 | ⌂ **Casa de los Kamado** | Donde reaparece el cazador. |
 
 Dentro no aparece ningún demonio y los que te seguían se retiran. Pero **desde dentro tampoco puedes cazarlos**, y el
-**demonio con nombre te espera fuera**.
+**demonio con nombre te espera fuera**. Las [zonas seguras](#zonas-seguras) también son refugio.
+
+## Zonas seguras
+
+Hay sitios del mapa (bares, plazas…) marcados como **zonas seguras**. Al entrar en una lo ves en la pantalla:
+«☮ Zona segura · *nombre*: aquí no se pelea.» Al salir: «Sales de la zona segura · *nombre*.»
+
+- Dentro **nadie pelea con nadie**: ni golpes, ni formas, ni artes, ni lo que dejan (lentitud, veneno, ceguera…). Desde
+  dentro tampoco se le pega a nadie de fuera.
+- **Si llevas la marca de combate** (la franja «⚔ EN COMBATE» encima de tu vida), la zona **no te protege** hasta que se
+  acabe: dentro te pueden pegar y puedes pegar. Al acabarse, te avisa: «ya estás a salvo».
+  [Ver la marca](../cazador/combate.md#la-marca-de-combate).
+- También son **refugio de la noche**: dentro no salen demonios ni calabazas de Halloween, y no van a por quien está dentro.
+  Como en los demás refugios, desde dentro no puedes cazarlos.
+- Los duelos del dojo van aparte. Y a un demonio jugador, las patrullas del Cuerpo le siguen buscando dentro: eso no es PvP.
 
 ## La Luna de Sangre
 
@@ -74,4 +88,5 @@ y otra):
 
 !!! demonio "La noche de un demonio"
     A los demonios no les salen estos encuentros (la noche es suya). En cambio, si su notoriedad es alta, les buscan
-    **patrullas del Cuerpo**, y en Luna de Sangre salen patrullas de élite… pero la sangre que cazan cuenta doble.
+    **patrullas del Cuerpo**, y en Luna de Sangre salen patrullas de élite… pero la sangre que cazan cuenta doble, y cada
+    cazador que rompen suma a su [paga de la noche](../demonio/vida.md#la-paga-de-la-noche), que también se cobra al amanecer.

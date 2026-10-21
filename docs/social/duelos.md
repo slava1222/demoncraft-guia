@@ -1,6 +1,6 @@
 ---
 title: Duelos y dojo
-description: Duelos en el Dojo de las Glicinas - requisitos, cómo retar, las reglas del tatami, la puntuación, las temporadas, las apuestas, el Trofeo del Dojo y el muñeco de práctica.
+description: Duelos en el Dojo de las Glicinas - requisitos, cómo retar por el chat, las reglas del tatami y los 5 segundos para volver a él, la puntuación, las temporadas, las apuestas, el Trofeo del Dojo y el muñeco de práctica.
 ---
 
 # Duelos y dojo
@@ -10,14 +10,17 @@ description: Duelos en el Dojo de las Glicinas - requisitos, cómo retar, las re
 ## Requisitos
 
 - Tener tu **katana nichirin** (te la forja el herrero al terminar tu formación). Un demonio, desde su primer rito.
-- No estar peleando, en otro duelo ni congelado.
+- No estar en combate (la franja [«⚔ EN COMBATE»](../cazador/combate.md#la-marca-de-combate) encima de tu vida), en otro
+  duelo ni congelado.
 
 ## Cómo retar
 
-- **Clic derecho sobre un jugador** (mejor con la mano vacía): se abre su ficha con el botón **«⚔ Retar a duelo»**.
-- **Clic en su nombre en el chat**: deja escrito `/duelo retar <nombre>`.
+Se reta **por el chat** (el clic derecho sobre un jugador ya no abre el reto: en plena pelea salía sin querer):
+
+- **Clic en su nombre en el chat**: deja escrito `/duelo retar <nombre>`; pulsa ++enter++.
 - **`/duelo retar <jugador>`**.
 - Desde la pantalla del dojo (pestaña **Retar**): habla con el **Maestro del Dojo** o escribe `/duelo dojo`.
+- Desde la ficha de su casa (abriendo su placa).
 
 El retado tiene **30 segundos** para pulsar **[✔ ACEPTAR]** o **[✖ RECHAZAR]** en el chat (o `/duelo aceptar` / `/duelo rechazar`).
 
@@ -26,11 +29,15 @@ El retado tiene **30 segundos** para pulsar **[✔ ACEPTAR]** o **[✖ RECHAZAR]
 1. **Humo (3 s):** quédate quieto. Si conoces varias respiraciones, el Maestro te pregunta con cuál vas a luchar.
 2. **El tatami:** los dos aparecéis en vuestras marcas con la vida y la comida al máximo. Si puntúa, hay unos segundos de **apuestas**.
 3. **3 · 2 · 1 · ¡LUCHAD!** Hasta 5 minutos. Arriba ves la vida de los dos y el tiempo.
-4. **El final:** el golpe que mataría no mata: decide el combate. Salirte del tatami más de 3 segundos es derrota. Si se
-   acaba el tiempo, gana quien conserve más vida.
+4. **El final:** el golpe que mataría no mata: decide el combate. Si se acaba el tiempo, gana quien conserve más vida.
+
+**Si te sales del tatami** (saltando o lanzado por una técnica), tienes **5 segundos** para volver: tú ves «¡VUELVE AL
+TATAMI! 5…» con un toque cada segundo y tu rival ve tu cuenta. Al volver, «¡De vuelta en el tatami!» y el duelo sigue. Si no
+vuelves a tiempo, pierdes. Si os quedáis fuera los dos a la vez, **empate** (y se devuelven las apuestas).
 
 **Reglas del tatami:** los dos con **20 corazones** y la misma defensa (la ropa y la armadura no cuentan), sin ventajas
-de rango ni VIP. Solo cuentan **vuestras técnicas**: formas de respiración o artes de sangre. No se come, no se bebe y
+de rango ni VIP. Solo cuentan **vuestras técnicas**: formas de respiración o artes de sangre. La katana va sin templar y el
+demonio pelea con sus **garras de nacimiento** (las del rango de sangre 1, sin endurecer). No se come, no se bebe y
 no se tira ni se recoge nada. Al acabar recuperas tu sitio, tu vida, tu comida y el desgaste de tu equipo.
 
 <div class="galeria" markdown>
@@ -71,7 +78,7 @@ En los duelos que puntúan, antes del 3-2-1 se abren **15 segundos de apuestas**
 ## Ver un duelo
 
 Con un combate en marcha, **`/duelo ver`** (o el botón de la pantalla del dojo) te lleva a la **grada** como espectador.
-Vuelves con `/duelo ver` otra vez.
+Vuelves con `/duelo ver` otra vez. En plena pelea con otro jugador (con la marca de combate) no puedes ir.
 
 ## El Trofeo del Dojo
 
@@ -80,8 +87,8 @@ Es un trofeo 3D con su nombre, el mes y sus puntos que se coloca en **su casa de
 
 ## El muñeco de práctica
 
-En la **galería oeste del dojo**, junto al Maestro, hay un **muñeco de práctica** para probar tus golpes, tus formas, tus artes
-y el [golpe crítico](../cazador/combate.md#el-golpe-critico), sin retar a nadie.
+En la **galería oeste del dojo**, junto al Maestro, hay un **muñeco de práctica** para probar tus golpes, tus formas, tus artes,
+el [golpe crítico](../cazador/combate.md#el-golpe-critico) y el [mordisco](../demonio/combate.md#el-mordisco), sin retar a nadie.
 
 - Tiene la vida de un jugador (**20**) y recibe exactamente lo que recibiría un jugador del otro bando sin armadura, con los
   mismos topes del PvP.

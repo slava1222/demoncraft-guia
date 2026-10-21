@@ -29,6 +29,12 @@ Al aceptarlo pasa a ser la misión que **sigues** y la tarjeta te guía hasta te
 | **Escolta** | Tu acompañante te sigue: espérale. |
 | **Contrarreloj** | Arriba aparece un reloj. Si sales del juego, el reloj se para. |
 
+!!! info "Lo de tu encargo es solo tuyo, y se va contigo"
+    Lo que un encargo pone en el mapa para ti (la gata Mochi de la abuela Tome, los objetos de una búsqueda, la persona a la
+    que rescatas o acompañas) **desaparece si sales del servidor o te alejas mucho de la zona del encargo**, y **vuelve a
+    salir cuando regresas** a ella. No pierdes lo que llevabas hecho; una escolta, eso sí, vuelve a empezar desde su punto
+    de salida.
+
 <figure markdown="span">
   ![K, pestaña Encargos](../assets/img/capturas/k-encargos.webp){ loading=lazy }
   <figcaption>K → Encargos: tus encargos abiertos y los rumores por zona.</figcaption>

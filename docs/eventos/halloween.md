@@ -10,7 +10,8 @@ description: El evento de Halloween de DemonCraft, «La Noche de las Calabazas»
 ## Las calabazas
 
 Salen **de noche**, **cerca de quien está fuera**: se ve cómo salen de la tierra delante de ti. Bajo techo salen muchas menos
-y en los refugios de glicinas, la Aldea de los Herreros, el dojo y el castillo, ninguna. Al alba se deshacen.
+y en los refugios de glicinas, las [zonas seguras](../mundo/noche.md#zonas-seguras), la Aldea de los Herreros, el dojo y el
+castillo, ninguna. Al alba se deshacen.
 
 | Calabaza | Qué hace | Vale |
 |---|---|---|

@@ -22,6 +22,38 @@ duelos, los clanes y la economía entre jugadores.
     Cada noche salen de la tierra los **Kabocha-oni**. Cázalos para ganar el kit de Halloween de tu bando, la Hoja de la
     Calabaza o el Farol del Rey Calabaza, y decoraciones para tu casa. [Ver el evento](eventos/halloween.md)
 
+!!! tip "Novedades de la actualización 1.3 (21 de octubre)"
+    - **Combate:** la [marca de combate](cazador/combate.md#la-marca-de-combate) se ve encima de tu vida y cuenta para los dos;
+      las técnicas [pueden romper la guardia](cazador/combate.md#las-tecnicas-contra-la-guardia); el golpe crítico quita **4**
+      a un jugador.
+    - **Morir cuesta** una parte de los méritos o de la sangre ganados desde tu rango, nunca el rango
+      ([ver](cazador/combate.md#si-mueres)).
+    - **Demonios:** el [mordisco](demonio/combate.md#el-mordisco) con la ++e++,
+      [la guardia con los brazos](demonio/combate.md#cubrirte-con-los-brazos), las
+      [armas de sangre](demonio/mercado.md#las-armas-de-sangre-hozuki) y la
+      [Espada de Kokushibo](demonio/combate.md#la-espada-de-kokushibo).
+    - **El [Árbol de la Sangre](demonio/artes.md#el-arbol-de-la-sangre):** hereda las sangres de las seis Lunas y cambia entre
+      ellas con `/sangre`.
+    - **La noche del demonio:** [paga por cada cazador del Cuerpo](demonio/vida.md#la-paga-de-la-noche),
+      [precio por la cabeza de los cazadores](demonio/combate.md#cabezas-con-precio) (`/cabezas`), cazadores del Cuerpo con
+      50 de vida como mucho y los Pilares solo en la misión que sigues.
+    - **Muzan** solo viene cuando ya tienes [tu primera katana](demonio/index.md#la-oferta); **Hielo en Polvo** de Doma ahora
+      frena; las artes ya no esperan más contra un jugador.
+    - **Equipo:** cada prenda resiste algo las técnicas de un jugador del otro bando
+      ([cazador](economia/aldea.md#contra-las-artes-de-un-demonio-jugador),
+      [demonio](demonio/mercado.md#contra-las-formas-de-un-cazador-jugador)).
+    - **Casas:** [parcelas](economia/casas.md#parcelas-para-construir) para construir desde cero,
+      [PvP sí o no](economia/casas.md#pvp-en-tu-casa) en tu casa y [40 muebles japoneses](economia/tiendas.md#los-muebles-japoneses)
+      en la tienda de Kohei.
+    - **[Mesas de juego](social/juegos.md):** ajedrez, pulso y dardos en 3D, con apuestas.
+    - **Mundo:** [zonas seguras](mundo/noche.md#zonas-seguras) donde nadie pelea y [fauna](mundo/fauna.md) por el campo, con
+      su comida.
+    - **Duelos:** se reta solo por el chat y tienes [5 segundos para volver al tatami](social/duelos.md#como-es-un-duelo).
+    - **VIP:** [una mascota para cada pilar](vip.md#las-mascotas-de-los-pilares) y
+      [las gemelas](vip.md#las-gemelas-del-sonido-y-de-la-bestia) en las dos manos con la ++o++, con cualquier respiración.
+    - **Misiones:** lo que te dio la historia [te lo devuelven](misiones/index.md#objetos-de-mision) si ya no lo llevas, y lo
+      de tus [encargos](misiones/encargos.md) se retira si te vas y vuelve al regresar.
+
 !!! tip "Novedades de la actualización 1.2 (19 de octubre)"
     Al pegar **corriendo** con la katana ya se ve la carrera de combate: el brazo da el tajo y sigues corriendo. Y las
     técnicas tienen su ritmo: tras cada forma o arte tienes **4 segundos para recuperarte**, contados desde que acaba
@@ -54,7 +86,7 @@ duelos, los clanes y la economía entre jugadores.
 
     ---
 
-    Cómo te conviertes, tu sangre, tus artes de sangre y cómo volver a ser humano.
+    Cómo te conviertes, tu sangre y el Árbol de la Sangre, tus artes, cómo pelea un demonio y cómo volver a ser humano.
 
 -   :material-script-text-outline:{ .lg .middle } **[Misiones](misiones/index.md)**
 
@@ -66,19 +98,19 @@ duelos, los clanes y la economía entre jugadores.
 
     ---
 
-    El mapa con todos los lugares, viajar con el cuervo y qué pasa de noche.
+    El mapa con todos los lugares, viajar con el cuervo, qué pasa de noche, las zonas seguras y la fauna.
 
 -   :material-cash-multiple:{ .lg .middle } **[Economía](economia/index.md)**
 
     ---
 
-    Cómo ganar dinero, tiendas, el Mercado, las casas de alquiler y las cajas.
+    Cómo ganar dinero, tiendas y muebles, el Mercado, las casas y parcelas de alquiler y las cajas.
 
 -   :material-account-group-outline:{ .lg .middle } **[Social](social/index.md)**
 
     ---
 
-    Clanes, duelos en el dojo, chat, voz y cómo reportar a alguien.
+    Clanes, duelos en el dojo, mesas de juego, chat, voz y cómo reportar a alguien.
 
 -   :material-console-line:{ .lg .middle } **[Comandos](comandos.md)**
 

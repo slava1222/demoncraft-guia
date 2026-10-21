@@ -1,6 +1,6 @@
 ---
 title: Controles
-description: Todas las teclas de DemonCraft - combate, formas de respiración, teclas Z, X y C, golpe crítico, artes de demonio, perfil, mapa, mochila y chat de voz.
+description: Todas las teclas de DemonCraft - combate, formas de respiración, teclas Z, X y C, golpe crítico y mordisco, la otra mano, artes de demonio, perfil, mapa, mochila y chat de voz.
 ---
 
 # Controles
@@ -20,6 +20,7 @@ description: Todas las teclas de DemonCraft - combate, formas de respiración, t
 | ++alt++ izquierdo | Esquivar (voltereta). |
 | ++g++ | Fijar el objetivo. |
 | ++h++ | **La Marca del Cazador** (desde el rango Kinoe). |
+| ++o++ | Pasar lo que llevas en la mano a la **otra mano**: así se llevan las dos hojas gemelas de los rangos del Sonido y de La Bestia ([ver](../vip.md#las-gemelas-del-sonido-y-de-la-bestia)). |
 | ++y++ | Habilidades de combate. |
 
 !!! info "Siempre en modo combate"
@@ -28,7 +29,8 @@ description: Todas las teclas de DemonCraft - combate, formas de respiración, t
 
 !!! warning "O te cubres o atacas"
     Con el bloqueo puesto (++f++) no sale ninguna técnica (ni formas ni artes), y tras cada técnica tienes **4 segundos** para
-    recuperarte, contados desde que acaba.
+    recuperarte, contados desde que acaba. Y ojo: una técnica del rival
+    [puede romperte la guardia](../cazador/combate.md#las-tecnicas-contra-la-guardia).
 
 ## Demonio
 
@@ -36,6 +38,8 @@ description: Todas las teclas de DemonCraft - combate, formas de respiración, t
 |---|---|
 | ++"Clic der."++ con la mano vacía | Lanzar tu **arte principal** (apuntando al aire o a un enemigo). |
 | ++z++ · ++x++ · ++c++ | Lanzar el arte que hayas puesto en cada tecla. Se abren con tu rango de sangre: Z en el 3, X en el 6 y C en el 9 ([cómo elegirlas](../demonio/artes.md#ponerlas-en-las-teclas)). |
+| ++e++ | Cuando sale «MORDISCO», el [mordisco](../demonio/combate.md#el-mordisco). Sin el aviso, abre el inventario como siempre. |
+| ++f++ (mantener) con las manos vacías | [Cubrirte con los brazos](../demonio/combate.md#cubrirte-con-los-brazos). Con un arma de sangre, te cubres con ella. |
 | Agachado + ++"Clic der."++ sobre un vecino | Devorar. |
 
 ## Movimiento (parkour)
@@ -54,9 +58,9 @@ description: Todas las teclas de DemonCraft - combate, formas de respiración, t
 | ++j++ | Abre la K directamente en *Misiones*. |
 | ++m++ | Mapa del mundo. |
 | ++b++ | Abrir tu mochila. |
+| ++i++ | Junto a la placa de una casa o al cartel de una parcela: verla ([casas y parcelas](../economia/casas.md)). |
 | ++v++ | Menú del chat de voz (grupos, ajustes). |
 | ++n++ | Silenciar tu micrófono. |
-| ++o++ | Elegir pack de shaders. |
 | ++tab++ | Lista de jugadores (con tu rango, tu bolsa y el estado de la noche). |
 | ++f1++ · ++f2++ · ++f5++ | Ocultar la interfaz · captura de pantalla · cambiar de cámara. |
 
@@ -65,6 +69,9 @@ En el inventario, sobre un objeto: ++r++ muestra cómo se fabrica y ++u++ para q
 ## Cambiar las teclas
 
 Todas se cambian en *Opciones → Controles → Teclas*. Las propias del servidor están en la categoría **DemonCraft**.
+
+Si ya tenías las teclas de DemonCraft de antes, al entrar se te pone sola la ++o++ para la otra mano (solo si esa tecla
+estaba sin asignar y la O quedaba libre) y te avisa. Los packs de shaders se eligen en *Opciones → Vídeo*.
 
 ??? tip "Volver a las teclas de DemonCraft"
     Con el juego **cerrado**, borra el archivo `config/demoncraft-controles.txt` de la carpeta del juego

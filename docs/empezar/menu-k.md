@@ -30,7 +30,8 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
 
 !!! demonio "Si eres demonio"
     Tu K cambia: no tienes *Respiración*, *Rango* ni *Caja*, y a cambio tienes **Sangre** (tu rango de sangre, el árbol
-    y los encargos de la noche) y **Artes** (tus artes de sangre y sus teclas). *Encargos* pasa a ser «Susurros de la
+    y los encargos de la noche) y **Artes** (tus artes de sangre, sus teclas y el
+    [Árbol de la Sangre](../demonio/artes.md#el-arbol-de-la-sangre)). *Encargos* pasa a ser «Susurros de la
     noche» y *Lugares*, «Las puertas de Nakime» (con el [Mercado de la Noche](../demonio/mercado.md)). [Ver el camino del demonio](../demonio/index.md).
 
 <div class="galeria" markdown>
@@ -76,8 +77,9 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
 | **Minimapa** | Arriba a la izquierda | Lo que te rodea y tus coordenadas. El mapa grande, con ++m++. |
 | **Tarjeta de misión** | Arriba a la derecha | El paso que sigues, quién lo da, la flecha y la distancia. |
 | **Barra de vida** | Encima de la barra de objetos | Tu vida en números («20/20») y tu armadura. Con poca vida, los bordes laten en rojo. |
+| **Marca de combate** | Justo encima de la barra de vida | Solo en plena pelea con otro jugador: «⚔ EN COMBATE» y los segundos que te quedan; al acabar, «✓ FUERA DE COMBATE». [Ver la marca](../cazador/combate.md#la-marca-de-combate). |
 | **Tus teclas** | Abajo a la izquierda | Lo que lanzas con el clic derecho (**C.D.**), ++z++, ++x++ y ++c++: tus formas si eres cazador, tus artes si eres demonio. Cada una con su espera (la sombra baja y cuenta los segundos) y un **candado** si tu rango aún no la abre. Mientras dura una técnica se apagan todas; al acabar, cuentan los **4 s** para recuperarte (también la raya de debajo). |
-| **Golpe crítico** | Junto a tus teclas (si no cabe, a la derecha de la barra de objetos) | Solo cazadores: **突** cuando está listo o los segundos que le faltan. [Ver el golpe crítico](../cazador/combate.md#el-golpe-critico). |
+| **Golpe crítico** | Junto a tus teclas (si no cabe, a la derecha de la barra de objetos) | **突** el del cazador ([la estocada](../cazador/combate.md#el-golpe-critico)) y **噛** el del demonio ([el mordisco](../demonio/combate.md#el-mordisco)): listo, o los segundos que le faltan. |
 | **Tarjetas grandes** | En el centro | Capítulos, «LUGAR DESCUBIERTO», respiración aprendida… |
 
 ## La lista de jugadores (++tab++)

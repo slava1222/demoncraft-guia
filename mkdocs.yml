@@ -143,6 +143,7 @@ nav:
       - demonio/index.md
       - Sangre, rangos y árbol: demonio/sangre.md
       - Linajes y artes: demonio/artes.md
+      - Combate: demonio/combate.md
       - La vida de un demonio: demonio/vida.md
       - El Mercado de la Noche: demonio/mercado.md
       - Volver a ser humano: demonio/cura.md
@@ -153,17 +154,19 @@ nav:
       - mundo/index.md
       - Viajar: mundo/viajar.md
       - La noche: mundo/noche.md
+      - Fauna y caza: mundo/fauna.md
   - Economía:
       - economia/index.md
       - Tiendas y forja: economia/tiendas.md
       - La Aldea de los Herreros: economia/aldea.md
       - El Mercado: economia/mercado.md
-      - Casas de alquiler: economia/casas.md
+      - Casas y parcelas: economia/casas.md
       - Cajas y objetos: economia/objetos.md
   - Social:
       - social/index.md
       - Clanes: social/clanes.md
       - Duelos y dojo: social/duelos.md
+      - Mesas de juego: social/juegos.md
       - Chat, voz y reportes: social/chat.md
   - Rangos VIP: vip.md
   - Comandos: comandos.md

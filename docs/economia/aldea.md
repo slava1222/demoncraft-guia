@@ -52,7 +52,9 @@ Lo que forjas queda **ligado a ti**: no se tira ni se vende, y vuelve contigo al
 ## Los cinco conjuntos
 
 Cada pieza da **armadura** y **defensa contra demonios** (el golpe de un demonio te quita ese tanto menos). Con **2 y 4 piezas
-del mismo conjunto** ganas habilidades. Nada de esto funciona en el dojo ni contra otros jugadores: solo contra demonios.
+del mismo conjunto** ganas habilidades. La defensa y las habilidades no funcionan en el dojo ni contra otros jugadores: solo
+contra los demonios que no son jugadores. Contra un demonio jugador cuenta la armadura y
+[la resistencia a sus artes](#contra-las-artes-de-un-demonio-jugador).
 
 | Conjunto | Precio de las piezas | Pide | Con 2 piezas | Con 4 piezas |
 |---|---|---|---|---|
@@ -70,6 +72,14 @@ del mismo conjunto** ganas habilidades. Nada de esto funciona en el dojo ni cont
 Los planos del **Guardián del Fuelle** y del **Viento de Glicina** te los dan dos jefes de la historia la primera vez que los
 vences. Los materiales salen de jugar: ceniza y colmillos de los demonios de la noche, acero y núcleos de los demonios con
 nombre, esquirlas de las Lunas y de las cacerías, y lo básico en las tiendas de la Aldea.
+
+### Contra las artes de un demonio jugador
+
+Además, cada pieza te da **resistencia a las artes de sangre de un demonio jugador** (fuera del dojo): un 1 % por pieza del
+Aprendiz, un 2 % del Fuelle y de la Glicina, un 3 % del Cazador de Lunas y un 4 % del Hierro del Cielo. Con un conjunto entero,
+del **4 %** al **16 %**, y el **Omamori del Sol Naciente** (el amuleto legendario) suma un 2 % más: como mucho, un **18 %**.
+Vale también contra lo que sus artes invocan (los peces, los niños de cristal…), pero no contra su zarpazo ni su mordisco. Lo
+pone la ficha de cada pieza. Los demonios tienen lo mismo contra tus formas.
 
 ## Amuletos, talismanes y abalorios (Kotetsu)
 

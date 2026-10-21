@@ -45,8 +45,11 @@ Muchos objetos importantes (tu uniforme inicial, tu hoja personal, la mochila de
 ## Objetos de misión
 
 Los objetos de misión, el metal de la forja, las reliquias y el atrezo de los encargos **no sirven de ingrediente**:
-no se gastan en la mesa de trabajo, el yunque, el horno ni en ninguna otra mesa. Si pierdes uno que necesitas para una
-misión, pide ayuda al staff.
+no se gastan en la mesa de trabajo, el yunque, el horno ni en ninguna otra mesa.
+
+Si una misión te pide llevar encima algo que **te dio la propia historia** y ya no lo tienes (por ejemplo, lo guardaste en
+un cofre), **háblale a quien te lo pide**: te lo devuelve («de nuevo») y, si era lo único que faltaba, el paso se completa.
+Necesitas un hueco libre. Si aun así te falta algo, pide ayuda al staff.
 
 ## Tu skin
 

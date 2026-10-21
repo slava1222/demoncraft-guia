@@ -74,3 +74,10 @@ volver con el [cuervo](viajar.md) (K → Lugares → **Ir**).
 
 !!! tip "El mapa en el juego"
     Pulsa ++m++ para abrir el mapa del mundo. Se va dibujando con lo que exploras, y puedes poner tus propios puntos.
+
+## Más allá de los lugares
+
+- **Por el campo**, lejos de los pueblos, te cruzarás con lobos, osos, jabalíes, vacas y ciervos: [fauna y caza](fauna.md).
+- **Zonas seguras**: bares y plazas donde nadie pelea, que además son refugio de la noche: [ver](noche.md#zonas-seguras).
+- **Parcelas**: trozos de suelo con su valla y su cartel que se alquilan para construir desde cero:
+  [ver](../economia/casas.md#parcelas-para-construir).

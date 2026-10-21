@@ -51,6 +51,11 @@ espera de las formas y un 5 % más de botín nocturno. Las teclas ++z++, ++x++ y
 | Terminar un encargo | entre 5 y 14 |
 | Terminar una cadena de misiones (historia, Pilar, campaña) | entre 8 y 32 |
 
+!!! warning "Morir cuesta méritos"
+    Al morir pierdes una parte de los méritos que has ganado desde tu rango: el **15 %** si te mata un demonio jugador y el
+    **7 %** si mueres de otra cosa. **Nunca bajas de rango**, y los méritos que ya pagan el siguiente rango (mientras esperas
+    tus días de servicio) no se pierden, ni lo que tengas en reserva. [Ver cómo](combate.md#si-mueres).
+
 ## Efectos visuales
 
 En **K → Rango** eliges qué efectos llevas: **Destello de caza** (una chispa al derribar un demonio), **Estela al

@@ -63,3 +63,6 @@ Si alguien insulta, hace trampas, roba o destroza, escribe **`/report <jugador>`
 El staff puede **avisarte**, **silenciarte**, **expulsarte**, **banearte** o **congelarte** (no te mueves ni puedes
 hacer nada mientras te revisan; no te desconectes). **Tres avisos en una semana** te silencian una hora
 automáticamente. El silencio afecta al chat y a los privados; si alguien molesta por voz, repórtalo.
+
+Si el staff te retira algo del inventario, no se lo queda nadie: se guarda aparte a tu nombre y te lo pueden devolver (a tu
+inventario o, si no cabe o no estás conectado, a tu buzón del Mercado).

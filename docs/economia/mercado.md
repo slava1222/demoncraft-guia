@@ -53,7 +53,8 @@ description: El Mercado de DemonCraft - cómo vender y comprar entre jugadores, 
 ## El buzón
 
 Al buzón llega lo que te corresponde y no te cabe: compras, anuncios caducados, pujas devueltas, lo que había en tu casa
-al acabar el alquiler, o lo que tenías en el cursor al salir del juego. **El dinero pasa solo a tu saldo** cuando entras.
+o tu parcela al acabar el alquiler, o lo que tenías en el cursor al salir del juego. **El dinero pasa solo a tu saldo** cuando
+entras.
 Al entrar te avisa: *«✉ Tienes N objetos esperando en el buzón del Mercado»*.
 
 ## Qué no se puede vender

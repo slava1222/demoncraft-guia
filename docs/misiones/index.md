@@ -41,7 +41,7 @@ campañas también ves la lista de objetivos y, si hay prisa, un reloj.
 
 | Objetivo | Cómo se cumple |
 |---|---|
-| Hablar / entregar | Clic derecho al personaje (con lo que pide en el inventario). |
+| Hablar / entregar | Clic derecho al personaje (con lo que pide en el inventario). En plena pelea con otro jugador no te atiende. |
 | Cazar demonios | De noche. Si el paso tiene zona, solo cuentan los que caen dentro. |
 | Aguantar la noche | Unos 8 minutos de noche sin morir, donde quieras. Si te mata otro jugador, no se pierde. |
 | Quedarse en un sitio | Salir pausa el tiempo, no lo reinicia. |
@@ -65,6 +65,13 @@ campañas también ves la lista de objetivos y, si hay prisa, un reloj.
 !!! warning "Inventario lleno = el paso espera"
     Si no tienes sitio para la recompensa, el paso **no se completa**: el personaje te dice cuántos huecos necesitas.
     Deja siempre 2 o 3 libres.
+
+## Objetos de misión
+
+Los objetos importantes de las misiones van **ligados**: no se tiran ni se pierden al morir, pero sí se pueden guardar en un
+cofre. Si un paso te pide llevar encima algo que **te dio la propia historia** y ya no lo tienes, **habla con quien te lo
+pide**: te lo devuelve («de nuevo») y, si era lo único que faltaba, el paso se completa en ese mismo clic. Necesitas un hueco
+libre. Si aun así te falta algo, pide ayuda al staff.
 
 ## Jefes
 

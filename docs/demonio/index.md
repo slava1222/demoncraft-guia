@@ -9,12 +9,15 @@ description: Cómo se convierte un cazador en demonio en DemonCraft, la oferta d
 
 ## La oferta
 
-Cuando ya eres un cazador del Cuerpo de verdad (bien avanzada tu formación), **Muzan** puede aparecer delante de ti
-una noche. Solo viene si:
+Cuando ya has terminado tu formación con el Agua y tienes **tu primera katana nichirin** (la forja de Haganezuka, que
+cierra la cadena del Agua), **Muzan** puede aparecer delante de ti una noche. Solo viene si:
 
 - es **plena noche** y estás **al aire libre**, lejos de las glicinas;
 - estás **tranquilo**: sin pelear, sin montura, sin duelo y sin bichos persiguiéndote;
 - llevas un rato jugando y no te ha visitado ya esa noche.
+
+Así, todo demonio empieza con su primera hoja. Si aceptaste su sangre antes de tenerla, Muzan no vendrá a dártela hasta
+que termines la cadena del Agua.
 
 <div class="galeria" markdown>
 <figure markdown="span">
@@ -47,13 +50,17 @@ una noche. Solo viene si:
     - **La comida humana no te sirve**: necesitas **carne humana**. El hambre baja más rápido.
     - **No respiras**: con una katana en la mano solo cortas. Sin cuervo, sin uniforme del Cuerpo (se guarda y vuelve si
       te curas), sin méritos ni Caja del Cuartel.
-    - **El Cuerpo te persigue**: cuanto más llamas la atención, más patrullas y cazadores con nombre.
+    - **El Cuerpo te persigue**: cuanto más llamas la atención, más patrullas. Y algunas misiones mandan a un cazador con
+      nombre a por ti.
     - Un golpe de **nichirin** o una forma te impide regenerarte un rato.
+    - **Morir cuesta sangre**: pierdes una parte de la que llevas ganada desde tu rango (nunca el rango).
 
 !!! tip "Lo bueno"
     - **Regeneración propia** de noche o bajo techo (desde el rango de sangre 4).
     - **Más corazones y velocidad** con cada rango de sangre. Visión nocturna.
-    - **Artes de sangre**: clic derecho con la mano vacía, ++z++, ++x++ y ++c++.
+    - **Artes de sangre**: clic derecho con la mano vacía, ++z++, ++x++ y ++c++. Con el tiempo, las sangres de las demás
+      Lunas.
+    - **Garras**, el **mordisco** con la ++e++ y la guardia con los brazos.
     - Los demonios de la noche **no te atacan**.
     - Viajas con la **biwa de Nakime** y tienes el castillo como refugio.
 
@@ -80,15 +87,19 @@ una noche. Solo viene si:
 
 -   **[Linajes y artes](artes.md)**
 
-    Tus artes de sangre, cómo aprenderlas y cómo ponerlas en las teclas.
+    Tus artes de sangre, cómo aprenderlas, cómo ponerlas en las teclas y el Árbol de la Sangre.
+
+-   **[Combate](combate.md)**
+
+    Garras, el mordisco, cubrirte con los brazos, las armas de sangre y el PvP contra cazadores.
 
 -   **[La vida de un demonio](vida.md)**
 
-    Dinero, tiendas, Mercado, la biwa de Nakime, clanes y encargos de la noche.
+    Dinero y la paga de la noche, tiendas, Mercado, la biwa de Nakime, clanes y encargos de la noche.
 
 -   **[El Mercado de la Noche](mercado.md)**
 
-    Tu equipo: ropa, amuletos, la botica y las garras endurecidas, en el Castillo Infinito.
+    Tu equipo: ropa, armas de sangre, amuletos, la botica y las garras endurecidas, en el Castillo Infinito.
 
 -   **[Volver a ser humano](cura.md)**
 

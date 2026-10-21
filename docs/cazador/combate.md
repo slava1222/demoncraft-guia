@@ -1,6 +1,6 @@
 ---
 title: Combate
-description: Cómo funciona el combate en DemonCraft - combos, la katana en carrera, el golpe crítico, bloqueo y esquiva, parkour, daño de las formas, curación, reliquias y PvP.
+description: Cómo funciona el combate en DemonCraft - combos, la katana en carrera, el golpe crítico, bloqueo y esquiva, las técnicas contra la guardia, parkour, daño de las formas, curación, reliquias, PvP, la marca de combate y lo que cuesta morir.
 ---
 
 # Combate
@@ -38,6 +38,18 @@ deprisa no pega más. Para picar un bloque (o golpear el poste y la roca de un e
   ninguna tecla. Vale para cazadores y para demonios.
 - Cada forma y cada arte siguen con **su propia espera**: los 4 s son solo la pausa antes de la siguiente técnica.
 
+### Las técnicas contra la guardia
+
+La guardia ya no para gratis una técnica. Cuando te cubres (++f++) de una forma, un arte o la habilidad de un arma, cada
+técnica hace una tirada:
+
+- Con un arma en la mano, **a veces te rompe la guardia** (un 35 % de las veces). Si no, **la aguantas, pero te cuesta**
+  un tercio largo de tu estamina: «Aguantas la técnica, pero te cuesta…».
+- La guardia de brazos de un demonio (con las manos vacías) **la rompe siempre**.
+- Si se rompe, te quedas aturdido un instante (ese golpe se para igual): «¡La técnica te rompe la guardia!».
+- **La parada a tiempo sigue ganando**: si pulsas ++f++ justo antes del golpe, no hay tirada.
+- Vale para los dos bandos y también para las técnicas de los jefes y de los cazadores del Cuerpo.
+
 ## El golpe crítico
 
 <ol class="pasos" markdown>
@@ -53,14 +65,17 @@ deprisa no pega más. Para picar un bloque (o golpear el poste y la roca de un e
 
 ![El icono del golpe crítico: faltan 9 segundos](../assets/img/capturas/critico-espera.webp){ align=right width="96" loading=lazy }
 
-- Quita como **tres golpes en uno** a los demonios (más cuanto mejor sea tu katana) y **6 de vida** a un jugador demonio.
+- Quita como **tres golpes en uno** a los demonios (más cuanto mejor sea tu katana) y **4 de vida** a un jugador demonio.
   A los jefes, como cualquier golpe, no más de un cuarto de su vida.
 - Una vez cada **30 segundos**: el icono **突**, junto a tus teclas (o a la derecha de la barra de objetos), cuenta los segundos hasta el siguiente. Si aún no toca, en vez del aviso ves cuánto falta.
 - Solo cuentan los **golpes normales que entran**: las formas, las teclas Z, X y C, un golpe bloqueado o esquivado no suman. Cada
   demonio lleva su cuenta.
 - Vale contra los demonios de la noche, los jefes, los jugadores demonio (fuera del dojo), los Kabocha-oni de Halloween y el
   [muñeco del dojo](../social/duelos.md#el-muneco-de-practica).
-- Sin el aviso, la ++e++ abre el inventario como siempre.
+- Los demonios jugadores tienen el suyo, el [mordisco](../demonio/combate.md#el-mordisco). **Si los dos os dais los tres
+  golpes a la vez**, os sale el aviso a los dos y se lleva la escena **el primero que pulsa la E**; al otro se le cierra:
+  «¡Se te ha adelantado!».
+- Sin el aviso, la ++e++ abre el inventario como siempre (mientras te sujetan en una escena así, no).
 
 ## El daño
 
@@ -82,6 +97,8 @@ se deshace en ceniza.
 - Acabas **detrás del demonio**, como en la escena, solo si ahí hay sitio; si no, el tajo vuela hasta su cuello.
 - Los efectos son los de **tu respiración**. Si el golpe final lo da un Pilar que te acompaña, es él quien corta la cabeza.
 - Quien peleaba contigo contra el jefe también lo ve con cámara; los demás que estén cerca, en el mundo.
+- Si estás en plena pelea con otro jugador (con la [marca de combate](#la-marca-de-combate)), el demonio muere sin la
+  película.
 
 ## Curarte
 
@@ -112,23 +129,49 @@ mientras las llevas encima (en un duelo no cuentan). No van ligadas: se pueden r
 
 - **Entre cazadores** solo hay combate en **duelo**, en el [dojo](../social/duelos.md). Allí los dos entráis iguales y
   nadie pierde nada (con los mismos topes de daño que fuera).
-- **Demonios contra cazadores**: en todo el mapa, salvo en los refugios (bosques de glicinas y la casa de los Kamado) y
-  contra cazadores que aún no tienen su katana.
+- **Demonios contra cazadores**: en todo el mapa, salvo en los refugios (bosques de glicinas y la casa de los Kamado), las
+  [zonas seguras](../mundo/noche.md#zonas-seguras) y las casas o parcelas que su inquilino ha dejado
+  [sin PvP](../economia/casas.md#pvp-en-tu-casa), y contra cazadores que aún no tienen su katana.
 - Fuera del dojo, en PvP la **armadura cuenta la mitad** y nadie cae de una ráfaga: como mucho **5 de vida por golpe**, **7 por
   segundo** y, de un mismo rival, **12 cada 10 segundos** (lo que pase entra muy rebajado). Cuenta todo lo suyo: sus técnicas, lo que
   invoca, el frío, el veneno o la marchitez que te deje y la caída si te lanzó por los aires. Dos rivales a la vez son más peligrosos que uno.
 - Las **formas** tienen topes algo más altos cuanto mayor es su número (la última, hasta 12 por golpe), pero una forma entera no
   quita más del 90 % de tu vida.
 - Entre jugadores, lo que te deja sin pelear (lentitud fuerte, debilidad, ceguera, náusea, quedarte clavado) dura **2 segundos** como mucho.
+- Las prendas de la Aldea te protegen algo de las **artes de un demonio jugador**: de un 1 % a un 4 % por prenda, según su
+  nivel ([ver](../economia/aldea.md#contra-las-artes-de-un-demonio-jugador)).
 - **Al conectarte** tienes **30 segundos** en los que nada puede hacerte daño (tampoco el sol, si eres demonio); se acaban en
   cuanto atacas, lanzas una técnica o empiezas un duelo. Si te fuiste en plena pelea y vuelves antes de 10 minutos, no los tienes.
-- **Salirse en plena pelea no salva**: si te desconectas con un golpe dado o recibido de otro jugador en los últimos
-  **30 segundos**, mueres al salir y la muerte es de ese jugador (cuenta como una muerte en PvP de verdad, con aviso para todos).
-  En los duelos no pasa.
+- Los demonios ponen **precio a tu cabeza**: cuanto más alto es tu rango y más demonios cazas, más vale
+  ([ver](../demonio/combate.md#cabezas-con-precio)).
+
+### La marca de combate
+
+Cuando cruzas un golpe con otro jugador, se lo des tú o te lo dé él (también con una flecha, un arte o lo que invoca),
+**los dos** entráis en combate durante **30 segundos**, aunque el golpe no haga daño o lo pare la guardia. Cada golpe nuevo
+vuelve a empezar la cuenta. En los duelos del dojo no hay marca.
+
+- Lo ves en una franja **encima de tu barra de vida**: «⚔ EN COMBATE» con los segundos que quedan (los cinco últimos
+  laten). Al acabar, «✓ FUERA DE COMBATE» en verde.
+- Mientras dura no puedes viajar, hablar con los personajes, retar a duelo ni ir a mirar uno, sentarte, jugar en una
+  [mesa](../social/juegos.md), cambiar de sangre ni quitar el PvP de tu casa.
+- **Una zona segura o una casa sin PvP no te protegen** mientras la llevas: dentro te pueden pegar y tú puedes pegar. Al
+  acabarse estando dentro, te avisa: «ya estás a salvo».
+- **Salirse en plena pelea no salva**: si sales del juego con la marca, **mueres al salir** y la muerte es de ese jugador
+  (cuenta como una muerte en PvP de verdad, con aviso para todos). Tampoco te libran entrar con tu cuenta desde otro
+  ordenador, esperar turno para un duelo ni una escena.
 
 ## Si mueres
 
-No pierdes el inventario ni el dinero. Verás caer a tu personaje (la espada se le escapa de la mano, los ojos se le
-cierran) y **despertarás vendado en una cama del Hospital de Tokio**: los Kakushi te han traído hasta allí. Mientras
-despiertas nadie puede hacerte daño. Si tienes prisa, **mantén ESPACIO** un segundo para saltar cualquiera de las dos
-escenas.
+No pierdes el inventario ni el dinero, pero **sí una parte de los méritos** que has ganado desde tu rango:
+
+- El **15 %** si te mata un demonio jugador (también si te sales en plena pelea con él). El mismo demonio no te lo vuelve a
+  cobrar en 30 minutos: la siguiente vez cuesta como cualquier otra muerte.
+- El **7 %** si mueres de otra cosa: un demonio de la noche, un jefe, una caída…
+- **Nunca bajas de rango.** Si ya tienes los méritos del siguiente rango y solo te faltan días de servicio, esos no se
+  pierden, ni lo que tengas en reserva.
+- El chat te lo dice: «La muerte te ha costado 15 méritos (te ha matado …). Tu rango se queda.»
+
+Verás caer a tu personaje (la espada se le escapa de la mano, los ojos se le cierran) y **despertarás vendado en una cama
+del Hospital de Tokio**: los Kakushi te han traído hasta allí. Mientras despiertas nadie puede hacerte daño. Si tienes
+prisa, **mantén ESPACIO** un segundo para saltar cualquiera de las dos escenas.

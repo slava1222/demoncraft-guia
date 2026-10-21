@@ -27,20 +27,25 @@ description: Cómo funciona el dinero en DemonCraft - dónde ver tu saldo, todas
 | **Mercado** | Lo que vendes a otros jugadores, menos un 5 %. |
 | **Temporada del dojo** | 15.000 / 8.000 / 4.000 para los tres primeros del mes. |
 | **Apuestas** en los duelos | Si aciertas, te repartes lo que pierden los demás. |
+| **[Mesas de juego](../social/juegos.md)** | Ajedrez, pulso o dardos con apuesta: quien gana se lleva las dos (de 100 a 25.000 cada uno). |
 
 Con un **[rango VIP](../vip.md)** todo lo que paga el servidor (misiones, encargos, noche, Luna) es un **25 % más** (salvo con el
 Amanecer, que es solo de aspecto).
 
 !!! demonio "Si eres demonio"
-    Tus misiones y tus encargos de la noche también pagan. No tienes recompensa nocturna, Luna de Sangre ni Caja del Cuartel.
+    Tus misiones y tus encargos de la noche también pagan, y además tienes tu propia paga de la noche (35 por cada cazador de
+    patrulla que rompes, 70 el de élite, cobrada al amanecer: [ver](../demonio/vida.md#la-paga-de-la-noche)) y el precio de la
+    [cabeza de los cazadores](../demonio/combate.md#cabezas-con-precio) que matas. No tienes recompensa nocturna, Luna de
+    Sangre ni Caja del Cuartel.
 
 ## En qué se gasta
 
 | Gasto | Precio |
 |---|---|
 | [Casa de alquiler](casas.md) | 20.000 cada 30 días |
+| [Parcela](casas.md#parcelas-para-construir) | Lo que diga su cartel, por 30 días |
 | [Viajes](../mundo/viajar.md) en cuervo | 60 + 0,4 por bloque (máximo 1.200; VIP, la mitad, salvo el Amanecer) |
-| [Tiendas](tiendas.md) | Comida, provisiones, muebles y materiales |
+| [Tiendas](tiendas.md) | Comida, provisiones, materiales y [muebles japoneses](tiendas.md#los-muebles-japoneses) (de 600 a 16.000) |
 | [Reforja](../cazador/katana.md#si-pierdes-tu-katana-la-reforja) de tu katana | Desde 4.000 |
 | [Equipo de la Aldea](aldea.md) | Prendas de 1.000 a 55.000, amuletos de 400 a 42.000, templar la katana de 1.000 a 15.000 |
 | Fundar un [clan](../social/clanes.md) | 5.000 |

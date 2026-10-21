@@ -13,8 +13,8 @@ description: Cómo gana sangre un demonio, los diez rangos de sangre, el sol, la
 |---|---|---|
 | **Devorar** a un vecino (agachado + clic derecho, 2,5 s quieto) | +25 | Te llena el hambre y te cura. Es un **crimen**: sube tu notoriedad. |
 | **Lotos de sangre**: de noche florecen cerca de ti y brillan; pásales por encima | +12 | Se marchitan al amanecer. |
-| **Cazadores del Cuerpo** que patrullan | +8 (élite +16) | A veces sueltan **sangre espesa**. |
-| **Un cazador jugador** | +60 | |
+| **Cazadores del Cuerpo** que patrullan | +8 (élite +16) | A veces sueltan **sangre espesa**, y suman a tu [paga de la noche](vida.md#la-paga-de-la-noche). |
+| **Un cazador jugador** | +60 | Si su cabeza tiene [precio](combate.md#cabezas-con-precio), cobras además ese dinero y su 20 % en sangre. |
 | **Misiones** y **encargos de la noche** | Variable | Los encargos de la noche cambian cada día (K → Sangre). |
 
 - **Saciedad:** las 5 primeras comidas de cada noche dan la sangre entera; las 5 siguientes, la mitad; después, muy poca.
@@ -66,6 +66,10 @@ superas el **rito** de la edad siguiente. La K te avisa: *«Tu sangre está quie
 - Haz **clic en un nodo** para aprenderlo. Al pasar el ratón ves qué pide (y lo que te falta, sin marcar).
 - **Renegar de la sangre** (botón en K → Sangre) te devuelve los puntos para repartirlos de nuevo. Cuesta **3 lotos negros**.
 
+!!! info "No lo confundas con el Árbol de la Sangre"
+    Este árbol (K → Sangre) son tus nodos. El **Árbol de la Sangre** (`/sangre`, o K → Artes) son las seis sangres de las
+    Lunas, que puedes ir heredando: [ver](artes.md#el-arbol-de-la-sangre).
+
 <figure markdown="span">
   ![K, pestaña Sangre](../assets/img/capturas/kd-sangre.webp){ loading=lazy }
   <figcaption>K → Sangre: tu rango y edad, el sol, el miedo, las ofrendas, los encargos de la noche y el árbol de sangre.</figcaption>
@@ -88,5 +92,11 @@ superas el **rito** de la edad siguiente. La K te avisa: *«Tu sangre está quie
 
 ## Al morir
 
-Pierdes hasta un **15 %** de la sangre que llevabas hacia el siguiente rango (nunca bajas de rango) y reapareces en el
-castillo.
+Reapareces en el castillo y pierdes una parte de la sangre que has ganado desde tu rango (**nunca bajas de rango**):
+
+- El **15 %** si te mata un cazador jugador (también si te sales en plena pelea con él). El mismo cazador no te lo vuelve a
+  cobrar en 30 minutos: la siguiente vez cuesta como cualquier otra muerte.
+- El **7 %** si mueres de otra cosa: el sol, un cazador del Cuerpo, una caída…
+- El chat te lo dice: «La muerte te ha costado … de sangre (…). El nivel se queda.»
+
+A los cazadores les pasa lo mismo con sus méritos.

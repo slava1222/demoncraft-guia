@@ -1,6 +1,6 @@
 ---
 title: Social
-description: Clanes, duelos en el dojo, chat, chat de voz, títulos y reportes en DemonCraft.
+description: Clanes, duelos en el dojo, mesas de juego, chat, chat de voz, títulos y reportes en DemonCraft.
 ---
 
 # Social
@@ -18,6 +18,12 @@ description: Clanes, duelos en el dojo, chat, chat de voz, títulos y reportes e
     ---
 
     Combates justos en el dojo, puntuación por temporadas, apuestas y el Trofeo del Dojo.
+
+-   :material-chess-knight:{ .lg .middle } **[Mesas de juego](juegos.md)**
+
+    ---
+
+    Ajedrez, pulso y dardos en 3D contra otro jugador, con apuesta o sin ella.
 
 -   :material-account-group-outline:{ .lg .middle } **[Chat, voz y reportes](chat.md)**
 
