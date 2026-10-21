@@ -3,7 +3,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Todos los comandos que puede usar un jugador en DemonCraft - cuenta, chat, clanes, duelos, casas, Mercado, VIP, entrenamiento y más.">
+        <meta name="description" content="Todos los comandos que puede usar un jugador en DemonCraft - cuenta, chat, clanes, duelos, mesas de juego, casas y parcelas, Mercado, VIP, entrenamiento, el Árbol de la Sangre y más.">
       
       
         <meta name="author" content="DemonCraft">
@@ -1040,6 +1040,8 @@
       
         
       
+        
+      
     
     
     
@@ -1137,6 +1139,34 @@
     
   
     Linajes y artes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../demonio/combate/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Combate
   
 
     
@@ -1362,6 +1392,8 @@
       
         
       
+        
+      
     
     
     
@@ -1459,6 +1491,34 @@
     
   
     La noche
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mundo/fauna/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fauna y caza
   
 
     
@@ -1654,7 +1714,7 @@
   <span class="md-ellipsis">
     
   
-    Casas de alquiler
+    Casas y parcelas
   
 
     
@@ -1714,6 +1774,8 @@
       
         
           
+        
+      
         
       
         
@@ -1819,6 +1881,34 @@
     
   
     Duelos y dojo
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../social/juegos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Mesas de juego
   
 
     
@@ -2038,6 +2128,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#mesas-de-juego" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mesas de juego
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#rangos-vip" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -2198,6 +2299,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#mesas-de-juego" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mesas de juego
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#rangos-vip" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -2328,6 +2440,14 @@ dinero a otro jugador, <a href="../economia/#puedo-darle-dinero-a-otro-jugador">
 <td><code>/bando</code></td>
 <td>Tu estado entre cazador y demonio, y lo que te falta para cambiar. <a href="../demonio/cura/#el-comando-bando">Ver</a></td>
 </tr>
+<tr>
+<td><code>/sangre</code></td>
+<td>Demonio: el Árbol de la Sangre (heredar y activar sangres). <a href="../demonio/artes/#el-arbol-de-la-sangre">Ver</a></td>
+</tr>
+<tr>
+<td><code>/cabezas</code></td>
+<td>Los cinco cazadores conectados cuya cabeza vale más para los demonios. <a href="../demonio/combate/#cabezas-con-precio">Ver</a></td>
+</tr>
 </tbody>
 </table>
 <h2 id="economia">Economía<a class="headerlink" href="#economia" title="Permanent link">#</a></h2>
@@ -2362,6 +2482,18 @@ dinero a otro jugador, <a href="../economia/#puedo-darle-dinero-a-otro-jugador">
 <tr>
 <td><code>/casa quitar &lt;jugador&gt;</code> · <code>/casa salir</code> · <code>/casa dejar</code></td>
 <td>Quitar a un compañero · irte de la casa en la que vives · dejar tu casa</td>
+</tr>
+<tr>
+<td><code>/casa pvp si\|no</code></td>
+<td>Poner o quitar el <abbr title="Jugador contra jugador">PvP</abbr> dentro de tu casa (solo el inquilino). <a href="../economia/casas/#pvp-en-tu-casa">Ver</a></td>
+</tr>
+<tr>
+<td><code>/parcela</code></td>
+<td>Tu parcela para construir: lo mismo que <code>/casa</code> (<code>ver</code>, <code>ir</code>, <code>pagar</code>, <code>automatico</code>, <code>invitar</code>, <code>quitar</code>, <code>salir</code>, <code>dejar</code>, <code>pvp</code>…). <a href="../economia/casas/#parcelas-para-construir">Ver</a></td>
+</tr>
+<tr>
+<td><code>/parcela lista</code> · <code>/parcela obras &lt;jugador&gt; si\|no</code></td>
+<td>Las parcelas libres · dar o quitar a un compañero el permiso de obra</td>
 </tr>
 <tr>
 <td><code>/mercado</code></td>
@@ -2476,6 +2608,30 @@ dinero a otro jugador, <a href="../economia/#puedo-darle-dinero-a-otro-jugador">
 </tbody>
 </table>
 <p><a href="../social/duelos/">Todo sobre los duelos</a></p>
+<h2 id="mesas-de-juego">Mesas de juego<a class="headerlink" href="#mesas-de-juego" title="Permanent link">#</a></h2>
+<table>
+<thead>
+<tr>
+<th>Comando</th>
+<th>Qué hace</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>/ajedrez</code> · <code>/pulso</code> · <code>/dardos</code></td>
+<td>Cómo se juega cada uno.</td>
+</tr>
+<tr>
+<td><code>/ajedrez retar &lt;jugador&gt; [apuesta]</code></td>
+<td>Retar a quien tengas cerca, después de pinchar la mesa (igual con <code>/pulso</code> y <code>/dardos</code>).</td>
+</tr>
+<tr>
+<td><code>/ajedrez rechazar</code> · <code>cancelar</code> · <code>rendirse</code></td>
+<td>Rechazar un reto · retirar el tuyo · dejar la partida.</td>
+</tr>
+</tbody>
+</table>
+<p><a href="../social/juegos/">Todo sobre las mesas de juego</a></p>
 <h2 id="rangos-vip">Rangos <abbr title="Rango de apoyo: se compra en la tienda y ayuda a mantener el servidor">VIP</abbr><a class="headerlink" href="#rangos-vip" title="Permanent link">#</a></h2>
 <table>
 <thead>
@@ -2495,7 +2651,7 @@ dinero a otro jugador, <a href="../economia/#puedo-darle-dinero-a-otro-jugador">
 </tr>
 <tr>
 <td><code>/vip mascota &lt;cuál&gt;</code></td>
-<td>Con varios rangos: elegir tu mascota (<code>cuervo</code>, <code>zorro</code>, <code>mariposa</code>, <code>farol</code>, <code>dragon</code> o <code>ropa</code>).</td>
+<td>Con varios rangos: elegir tu mascota (<code>koi</code>, <code>gorrion</code>, <code>lechuza</code>, <code>fenix</code>, <code>avelira</code>, <code>jabato</code>, <code>zorro</code>, <code>mariposa</code>, <code>farol</code>, <code>dragon</code> o <code>ropa</code>).</td>
 </tr>
 <tr>
 <td><code>/vip titulo</code></td>
@@ -2532,6 +2688,10 @@ dinero a otro jugador, <a href="../economia/#puedo-darle-dinero-a-otro-jugador">
 <tr>
 <td><span class="keys"><kbd class="key-b">B</kbd></span></td>
 <td>Tu mochila.</td>
+</tr>
+<tr>
+<td><span class="keys"><kbd class="key-i">I</kbd></span></td>
+<td>Junto a la placa de una casa o al cartel de una parcela: su pantalla.</td>
 </tr>
 <tr>
 <td><span class="keys"><kbd class="key-v">V</kbd></span></td>
