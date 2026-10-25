@@ -9,8 +9,9 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
 
 ??? question "No me deja entrar"
     - **«¡No estás en la lista blanca!»**: pide acceso en el [Discord](https://discord.gg/mdwAvAMBvr).
-    - **Error de mods o de versión** (también después de una actualización: con el pack anterior no se entra): con el
-      launcher, pulsa JUGAR y se pone al día solo; si juegas sin él, baja el
+    - **Error de mods o de versión** (también después de una actualización: con el pack anterior no se entra): cierra el
+      juego y abre el DemonCraft Launcher, que lo pone al día solo (si tu pack es viejo, el juego te lo avisa arriba del
+      menú principal); si juegas sin él, baja el
       [zip nuevo del pack](https://github.com/slava1222/demoncraft-launcher/releases/download/modpack/DemonCraft-Modpack.zip) y
       cambia la carpeta `mods` entera.
     - **«Tu IP está bloqueada temporalmente»**: has fallado la contraseña muchas veces; espera unos minutos.
@@ -20,13 +21,18 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
     Pide ayuda al staff en el Discord. Comprobarán que eres tú y te pondrán una temporal; luego cámbiala con
     `/changepassword <temporal> <nueva>`.
 
+??? question "Juego con otro launcher (o sin cuenta premium): ¿me sirve el DemonCraft Launcher?"
+    Sí. En *Ajustes → Cómo juegas* elige **Con otro launcher** (o elígelo la primera vez que lo abras): cada vez que lo
+    abras pondrá el pack en la carpeta de tu launcher. Después abre tu launcher, elige la versión **DemonCraft** y juega.
+    Los pasos, en [Cómo entrar](empezar/index.md#opcion-a-demoncraft-launcher-recomendada).
+
 ??? question "¿Puedo jugar sin el DemonCraft Launcher?"
-    Sí: descarga el [zip del pack](empezar/index.md#opcion-b-el-zip-del-pack-curseforge-y-otros-launchers) e
+    Sí: descarga el [zip del pack](empezar/index.md#opcion-b-el-zip-del-pack-curseforge-o-a-mano) e
     impórtalo en CurseForge o en el launcher que uses. La primera vez el servidor te pedirá crear una contraseña.
 
 ??? question "El juego me va lento"
-    Sube la memoria en *Ajustes* del DemonCraft Launcher (4 GB está bien con 8 GB de RAM), quita los shaders y, en
-    **K → Rango**, apaga **«Efectos de los demás»**.
+    Sube la memoria en *Ajustes* del DemonCraft Launcher (con otro launcher, en el tuyo; 4 GB está bien con 8 GB de RAM),
+    quita los shaders y, en **K → Rango**, apaga **«Efectos de los demás»**.
 
 ## Jugando
 

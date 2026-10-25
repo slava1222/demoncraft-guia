@@ -83,4 +83,5 @@ estaba sin asignar y la O quedaba libre) y te avisa. Los packs de shaders se eli
 
 ??? tip "Volver a las teclas de DemonCraft"
     Con el juego **cerrado**, borra el archivo `config/demoncraft-controles.txt` de la carpeta del juego
-    (con el launcher, `%APPDATA%\.demoncraft`). La próxima vez que lo abras se vuelven a poner y sale el resumen en el chat.
+    (con el DemonCraft Launcher y el launcher oficial, `%APPDATA%\.demoncraft`; con otro launcher, la carpeta del juego de ese
+    launcher). La próxima vez que lo abras se vuelven a poner y sale el resumen en el chat.
