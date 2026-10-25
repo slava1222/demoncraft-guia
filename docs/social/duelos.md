@@ -1,6 +1,6 @@
 ---
 title: Duelos y dojo
-description: Duelos en el Dojo de las Glicinas - requisitos, cómo retar por el chat, las reglas del tatami y los 5 segundos para volver a él, la puntuación, las temporadas, las apuestas, el Trofeo del Dojo y el muñeco de práctica.
+description: Duelos en el Dojo de las Glicinas - requisitos, cómo retar por el chat, las reglas del tatami y los 5 segundos para volver a él, el dojo protegido durante un duelo, la puntuación, las temporadas, las apuestas, el Trofeo del Dojo y el muñeco de práctica junto al estanque.
 ---
 
 # Duelos y dojo
@@ -36,9 +36,10 @@ TATAMI! 5…» con un toque cada segundo y tu rival ve tu cuenta. Al volver, «�
 vuelves a tiempo, pierdes. Si os quedáis fuera los dos a la vez, **empate** (y se devuelven las apuestas).
 
 **Reglas del tatami:** los dos con **20 corazones** y la misma defensa (la ropa y la armadura no cuentan), sin ventajas
-de rango ni VIP. Solo cuentan **vuestras técnicas**: formas de respiración o artes de sangre. La katana va sin templar y el
-demonio pelea con sus **garras de nacimiento** (las del rango de sangre 1, sin endurecer). No se come, no se bebe y
-no se tira ni se recoge nada. Al acabar recuperas tu sitio, tu vida, tu comida y el desgaste de tu equipo.
+de rango ni VIP. Solo cuentan **vuestras técnicas**: formas de respiración o artes de sangre (los Niños de Cristal de Doma
+solo van a por tu rival). La katana va sin templar y el demonio pelea con sus **garras de nacimiento** (las del rango de
+sangre 1, sin endurecer). No se come, no se bebe y no se tira ni se recoge nada. Al acabar recuperas tu sitio, tu vida, tu
+comida y el desgaste de tu equipo.
 
 <div class="galeria" markdown>
 <figure markdown="span">
@@ -54,6 +55,31 @@ no se tira ni se recoge nada. Al acabar recuperas tu sitio, tu vida, tu comida y
   <figcaption>Clasificación: tu marca, los 10 primeros de la temporada y los premios.</figcaption>
 </figure>
 </div>
+
+## El dojo protegido
+
+Desde que los dos duelistas llegan al tatami hasta que acaba el duelo, los demás no pueden molestar:
+
+- **Nadie más pisa el tatami.** Si entras (andando, saltando o con una perla), vuelves fuera, al sitio donde estabas: *«Hay un
+  duelo en el tatami: se mira desde fuera.»* Si ya estabas dentro cuando empieza, sales al porche.
+- **Lo de fuera no llega.** Las flechas y las artes que vuelan de quien no pelea desaparecen al llegar al tatami, y lo que
+  invocan sus artes (lotos, Niños de Cristal, árboles, peces…) desaparece en cuanto está a 12 bloques.
+- **Sin técnicas cerca.** A **12 bloques** del tatami (el salón, los porches y los pasillos del dojo), quien no pelea no lanza
+  formas, artes, ++z++, ++x++, ++c++, el golpe crítico ni el mordisco: *«Hay un duelo en el dojo: aquí no se lanzan técnicas
+  hasta que acabe.»* El Eclipse de Kokushibo, que alcanza a 30 bloques, tampoco sale a esa distancia de un duelo.
+- **Se mira desde fuera**: el porche, el pasillo sur o la [grada](#ver-un-duelo). Los dos que pelean usan todo como siempre.
+- El **patio del estanque**, con el [muñeco de práctica](#el-muneco-de-practica), queda fuera: allí se practica aunque haya un
+  duelo.
+
+<figure markdown="span">
+  ![El aviso al intentar pisar el tatami durante un duelo](../assets/img/capturas/dojo15-tatami.webp){ loading=lazy }
+  <figcaption>Durante un duelo, si intentas pisar el tatami, vuelves fuera.</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![El aviso al lanzar una técnica cerca de un duelo](../assets/img/capturas/dojo15-sin-tecnicas.webp){ loading=lazy }
+  <figcaption>En el porche del dojo, durante un duelo: no sale ninguna técnica hasta que acaba.</figcaption>
+</figure>
 
 ## Puntuación y temporadas
 
@@ -87,8 +113,15 @@ Es un trofeo 3D con su nombre, el mes y sus puntos que se coloca en **su casa de
 
 ## El muñeco de práctica
 
-En la **galería oeste del dojo**, junto al Maestro, hay un **muñeco de práctica** para probar tus golpes, tus formas, tus artes,
-el [golpe crítico](../cazador/combate.md#el-golpe-critico) y el [mordisco](../demonio/combate.md#el-mordisco), sin retar a nadie.
+En el **patio de piedra del dojo**, junto al **estanque grande** (a unos 17 bloques del tatami, mirando hacia el dojo), hay un
+**muñeco de práctica** para probar tus golpes, tus formas, tus artes, el [golpe crítico](../cazador/combate.md#el-golpe-critico)
+y el [mordisco](../demonio/combate.md#el-mordisco), sin retar a nadie. Está lejos de los que pelean y fuera del
+[dojo protegido](#el-dojo-protegido): se practica aunque haya un duelo. Funciona igual que siempre.
+
+<figure markdown="span">
+  ![El muñeco de práctica en el patio de piedra, junto al estanque](../assets/img/capturas/dojo15-muneco.webp){ loading=lazy }
+  <figcaption>El muñeco de práctica, en el patio de piedra del dojo, junto al estanque grande.</figcaption>
+</figure>
 
 - Tiene la vida de un jugador (**20**) y recibe exactamente lo que recibiría un jugador del otro bando sin armadura, con los
   mismos topes del PvP.

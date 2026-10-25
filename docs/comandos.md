@@ -1,6 +1,6 @@
 ---
 title: Comandos
-description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta, chat, clanes, duelos, mesas de juego, casas y parcelas, Mercado, VIP, entrenamiento, el Árbol de la Sangre y más.
+description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta, chat, clanes, duelos, mesas de juego, casas y parcelas, Mercado, VIP, entrenamiento, el Árbol de la Sangre, el Pase Estelar, las cajas y más.
 ---
 
 # Todos los comandos
@@ -40,7 +40,11 @@ description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta
 | `/entrenar` | Abrir los entrenamientos del aliento. [Ver](cazador/entrenamiento.md) |
 | `/bando` | Tu estado entre cazador y demonio, y lo que te falta para cambiar. [Ver](demonio/cura.md#el-comando-bando) |
 | `/sangre` | Demonio: el Árbol de la Sangre (heredar y activar sangres). [Ver](demonio/artes.md#el-arbol-de-la-sangre) |
-| `/cabezas` | Los cinco cazadores conectados cuya cabeza vale más para los demonios. [Ver](demonio/combate.md#cabezas-con-precio) |
+| `/cabezas` | Los cinco cazadores conectados cuya cabeza vale más para los demonios (300 + 60 por punto de fama). [Ver](demonio/combate.md#cabezas-con-precio) |
+| `/botin` | Tu consigna: el botín que no te cupo en el inventario. Te dice qué te espera y te da lo que quepa. [Ver](economia/objetos.md#el-botin-que-no-te-cabe-la-consigna) |
+| `/pase` | El Pase Estelar: tus niveles, lo que puedes recoger y los desafíos de la semana (también **K → ✦ Pase**). [Ver](pase.md) |
+| `/caja` | La Caja del Cuartel desde donde estés (también **K → Caja**); si eres demonio, tu [Caja de Sangre](economia/objetos.md#la-caja-de-sangre-demonios). [Ver](economia/objetos.md#la-caja-del-cuartel-k-caja) |
+| `/kohaku` | Llamar o despedir a Kohaku, el niño fantasma, si le protegiste sin caer en «El Colgante de las Almas». Va en lugar de tu mascota VIP. [Ver](misiones/colgante.md#kohaku-tu-companero) |
 
 ## Economía
 
@@ -108,9 +112,9 @@ description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta
 
 | Comando | Qué hace |
 |---|---|
-| `/vip info` | Tu rango y tus ventajas. |
+| `/vip info` | Tu rango, tus ventajas (también tu marca, si es un rango del Cuerpo) y cuándo te toca el próximo kit. |
 | `/vip mascota` | Llamar o despedir a tu mascota. |
-| `/vip mascota <cuál>` | Con varios rangos: elegir tu mascota (`koi`, `gorrion`, `lechuza`, `fenix`, `avelira`, `jabato`, `zorro`, `mariposa`, `farol`, `dragon` o `ropa`). |
+| `/vip mascota <cuál>` | Con varios rangos: elegir tu mascota (`koi`, `gorrion`, `lechuza`, `fenix`, `avelira`, `jabato`, `zorro`, `mariposa`, `farol`, `dragon`, `tren`, `brujula`, `nino`, `luna` o `ropa`). |
 | `/vip titulo` | Con varios rangos: elegir el rango que enseñas (sobre tu cabeza, en el chat y en tu título). |
 | `/kit` · `/kit <id>` | Ver tus kits · recoger el kit de tu rango (cada semana; el del Amanecer, cada mes). |
 

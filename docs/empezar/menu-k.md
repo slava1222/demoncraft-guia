@@ -11,7 +11,8 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
 
 - ++k++ la abre y la cierra (también ++esc++). ++j++ la abre directamente en *Misiones*.
 - Cambias de pestaña con las flechas ++arrow-left++ ++arrow-right++ o con el ratón. La rueda desplaza la lista.
-- Arriba ves tu nombre, tu rango y tu título; a la derecha, tus cifras (demonios, jefes y méritos) y tu **dinero**.
+- Arriba ves tu cara, tu nombre (en dorado si eres cazador, en rojo si eres demonio), tu rango y tu título; a la derecha,
+  tus cifras (demonios, jefes y méritos) y tu **dinero**.
 
 | Pestaña | Para qué sirve | Más info |
 |---|---|---|
@@ -23,16 +24,19 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
 | **Títulos** | Todos los títulos, cómo se consiguen y cuál llevas puesto. | [Títulos](../social/chat.md#titulos) |
 | **Ranking** | Clasificaciones: duelos, demonios cazados, jefes y los demonios más temidos. | [Duelos](../social/duelos.md) |
 | **Clan** | Fundar o gestionar tu clan. | [Clanes](../social/clanes.md) |
-| **Rango** | Tu rango del Cuerpo, lo que te falta para el siguiente y tus efectos visuales. | [Rangos](../cazador/rangos.md) |
-| **Caja** | La Caja del Cuartel: un premio gratis cada 24 horas. | [Cajas](../economia/objetos.md) |
+| **Rango** | Tu rango del Cuerpo, lo que te falta para el siguiente, tus efectos visuales y el botón **«✦ Senda del Cazador»**. | [Rangos](../cazador/rangos.md) · [La Senda](../cazador/rangos.md#la-senda-del-cazador) |
+| **Caja** | La Caja del Cuartel (un premio gratis cada 24 horas, con la cuenta atrás del siguiente) y la Caja Premium. Cuando tienes el tiro gratis listo, la pestaña late con una estrella **✦**. | [Cajas](../economia/objetos.md#la-caja-del-cuartel-k-caja) |
+| **✦ Pase** | El Pase Estelar: tus niveles, sus recompensas y los desafíos de la semana. Si tienes algo por recoger, la pestaña lo cuenta (**✦3**). | [Pase Estelar](../pase.md) |
 | **Subastas** | El Mercado entre jugadores. | [Mercado](../economia/mercado.md) |
-| **Perfil** | Tu ficha: rango, cacería y dinero. | |
+| **Perfil** | Tu ficha: rango, cacería y dinero. Con el Colgante de las Almas, también tus almas guiadas y tus campanadas. | [El Colgante](../misiones/colgante.md#en-la-k) |
 
 !!! demonio "Si eres demonio"
-    Tu K cambia: no tienes *Respiración*, *Rango* ni *Caja*, y a cambio tienes **Sangre** (tu rango de sangre, el árbol
+    Tu K cambia: no tienes *Respiración* ni *Rango*, y a cambio tienes **Sangre** (tu rango de sangre, el árbol
     y los encargos de la noche) y **Artes** (tus artes de sangre, sus teclas y el
-    [Árbol de la Sangre](../demonio/artes.md#el-arbol-de-la-sangre)). *Encargos* pasa a ser «Susurros de la
-    noche» y *Lugares*, «Las puertas de Nakime» (con el [Mercado de la Noche](../demonio/mercado.md)). [Ver el camino del demonio](../demonio/index.md).
+    [Árbol de la Sangre](../demonio/artes.md#el-arbol-de-la-sangre)). *Caja* te abre la tuya, la
+    [Caja de Sangre](../economia/objetos.md#la-caja-de-sangre-demonios), y el *Pase* es el de los demonios. *Encargos* pasa a
+    ser «Susurros de la noche» y *Lugares*, «Las puertas de Nakime» (con el [Mercado de la Noche](../demonio/mercado.md)).
+    [Ver el camino del demonio](../demonio/index.md).
 
 <div class="galeria" markdown>
 <figure markdown="span">
@@ -44,8 +48,8 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
   <figcaption>Lugares: el precio del viaje y el botón Ir.</figcaption>
 </figure>
 <figure markdown="span">
-  ![K, pestaña Rango](../assets/img/capturas/k-rango.webp){ loading=lazy }
-  <figcaption>Rango: méritos, días de servicio y efectos visuales.</figcaption>
+  ![K, pestaña Rango, con el botón de la Senda del Cazador](../assets/img/capturas/senda-k-rango.webp){ loading=lazy }
+  <figcaption>Rango: méritos, días de servicio, efectos visuales y el botón de la Senda del Cazador.</figcaption>
 </figure>
 <figure markdown="span">
   ![K, pestaña Títulos](../assets/img/capturas/k-titulos.webp){ loading=lazy }
@@ -78,9 +82,10 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
 | **Tarjeta de misión** | Arriba a la derecha | El paso que sigues, quién lo da, la flecha y la distancia. |
 | **Barra de vida** | Encima de la barra de objetos | Tu vida en números («20/20») y tu armadura. Con poca vida, los bordes laten en rojo. |
 | **Marca de combate** | Justo encima de la barra de vida | Solo en plena pelea con otro jugador: «⚔ EN COMBATE» y los segundos que te quedan; al acabar, «✓ FUERA DE COMBATE». [Ver la marca](../cazador/combate.md#la-marca-de-combate). |
-| **Tus teclas** | Abajo a la izquierda | Lo que lanzas con el clic derecho (**C.D.**), ++z++, ++x++ y ++c++: tus formas si eres cazador, tus artes si eres demonio. Cada una con su espera (la sombra baja y cuenta los segundos) y un **candado** si tu rango aún no la abre. Mientras dura una técnica se apagan todas; al acabar, cuentan los **4 s** para recuperarte (también la raya de debajo). |
+| **Tus teclas** | Abajo a la izquierda | Lo que lanzas con el clic derecho (**C.D.**; si eres demonio y le has puesto otra tecla en Controles, verás esa), ++z++, ++x++ y ++c++: tus formas y técnicas del Cuerpo si eres cazador, tus artes si eres demonio. Cada una con su espera (la sombra baja y cuenta los segundos) y un **candado** si tu rango aún no la abre. Mientras dura una técnica se apagan todas; al acabar, cuentan los **4 s** para recuperarte (también la raya de debajo). |
 | **Golpe crítico** | Junto a tus teclas (si no cabe, a la derecha de la barra de objetos) | **突** el del cazador ([la estocada](../cazador/combate.md#el-golpe-critico)) y **噛** el del demonio ([el mordisco](../demonio/combate.md#el-mordisco)): listo, o los segundos que le faltan. |
-| **Tarjetas grandes** | En el centro | Capítulos, «LUGAR DESCUBIERTO», respiración aprendida… |
+| **Pase Estelar** | A la derecha, debajo de la tarjeta de misión | Al ganar experiencia del pase, una tarjeta pequeña: cuánta («✦ +120»), de dónde viene y la barra de tu nivel. Lo que llega seguido se suma en la misma. Al subir de nivel, brilla. [Ver el pase](../pase.md) |
+| **Tarjetas grandes** | En el centro | Capítulos, «LUGAR DESCUBIERTO», respiración aprendida, un nivel nuevo del Pase Estelar… |
 
 ## La lista de jugadores (++tab++)
 

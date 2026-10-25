@@ -25,11 +25,14 @@ description: Cómo gana sangre un demonio, los diez rangos de sangre, el sol, la
 
 | Rango | Sangre | | Rango | Sangre |
 |---|---|---|---|---|
-| 1 · Sangre Nueva | 0 | | 6 · Demonio Mayor | 2.750 |
-| 2 · Hambriento | 200 | | 7 · Luna Menguante | 4.000 |
-| 3 · Acechador | 500 | | 8 · Luna Inferior | 5.500 |
-| 4 · Devorador | 1.000 | | 9 · Luna Superior | 7.500 |
-| 5 · Sombra de la Noche | 1.750 | | 10 · Sangre de Muzan | 10.000 |
+| 1 · Sangre Nueva | 0 | | 6 · Demonio Mayor | 4.125 |
+| 2 · Hambriento | 300 | | 7 · Luna Menguante | 6.000 |
+| 3 · Acechador | 750 | | 8 · Luna Inferior | 8.250 |
+| 4 · Devorador | 1.500 | | 9 · Luna Superior | 11.250 |
+| 5 · Sombra de la Noche | 2.625 | | 10 · Sangre de Muzan | 15.000 |
+
+Desde la actualización 1.5 cada rango pide **un 50 % más de sangre** que antes. **Nadie baja de rango**: si ya tenías uno, lo
+conservas; la tabla nueva cuenta para el siguiente (y si guardabas sangre para él, puede que ahora te falte).
 
 Cada rango te da más velocidad, un **punto del árbol** y un **punto de linaje**; cada dos rangos, un corazón más.
 Los rangos **3**, **6** y **9** abren además tus teclas ++z++, ++x++ y ++c++ ([ver](artes.md#las-teclas-se-abren-con-tu-rango)).

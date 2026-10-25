@@ -1,6 +1,6 @@
 ---
 title: El Mercado de la Noche
-description: El equipo del demonio en DemonCraft - el Mercado de la Noche del Castillo Infinito, sus tres mercaderes (Itohime, Hozuki y Mujina), los cinco conjuntos, las garras endurecidas, las armas de sangre, la botica y de dónde salen los materiales y los pergaminos.
+description: El equipo del demonio en DemonCraft - el Mercado de la Noche del Castillo Infinito, sus tres mercaderes (Itohime, Hozuki y Mujina), los cinco conjuntos, las garras endurecidas, las armas de sangre, la botica, de dónde salen los materiales y los pergaminos, y el Tablón de la Noche del Mensajero de Muzan.
 ---
 
 # El Mercado de la Noche: tu equipo de demonio
@@ -23,6 +23,8 @@ al castillo y **desde dentro del castillo es gratis**.
 
 Háblales con **clic derecho**. La pantalla es como la de la Aldea: estanterías (clic o ++tab++), lo que da cada pieza, lo que
 pide (*«4/2»* = llevas 4, pide 2) y el probador. Pulsa **ENCARGAR** (o ++enter++).
+
+En la misma sala está el **Mensajero de Muzan**, con los encargos de tu señor: el [Tablón de la Noche](#el-tablon-de-la-noche).
 
 <div class="galeria" markdown>
 <figure markdown="span">
@@ -100,15 +102,21 @@ salpicadura de sangre; las dos espadas, con su funda.
 | Dónde | Qué |
 |---|---|
 | Romper cazadores de las **patrullas** del Cuerpo | jirones de uniforme, esquirlas de nichirin; los de élite, además hilo de sangre y gotas de marechi |
-| Los **pergaminos raros y legendarios** | también de las patrullas, muy de vez en cuando (más en los de élite y con la Luna de Sangre). Si llevas muchos sin uno, te toca seguro |
-| La **Luna de Sangre** | la primera élite de cada Luna: una tsuba de Pilar y, a veces, un pergamino |
+| Los **pergaminos raros y legendarios** | también de las patrullas: un raro, el 3 % de las veces; uno **legendario**, solo el **0,15 %** (el triple con los de élite y el doble con la Luna de Sangre). Si llevas muchos sin uno, te toca seguro: el raro a los 50 cazadores y el legendario a los **700** |
+| La **Luna de Sangre** | la primera élite de cada Luna: una tsuba de Pilar (la primera vez, también el pergamino del amuleto del caparazón) y, a veces, un pergamino: raro (30 %) o legendario (1,5 %) |
 | Los **cazadores con nombre** que salen a por ti | tsubas y gotas; un **Pilar**, además un pergamino raro |
 | Inosuke · Kanawo · Uzui | el pergamino de la Coraza · el de la Bruma · el del cascabel de hueso |
 | La historia | al abrirte Nakime su puerta, seda y polvo de hueso; al acabar los Ritos, hilo y el pergamino de las garras |
 | Devorar, los lotos y los encargos de la noche | polvo de hueso, jirones, pétalos de loto y gotas |
 | **Mujina** | los materiales corrientes, a la venta |
 
-Si ya habías hecho algo de lo de arriba antes de que abriera el Mercado, te llega una vez al entrar.
+Si ya habías hecho algo de lo de arriba antes de que abriera el Mercado, te llega una vez al entrar. Lo que no te cabe en el
+inventario te espera en tu [consigna](../economia/objetos.md#el-botin-que-no-te-cabe-la-consigna) (`/botin`).
+
+!!! info "Los pergaminos legendarios, mucho más difíciles"
+    Desde la actualización 1.5, un pergamino legendario sale el **0,15 %** de las veces (antes, el 0,8 %) y la red de seguridad
+    llega a los **700** cazadores sin ninguno (antes, 130): de media, uno cada unos 430 cazadores de las patrullas. El de la
+    primera élite de cada Luna de Sangre, del 6 % al 1,5 %. Cuando a alguien le toca uno, se entera todo el servidor.
 
 ## Conviene saber
 
@@ -119,3 +127,37 @@ Si ya habías hecho algo de lo de arriba antes de que abriera el Mercado, te lle
   quemarte o no envenenarte y la [resistencia a sus formas](#contra-las-formas-de-un-cazador-jugador). Los cazadores tienen lo
   mismo en la Aldea: el combate entre jugadores sigue igualado.
 - Si te curas, lo conservas, pero a un humano no le hace nada. Si vuelves a ser demonio, vuelve a servirte.
+
+## El Tablón de la Noche
+
+En la sala del Mercado, bajo el rótulo «☾ TABLÓN DE LA NOCHE ☾», espera el **Mensajero de Muzan**. Háblale con **clic
+derecho**: es el tablón de Tokio, pero con los encargos de tu señor.
+
+| Encargo | Qué pide | Paga |
+|---|---|---|
+| **De caza** | Romper 4-6 cazadores del Cuerpo de las patrullas, o cobrar 150-250 de tu [paga de la noche](vida.md#la-paga-de-la-noche) | 400 |
+| **De oficio** | Lanzar 10-16 artes de sangre, comprar 2 veces en una tienda (también en este Mercado) o viajar 2 veces con la biwa | 250 |
+| **El tercero** | Otro distinto, que a veces es **vencer a un cazador con nombre** | 250-500 |
+| **Los tres del día** | | **+500** y **2 de sangre espesa** |
+| **El de la semana** (de lunes a domingo) | Romper 25-35 cazadores del Cuerpo de las patrullas, o cobrar 1.000-1.500 de tu paga de la noche | **2.000** |
+
+- Los tres de cada día son **los mismos para todos los demonios** y cambian a la misma hora que los del
+  [tablón de Tokio](../misiones/encargos.md#encargos-del-dia).
+- **Cuentan solos** mientras juegas, y el chat te avisa al cumplir uno. **Se cobran en el tablón** con **Cobrar**, junto al
+  mensajero (a menos de 10 bloques). Para el último de los tres necesitas un hueco libre en el inventario, por la sangre espesa.
+- **Si se te olvida cobrar**, al día siguiente Muzan te abona lo que cumpliste (la sangre espesa, a tu buzón si no te cabe).
+  Lo mismo con el de la semana.
+- Con un [rango VIP](../vip.md), el dinero es un 25 % más.
+- En el tablón ves también cómo va tu [paga de Muzan](vida.md#la-paga-de-muzan) de hoy y los susurros que aún no has
+  descubierto.
+
+<div class="galeria" markdown>
+<figure markdown="span">
+  ![El Mensajero de Muzan, bajo el rótulo del Tablón de la Noche](../assets/img/capturas/tablon-noche-mensajero.webp){ loading=lazy }
+  <figcaption>El Mensajero de Muzan, en la sala del Mercado de la Noche.</figcaption>
+</figure>
+<figure markdown="span">
+  ![El Tablón de la Noche: los encargos de Muzan, el de la semana y la paga de Muzan](../assets/img/capturas/tablon-noche.webp){ loading=lazy }
+  <figcaption>El tablón: los tres encargos del día, el de la semana y tu paga de Muzan.</figcaption>
+</figure>
+</div>

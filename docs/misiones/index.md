@@ -1,6 +1,6 @@
 ---
 title: Cómo funcionan las misiones
-description: Tipos de misión en DemonCraft, el diario de la K (seguir, pausar, abandonar), la tarjeta de misión, los tipos de objetivo, los jefes de noche y las recompensas.
+description: Tipos de misión en DemonCraft, la cadena nueva El Colgante de las Almas, el diario de la K (seguir, pausar, abandonar), la tarjeta de misión, los tipos de objetivo, los jefes de noche y las recompensas.
 ---
 
 # Cómo funcionan las misiones
@@ -17,7 +17,12 @@ description: Tipos de misión en DemonCraft, el diario de la K (seguir, pausar, 
 | **Encargos** | Vecinos con un problema (señal verde sobre la cabeza). | K → Encargos |
 | **Encargos del día** | Tres tareas que cambian cada día. Se cobran en el tablón de Tokio. | [Tablón](encargos.md#encargos-del-dia) |
 
-Los demonios tienen su propia historia, sus susurros y sus encargos de la noche ([ver](../demonio/vida.md)).
+Los demonios tienen su propia historia, sus susurros, sus encargos de la noche ([ver](../demonio/vida.md)) y el
+[Tablón de la Noche](../demonio/mercado.md#el-tablon-de-la-noche).
+
+!!! tip "Cadena nueva: El Colgante de las Almas"
+    Para cazadores y demonios: la leyenda de la niña que no podía morir, que empieza Mumyō, el biwa ciego de Tokio. Su
+    recompensa te devuelve a la vida una vez cada 24 horas. [Quién puede hacerla y qué esperar](colgante.md).
 
 ## El diario (K → Misiones)
 

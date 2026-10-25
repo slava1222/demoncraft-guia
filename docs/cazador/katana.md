@@ -1,6 +1,6 @@
 ---
 title: Tu katana nichirin
-description: Cómo consigues tu katana nichirin personal, para qué sirve, las hojas personalizadas y la reforja si la pierdes.
+description: Cómo consigues tu katana nichirin personal, para qué sirve, las hojas legendarias de la Caja Premium y la reforja si la pierdes.
 ---
 
 # Tu katana nichirin
@@ -38,12 +38,17 @@ description: Cómo consigues tu katana nichirin personal, para qué sirve, las h
 
 ## Las katanas solo se ganan
 
-Solo puedes llevar tu hoja personal, tus hojas personalizadas, la Katana de Aprendiz y la del kit de tu rango VIP
-(mientras tengas ese rango). Cualquier otra katana se retira sola: *«Esa katana no es tuya…»*.
+Solo puedes llevar tu hoja personal, tus hojas personalizadas (como las de la Caja Premium), la Katana de Aprendiz y la
+del kit de tu rango VIP (mientras tengas ese rango). Cualquier otra katana se retira sola: *«Esa katana no es tuya…»*.
 
-**Hojas personalizadas:** con un lingote de **metal nichirin premium** puedes tirar en la **Caja Premium** (K → Caja)
-y te sale una de cinco hojas (Abismo, Ceniza Blanca, Tormenta Negra, Jade o Sakura). Son solo aspecto: lanzan las
-formas de tu respiración igual que tu hoja.
+**Las hojas legendarias:** con un lingote de **metal nichirin premium** tiras en la **Caja Premium** (K → Caja) y te sale
+una de las cinco hojas legendarias (Fénix Escarlata, Invierno Eterno, Relámpago Dorado, Eclipse o Dragón de Marea), con su
+modelo, su luz y los efectos de su elemento. **Toman tu respiración**: lanzan las formas de la que tengas activa, igual que tu
+hoja. Lo único que pega más es **su tajo** (el clic izquierdo): **10** a criaturas y jefes; contra jugadores, y en las formas
+y las habilidades, pegan como una nichirin. [Ver la Caja Premium](../economia/objetos.md#la-caja-premium-las-cinco-hojas-legendarias).
+
+Las cinco hojas que daba antes la caja (Abismo, Ceniza Blanca, Tormenta Negra, Jade y Sakura) ya no salen; quien tenga
+alguna la conserva, solo de aspecto.
 
 ## Si pierdes tu katana: la reforja
 

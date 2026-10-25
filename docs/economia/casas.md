@@ -1,6 +1,6 @@
 ---
 title: Casas y parcelas
-description: Cómo alquilar una casa o una parcela en DemonCraft, cuánto cuesta, cómo pagar más días, vivir con otros jugadores, construir en una parcela, quitar el PvP de tu casa y qué pasa si se acaba lo pagado.
+description: Cómo alquilar una casa o una parcela en DemonCraft, cuánto cuesta, cómo pagar más días, vivir con otros jugadores, construir en una parcela, quitar el PvP de tu casa, el Altar de las Almas y qué pasa si se acaba lo pagado.
 ---
 
 # Casas y parcelas de alquiler
@@ -64,7 +64,8 @@ cuántos días te quedan y puedes **pagar +1, +7 o hasta el máximo**: como much
 No la pierdes en ese momento: tienes **3 días de mora**. La casa sigue siendo tuya, al entrar te avisa en rojo de lo que
 debes y, con el pago automático y dinero, se cobra sola al conectarte. Pasados esos 3 días, la casa vuelve a como estaba y
 queda libre. **Lo tuyo no se pierde**: lo que colocaste, los marcos, el trofeo y el contenido de los cofres van a tu
-**buzón del Mercado** (K → Subastas → Buzón).
+**buzón del Mercado** (K → Subastas → Buzón), y el Colgante de las Almas, si lo tenías colgado en su
+[altar](#el-altar-de-las-almas), vuelve a tu inventario.
 
 ## Vivir con otros jugadores
 
@@ -92,8 +93,35 @@ su puntuación en el **Dojo** y los demonios y jefes que ha cazado. Desde ahí p
 - Colgar **cuadros y marcos**, poner **soportes de armadura** y colocar tu **Trofeo del Dojo**.
 - Decorarla con los **[muebles japoneses](tiendas.md#los-muebles-japoneses)** de la tienda de Kohei (faroles, biombos, bonsáis,
   cojines para sentarse, un torii…) y poner tus **[mesas de juego](../social/juegos.md)**.
+- Poner el **[Altar de las Almas](#el-altar-de-las-almas)** y colgar en él tu Colgante de las Almas.
 - Los demás pueden entrar (las puertas funcionan para todos), pero **no tocan nada**.
 - No se pueden usar cubos de agua ni de lava.
+
+## El Altar de las Almas
+
+Si llevas el **[Colgante de las Almas](../misiones/colgante.md)**, la farolera **Tsuru** (en su calle de Tokio) te regala un
+**Altar de las Almas**: un mueble lacado con un pequeño torii, dos velas e incienso, para que tu colgante descanse en casa.
+
+- **Háblale** y te da uno, si no llevas ya otro encima (como mucho, uno al día). Necesitas un hueco libre.
+- **Ponlo en la casa o la parcela donde vives** (también si eres compañero). Con **tu colgante en la mano**, haz **clic
+  derecho** en el altar y queda **colgado del torii**. Otro clic derecho lo **descuelga** y vuelve a tu inventario.
+- **Colgado, descansa**: no te devuelve a la vida y no ves almas perdidas ni campanas. Los demás solo ven de quién es: nadie
+  más puede descolgarlo.
+- Con la [marca de combate](../cazador/combate.md#la-marca-de-combate) no se cuelga ni se descuelga.
+- **Nunca se pierde.** Si el altar desaparece (lo quitas, se acaba el alquiler, dejas la casa) o dejas de vivir allí, **el
+  colgante vuelve solo a tu inventario**; si no estabas conectado, al entrar. Sin hueco, te espera (y te avisa) hasta que lo
+  hagas: nunca cae al suelo. Al acabar el alquiler, el altar va a tu buzón con lo demás que pusiste.
+
+<div class="galeria" markdown>
+<figure markdown="span">
+  ![La farolera Tsuru da el Altar de las Almas](../assets/img/capturas/colgante-altar-tsuru.webp){ loading=lazy }
+  <figcaption>Tsuru te lo da en su calle de Tokio, cuando ya tienes el colgante.</figcaption>
+</figure>
+<figure markdown="span">
+  ![El Colgante de las Almas colgado en su altar](../assets/img/capturas/colgante-altar.webp){ loading=lazy }
+  <figcaption>El colgante, colgado del torii del altar, entre las dos velas.</figcaption>
+</figure>
+</div>
 
 ## PvP en tu casa
 

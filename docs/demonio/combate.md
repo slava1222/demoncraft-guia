@@ -1,6 +1,6 @@
 ---
 title: El combate del demonio
-description: Cómo pelea un demonio en DemonCraft - garras y carne, el mordisco con la E, cubrirse con los brazos, las armas de sangre y la Espada de Kokushibo, los cazadores del Cuerpo que vienen a por ti, el PvP contra cazadores y el precio de sus cabezas.
+description: Cómo pelea un demonio en DemonCraft - garras y carne, el mordisco con la E, cubrirse con los brazos o con el escudo, comer en plena pelea, las armas de sangre y la Espada de Kokushibo, los cazadores del Cuerpo que vienen a por ti, el PvP contra cazadores y el precio de sus cabezas.
 ---
 
 # El combate del demonio
@@ -12,13 +12,13 @@ description: Cómo pelea un demonio en DemonCraft - garras y carne, el mordisco 
 | Acción | Tecla | Para qué |
 |---|---|---|
 | Zarpazo | ++"Clic izq."++ | Tus garras (con la mano vacía): encadena golpes para hacer combos. |
-| Arte de sangre | ++"Clic der."++ con la mano vacía · ++z++ · ++x++ · ++c++ | Tus artes ([ver](artes.md#lanzarlas)). |
+| Arte de sangre | ++"Clic der."++ (con la mano vacía o con un arma) · ++z++ · ++x++ · ++c++ | Tus artes ([ver](artes.md#lanzarlas)). |
 | Mordisco | ++e++ | Cuando sale «MORDISCO», tras tres golpes seguidos al mismo cazador. |
 | Cubrirte | ++f++ (mantener) | Con las manos vacías, con los brazos; con un arma de sangre, con el arma. |
 | Esquivar | ++alt++ izq. | Una voltereta rápida. |
 
-Como el cazador: tras cada arte tienes **4 segundos** para recuperarte y con la guardia puesta no sale ninguna
-([ver](../cazador/combate.md#cubrirse-o-atacar)).
+Como el cazador: tras cada arte tienes **4 segundos** para recuperarte y con la guardia puesta (o con un
+[escudo](#el-escudo) levantado) no sale ninguna ([ver](../cazador/combate.md#cubrirse-o-atacar)).
 
 ## Garras y carne
 
@@ -38,6 +38,8 @@ El golpe crítico del demonio: lo mismo que la estocada del cazador, pero con lo
 <li markdown>Bajo la mira sale **«噛 · E · MORDISCO · ¡muerde!»**: tienes **2,5 segundos** para pulsar ++e++.</li>
 <li markdown>Saltas sobre él y **le muerdes el cuello** en una escena corta. Si le queda vida, la pelea sigue.</li>
 </ol>
+
+Lo que conviene saber:
 
 - Vale contra un cazador jugador (donde se le pueda atacar), contra los cazadores del Cuerpo y contra el
   [muñeco del dojo](../social/duelos.md#el-muneco-de-practica).
@@ -60,6 +62,23 @@ El golpe crítico del demonio: lo mismo que la estocada del cazador, pero con lo
 - Cubriéndote no salen artes ni mordisco, y la estamina no se recupera: suelta la guardia de vez en cuando.
 - Un cazador con las manos vacías no se cubre.
 
+## El escudo
+
+Cubrirte con un escudo **es cubrirte**, como con la guardia: para cazadores y demonios.
+
+- Con un arma de una mano en la derecha y el escudo en la izquierda, el clic derecho **levanta el escudo** (no lanza el arte).
+- Con el escudo arriba **no sale ninguna técnica** (ni tus artes ni el mordisco): *«Te estás cubriendo con el escudo: bájalo
+  para atacar.»* Al bajarlo, espera medio segundo.
+- Y al revés: con un arte en marcha o recién lanzada **el escudo no se levanta**: *«Con una técnica en marcha no puedes
+  cubrirte.»*
+
+## Comer en plena pelea
+
+- La **carne humana** (la sacas al devorar) te cura **también en plena pelea** y aunque un golpe de nichirin te haya cortado
+  la regeneración.
+- Pero comer lleva un par de segundos, casi quieto y sin pegar, y **cualquier golpe te lo corta**: búscate un respiro.
+- La comida de los humanos no te sirve: ni empiezas a comerla.
+
 ## Las armas de sangre
 
 Hozuki, en el [Mercado de la Noche](mercado.md#las-armas-de-sangre-hozuki), forja cuatro armas para demonios: la **Hoz de
@@ -71,6 +90,12 @@ Sangre**, la **Espada Sangrienta**, el **Kanabō del Oni** y la **Espada Sangrie
   te da una guardia que aguanta más, la parada y alcance.
 - Tu endurecimiento de garras de Hozuki también las templa: **+0,3 de daño** por nivel.
 - Son tuyas para siempre: van ligadas y no se rompen. A un humano no le sirven: la hoja le rechaza.
+- Con cualquiera de ellas en la mano te sale también [el arte del clic derecho](artes.md#el-arte-del-clic-derecho-tambien-con-un-arma).
+
+Hay más armas de demonio fuera del Mercado: la [Caja de Sangre](../economia/objetos.md#la-caja-de-sangre-demonios) trae cinco
+armas legendarias que no son espadas (la **Guadaña de la Luna Sangrienta**, la **Naginata del Dragón Infernal**, el **Hacha del
+Loto Helado**, la **Kusarigama del Trueno Negro** y el **Tridente del Abismo**), y el [Pase Estelar](../pase.md), tres más (el
+Kanabō del Meteorito, la Hoz de la Nebulosa Carmesí y Kurohoshi, la Espada del Agujero Negro).
 
 ### La Espada de Kokushibo
 
@@ -88,6 +113,9 @@ Sangre**, la **Espada Sangrienta**, el **Kanabō del Oni** y la **Espada Sangrie
 
 - **Las patrullas** (desde la notoriedad 3, y con la Luna de Sangre a por todos los demonios): ninguna pasa de **50 de vida**
   y lanzan su técnica como mucho una vez cada 10 segundos. Cada una que rompes suma a tu [paga de la noche](vida.md#la-paga-de-la-noche).
+- **Con la Luna de Sangre** son de **élite**, pero de una en una: **un solo cazador de élite vivo a la vez** a por cada
+  demonio (el siguiente, como pronto, un minuto después del anterior) y con **la mitad de vida** que antes: de **8 a 25**.
+  Romper a uno paga lo mismo que siempre.
 - **Los cazadores con nombre** (los Pilares de tus misiones): solo sale **el de la misión que sigues** (la de tu tarjeta).
   Los de las otras misiones te esperan, y una vez por noche se te avisa de quién te espera y en qué misión: «… te espera en «…»:
   sale a por ti cuando sigues esa misión». Tienen de **30 a 50 de vida** y lanzan una habilidad cada 5 o 6 segundos.
@@ -97,8 +125,10 @@ Sangre**, la **Espada Sangrienta**, el **Kanabō del Oni** y la **Espada Sangrie
 ## Pelear contra cazadores (PvP)
 
 - Puedes atacar a un cazador **que ya tenga su katana**, salvo en los refugios, las [zonas seguras](../mundo/noche.md#zonas-seguras)
-  y las casas o parcelas [sin PvP](../economia/casas.md#pvp-en-tu-casa). Entre jugadores van los mismos topes para los dos:
-  como mucho 5 por golpe, 7 por segundo y 12 cada 10 segundos de un mismo rival. [Todas las reglas del PvP](../cazador/combate.md#pvp).
+  y las casas o parcelas [sin PvP](../economia/casas.md#pvp-en-tu-casa). Entre jugadores hay topes: como mucho 5 por golpe,
+  7 por segundo y 12 cada 10 segundos de un mismo rival. [Todas las reglas del PvP](../cazador/combate.md#pvp).
+- **Tus artes pegan un 20 % más a un cazador**, con sus topes también un 20 % más altos (6, 8,4 y 14,4), menos las del Linaje
+  del Hielo ([ver](artes.md#contra-los-cazadores-jugadores)). El zarpazo, el mordisco y las armas, como siempre.
 - Tus artes esperan lo mismo peleando contra un jugador que contra cualquier otro.
 - Cruzar un golpe con un cazador os mete a los dos en combate durante 30 segundos: la
   [marca de combate](../cazador/combate.md#la-marca-de-combate). Si sales del juego con ella, mueres.
@@ -108,12 +138,12 @@ Sangre**, la **Espada Sangrienta**, el **Kanabō del Oni** y la **Espada Sangrie
 
 ### Cabezas con precio
 
-Los demonios ponen precio a la cabeza de cada cazador:
+Los demonios ponen precio a la cabeza de cada cazador, con la misma cuenta que la cabeza de un demonio:
 
-- **40 por cada rango del Cuerpo** (un Hashira, 400) y **60 por cada punto de fama**, hasta **3.000**.
+- **300 de base** y **60 por cada punto de fama**, hasta **3.000**, sea cual sea su rango. Un Mizunoto sin fama no tiene precio.
 - La **fama** de un cazador sube **3** por cada demonio jugador que caza y **1** por cada 10 demonios de la noche (como mucho
   2 al día), y baja un punto cada día.
 - Si le matas, **cobras su precio** y su **20 %** en sangre, ganas miedo y se anuncia a todo el servidor. Su fama vuelve a
-  cero.
+  cero: le queda la base.
 - **`/cabezas`** te enseña los cinco cazadores conectados que más valen, con su rango y su precio.
 - No se cobra de alguien de tu misma conexión ni de tu clan, ni dos veces del mismo en 6 horas. En el dojo no hay cabezas.

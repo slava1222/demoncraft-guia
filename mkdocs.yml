@@ -126,6 +126,7 @@ extra:
 nav:
   - Inicio: index.md
   - Halloween 2026: eventos/halloween.md
+  - Pase Estelar: pase.md
   - Empezar:
       - empezar/index.md
       - Tus primeros minutos: empezar/primeros-pasos.md
@@ -150,6 +151,7 @@ nav:
   - Misiones:
       - misiones/index.md
       - Encargos y tablón: misiones/encargos.md
+      - El Colgante de las Almas: misiones/colgante.md
   - Mundo:
       - mundo/index.md
       - Viajar: mundo/viajar.md

@@ -69,5 +69,6 @@ En el tablón también ves:
 - **Se busca ayuda:** en qué zonas hay vecinos con encargos para ti.
 
 !!! demonio "Si eres demonio"
-    El tablón es del Cuerpo: el escriba no te atiende. Tú tienes tus [encargos de la noche](../demonio/vida.md), que
-    se cobran solos.
+    El tablón es del Cuerpo: el escriba no te atiende. El tuyo es el [Tablón de la Noche](../demonio/mercado.md#el-tablon-de-la-noche)
+    del Mensajero de Muzan, en el Mercado de la Noche: tres encargos al día y uno a la semana. Y tus
+    [encargos de la noche](../demonio/vida.md), que se cobran solos.

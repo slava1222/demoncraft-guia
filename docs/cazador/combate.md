@@ -1,6 +1,6 @@
 ---
 title: Combate
-description: Cómo funciona el combate en DemonCraft - combos, la katana en carrera, el golpe crítico, bloqueo y esquiva, las técnicas contra la guardia, parkour, daño de las formas, curación, reliquias, PvP, la marca de combate y lo que cuesta morir.
+description: Cómo funciona el combate en DemonCraft - combos, la katana en carrera, el golpe crítico, bloqueo, escudo y esquiva, las técnicas contra la guardia, parkour, daño de las formas, curación, reliquias, PvP, el precio de tu cabeza, la marca de combate y lo que cuesta morir.
 ---
 
 # Combate
@@ -13,7 +13,7 @@ description: Cómo funciona el combate en DemonCraft - combos, la katana en carr
 |---|---|---|
 | Atacar | ++"Clic izq."++ | Encadena golpes para hacer combos. |
 | Forma de respiración | ++"Clic der."++ | Tu técnica: mucho más daño contra demonios. |
-| Formas de otras respiraciones | ++z++ · ++x++ · ++c++ | Desde los rangos Kanoe, Hinoto y Kinoe ([ver](respiraciones.md#las-teclas-z-x-y-c)). |
+| Técnicas del Cuerpo y formas de otras respiraciones | ++z++ · ++x++ · ++c++ | Desde los rangos Kanoe, Hinoto y Kinoe ([ver](respiraciones.md#las-teclas-z-x-y-c)). |
 | Golpe crítico | ++e++ | Cuando sale «Pulsa E», tras tres golpes seguidos al mismo demonio. |
 | Bloquear / parar | ++f++ | Mantén para bloquear. Púlsalo **justo antes** del golpe para hacer una parada. |
 | Esquivar | ++alt++ izq. | Una voltereta rápida. |
@@ -33,10 +33,20 @@ deprisa no pega más. Para picar un bloque (o golpear el poste y la roca de un e
 ## Cubrirse o atacar
 
 - Con el bloqueo o la parada puestos (++f++) **no sale ninguna técnica**: ni formas ni artes de sangre.
-- Mientras sale una técnica no puedes cubrirte ni esquivar.
+- **El escudo levantado también es cubrirse**: con él arriba no sale ninguna técnica (ni el clic derecho, ni ++z++, ++x++ y
+  ++c++), ni en el medio segundo después de bajarlo: «Te estás cubriendo con el escudo: bájalo para atacar.». Vale para
+  cazadores y para demonios.
+- Mientras sale una técnica (o justo después) no puedes cubrirte, levantar el escudo ni esquivar: «Con una técnica en marcha
+  no puedes cubrirte.». Con un arma de una mano y el escudo en la otra, el clic derecho lanza la forma y el escudo no sube
+  hasta que acaba.
 - Tras cada técnica tienes **4 segundos para recuperarte**, contados desde que **acaba**: mientras dura no sale otra, con
   ninguna tecla. Vale para cazadores y para demonios.
 - Cada forma y cada arte siguen con **su propia espera**: los 4 s son solo la pausa antes de la siguiente técnica.
+
+<figure markdown="span">
+  ![Con el escudo arriba no sale la técnica](../assets/img/capturas/escudo-cubrirse.webp){ loading=lazy }
+  <figcaption>Con el escudo arriba, la Z no lanza nada: o te cubres o atacas.</figcaption>
+</figure>
 
 ### Las técnicas contra la guardia
 
@@ -105,7 +115,13 @@ se deshace en ceniza.
 - Tras recibir un golpe, la curación **lenta** (comida, regeneración, reliquias) se **para 4 segundos**. Las curaciones
   instantáneas (pociones de curación) sí funcionan siempre.
 - Los **remedios** son pociones con nombre propio que dan algunas misiones y mostradores: su efecto viene escrito.
-- Desde el rango Kinoe tienes la **Marca del Cazador** (++h++): 20 s de regeneración fuerte.
+- Tu vida crece con tu rango: **un corazón más por cada rango** del Cuerpo (un Hashira lleva diez de más;
+  [ver](rangos.md#la-escalera)).
+- En el rango Hashira, o con cualquier rango si tienes un [rango VIP del Cuerpo](../vip.md#la-marca-de-cada-pilar), tienes la
+  **Marca del Cazador** (++h++): 20 s de regeneración fuerte ([ver](rangos.md#la-marca-del-cazador)).
+- Desde Kinoto, el **Segundo Aliento** de la [Senda del Cazador](rangos.md#la-senda-del-cazador): si un demonio te deja por
+  debajo de un cuarto de tu vida, 5 s de **Regeneración II** (una vez cada 2 minutos).
+- La Marca y el Segundo Aliento curan aunque te acaben de golpear.
 
 ## Reliquias
 
@@ -137,13 +153,20 @@ mientras las llevas encima (en un duelo no cuentan). No van ligadas: se pueden r
   invoca, el frío, el veneno o la marchitez que te deje y la caída si te lanzó por los aires. Dos rivales a la vez son más peligrosos que uno.
 - Las **formas** tienen topes algo más altos cuanto mayor es su número (la última, hasta 12 por golpe), pero una forma entera no
   quita más del 90 % de tu vida.
+- Las **artes de un demonio jugador** te pegan un **20 % más** (menos las del linaje del Hielo, el de Doma), y sus topes suben
+  lo mismo: hasta **6** por golpe, **8,4** por segundo y **14,4** cada 10 segundos. También en los duelos del dojo. Su zarpazo,
+  su mordisco y sus armas, como siempre.
 - Entre jugadores, lo que te deja sin pelear (lentitud fuerte, debilidad, ceguera, náusea, quedarte clavado) dura **2 segundos** como mucho.
 - Las prendas de la Aldea te protegen algo de las **artes de un demonio jugador**: de un 1 % a un 4 % por prenda, según su
   nivel ([ver](../economia/aldea.md#contra-las-artes-de-un-demonio-jugador)).
 - **Al conectarte** tienes **30 segundos** en los que nada puede hacerte daño (tampoco el sol, si eres demonio); se acaban en
-  cuanto atacas, lanzas una técnica o empiezas un duelo. Si te fuiste en plena pelea y vuelves antes de 10 minutos, no los tienes.
-- Los demonios ponen **precio a tu cabeza**: cuanto más alto es tu rango y más demonios cazas, más vale
-  ([ver](../demonio/combate.md#cabezas-con-precio)).
+  cuanto atacas, lanzas una técnica o empiezas un duelo. Sale **como mucho una vez cada 15 minutos**, contados desde la última
+  vez que la tuviste: si te sales y vuelves a entrar antes, entras sin ella (el chat te dice cuántos minutos faltan). Y si te
+  fuiste en plena pelea y vuelves antes de 10 minutos, tampoco la tienes.
+- Los demonios ponen **precio a tu cabeza**, con la misma cuenta que la cabeza de un demonio: **300** y **60 más por cada punto
+  de fama**, hasta **3.000** (de Mizunoto y sin fama, no vale nada). Tu fama sube **3** por cada demonio jugador con precio que
+  cazas y **1** por cada 10 demonios de la noche (como mucho 2 al día), y baja un punto con cada día del mundo. El demonio que te
+  mata cobra tu precio y tu fama vuelve a cero ([ver](../demonio/combate.md#cabezas-con-precio)).
 
 ### La marca de combate
 

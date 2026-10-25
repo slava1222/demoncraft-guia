@@ -101,13 +101,20 @@ Puedes llevar **uno de cada clase** encima (en el inventario): si llevas dos de 
 Lo más fuerte (el Cazador de Lunas, el Hierro del Cielo y los accesorios raros y legendarios) pide **planos** que no se
 venden: los sueltan los **demonios de la noche, muy de vez en cuando**. Cuantos más cazas, más cerca estás.
 
-- Un demonio **con nombre** o la **Luna de Sangre** dan más probabilidad. Vencer por primera vez a cada Luna Superior de la
-  historia te da uno raro.
-- Si llevas muchísimos demonios sin ninguno, **el siguiente te lo da seguro**, y de uno que aún no tienes.
+- Cada demonio de la noche que cazas tiene un **1,2 %** de soltar un plano raro y un **0,08 %** de soltar uno **legendario**.
+  Uno **con nombre**, el triple; en una noche de **Luna de Sangre**, el doble.
+- La **Luna Inferior** de la Luna de Sangre da a cada cazador que cobra un **30 %** de un plano raro y un **1,5 %** de uno
+  legendario. Vencer por primera vez a cada Luna Superior de la historia te da uno raro.
+- **La red:** si cazas **150 demonios** seguidos sin un plano raro (o **1.200** sin uno legendario), ese último te lo da seguro, y
+  de uno que aún no tienes.
+- Desde la actualización 1.5, los legendarios son **mucho más difíciles**: antes eran un 0,3 % por demonio (un 6 % con la Luna
+  Inferior) y seguros a los 400.
 - Cuando alguien encuentra uno **legendario**, se entera todo el servidor.
-- Los talismanes del **rastreador** y de los **Mil Ojos** te dan más suerte.
+- Los talismanes del **rastreador** y de los **Mil Ojos** te dan más suerte (más probabilidad; la red no cambia).
 - Para usar un plano, **clic derecho** sobre él: lo aprendes y se gasta. Si te sale uno **repetido**, no lo estudies:
   **véndelo en el [Mercado](mercado.md)**.
+- Si llevas el inventario lleno, el plano (o el material) te espera en tu
+  [consigna](objetos.md#el-botin-que-no-te-cabe-la-consigna): te llega al hacer hueco, o con `/botin`.
 
 <figure markdown="span">
   ![Los planos de Kanamori](../assets/img/capturas/aldea-kanamori.webp){ loading=lazy }

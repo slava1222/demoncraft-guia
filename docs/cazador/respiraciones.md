@@ -1,6 +1,6 @@
 ---
 title: Respiraciones y formas
-description: Cómo se lanzan las formas de respiración, cuánto esperan, las teclas Z, X y C, la fuerza de cada forma, cómo se desbloquean y cómo cambiar de respiración activa.
+description: Cómo se lanzan las formas de respiración, cuánto esperan, las teclas Z, X y C (también para las técnicas del Cuerpo), la fuerza de cada forma, cómo se desbloquean y cómo cambiar de respiración activa.
 ---
 
 # Respiraciones y formas
@@ -35,9 +35,11 @@ description: Cómo se lanzan las formas de respiración, cuánto esperan, las te
 - Tras cada forma tienes **4 segundos para recuperarte**, contados desde que **acaba**: mientras dura, todas las casillas se
   apagan, y al acabar cuentan los 4 s (también la raya de debajo). Cada forma sigue con **su propia espera**: una forma alta,
   con una espera larga, no está lista solo porque hayan pasado los 4 s.
-- Y **o te cubres o atacas**: con el bloqueo puesto no sale ninguna forma, y mientras sale una no puedes cubrirte ni esquivar.
+- Y **o te cubres o atacas**: con el bloqueo o el escudo arriba no sale ninguna forma, y mientras sale una no puedes cubrirte
+  (tampoco con el escudo) ni esquivar ([ver](combate.md#cubrirse-o-atacar)).
 - La espera **baja** con tu **rango del Cuerpo** (un 3 % por rango), con tu **nivel de aliento** (hasta un 50 % menos,
-  [entrenando](entrenamiento.md)) y, las de tu respiración, si tu katana **resuena** con ella (un 10 % menos).
+  [entrenando](entrenamiento.md)) y, las de tu respiración, si tu katana **resuena** con ella (un 10 % menos). Mientras dura
+  la [marca de tu pilar](../vip.md#la-marca-de-cada-pilar), todas esperan además un **20 % menos**.
 - Salir y volver a entrar no la recupera.
 
 <figure markdown="span">
@@ -48,7 +50,8 @@ description: Cómo se lanzan las formas de respiración, cuánto esperan, las te
 ## Las teclas Z, X y C
 
 El clic derecho es siempre tu **respiración activa** (con ++r++ cambias de forma). En ++z++, ++x++ y ++c++ puedes poner formas
-de **otras respiraciones que ya conozcas**, para tenerlas a mano sin cambiar de respiración.
+de **otras respiraciones que ya conozcas**, para tenerlas a mano sin cambiar de respiración, y las **técnicas del Cuerpo** que te
+da tu rango ([la Senda del Cazador](rangos.md#la-senda-del-cazador)).
 
 | Tecla | Se abre en el rango |
 |---|---|
@@ -57,12 +60,13 @@ de **otras respiraciones que ya conozcas**, para tenerlas a mano sin cambiar de 
 | ++c++ | 甲 Kinoe |
 
 1. **K → Respiración → «Teclas Z · X · C»** (o pulsa una tecla que aún esté vacía).
-2. Elige la tecla (con un clic o pulsándola) y después la forma: salen las de tus **otras** respiraciones, y puedes poner las
-   que ya tengas desbloqueadas.
+2. Elige la tecla (con un clic o pulsándola) y después la forma: salen las de tus **otras** respiraciones y, en «Técnicas del
+   Cuerpo», las de la Senda; puedes poner las que ya tengas desbloqueadas. Las técnicas del Cuerpo también se ponen desde la
+   propia Senda (K → Rango → «✦ Senda del Cazador»).
 3. Clic derecho sobre una tecla la vacía.
 
-- Salen de tu **katana nichirin**, en la mano principal, como las del clic derecho.
-- Cada forma conserva su espera y la cuenta **aparte**: cambiarla de tecla no la recupera.
+- Salen de tu **katana nichirin**, en la mano principal, como las del clic derecho (las técnicas del Cuerpo, también).
+- Cada forma y cada técnica conserva su espera y la cuenta **aparte**: cambiarla de tecla no la recupera.
 - Las formas de la respiración activa no van en Z, X ni C: esas ya las tienes en el clic derecho.
 
 ## Cada forma, un poco más fuerte

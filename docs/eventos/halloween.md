@@ -1,6 +1,6 @@
 ---
 title: Halloween 2026
-description: El evento de Halloween de DemonCraft, «La Noche de las Calabazas» (del 16 de octubre al 1 de noviembre) - los Kabocha-oni, el camino de las calabazas y su kit, el farol del demonio, la tienda de la Anciana, el Rey Calabaza y los sustos.
+description: El evento de Halloween de DemonCraft, «La Noche de las Calabazas» (del 16 de octubre al 1 de noviembre) - los Kabocha-oni, el camino de las calabazas y su kit, el farol del demonio, la tienda de la Anciana, el Rey Calabaza, los sustos y el recuerdo de Shion.
 ---
 
 # Halloween 2026: La Noche de las Calabazas
@@ -126,6 +126,36 @@ Las decoraciones se ponen en **tu casa alquilada**; al acabar el alquiler vuelve
 - **Los sustos**: de vez en cuando, de noche cerrada y si estás tranquilo, algo te dará un buen susto (como mucho un par al
   día). Se apagan con **`/halloween sustos off`** o el botón *Sustos* de la pantalla.
 - Cuando acabe, tienes **una semana más** para reclamar tus fases y gastar tus almas.
+
+## El recuerdo de Shion
+
+Solo para quien ya tiene el **[Colgante de las Almas](../misiones/colgante.md)**, y solo mientras dura Halloween (hasta el
+**1 de noviembre a las 2:00**).
+
+- **De noche, dentro del cementerio del sur**, habla con la sepulturera **Kasane** y elige **«El recuerdo de Shion»**. Kasane
+  enciende una vela en la tumba sin nombre y vuelves a librar la pelea del final de la cadena, ahora **en ámbar** y con la
+  **barra amarilla**, sin escena y sin las ayudas de la historia.
+- **No te mata ni gasta tu colgante**: si te tumba, te suelta con un cuarto de tu vida y se acaba (pídeselo otra vez a
+  Kasane). Lo demás, como otro jugador o una caída, cuenta como siempre.
+- **Solo lo ves y lo oyes tú.** Como mucho hay **cuatro** recuerdos a la vez en todo el servidor: si no queda sitio, Kasane
+  te pide que vuelvas en un rato.
+- **La primera victoria** te da el **Haori de las Flores de Shion** (el del demonio, el **Haori del Recuerdo de Shion**, sobre
+  su ropa), **30 almas de calabaza** para [la Anciana](#la-anciana-de-las-calabazas) y el título **«Guardián del Recuerdo de
+  Shion»** («Sombra del Recuerdo de Shion», si eres demonio). Si no te cabe el haori, Kasane te lo guarda: haz hueco y vuelve
+  a hablar con ella.
+- **Las siguientes victorias**: **10 almas de calabaza**, una vez al día.
+- El haori va ligado y es de aspecto: la misma prenda que llevas debajo, sin ventajas.
+
+<div class="galeria" markdown>
+<figure markdown="span">
+  ![Kasane ofrece el recuerdo de Shion](../assets/img/capturas/colgante-recuerdo-kasane.webp){ loading=lazy }
+  <figcaption>De noche, en el cementerio: Kasane te ofrece el recuerdo o el libro de visitas.</figcaption>
+</figure>
+<figure markdown="span">
+  ![El Haori de las Flores de Shion](../assets/img/capturas/colgante-haori-shion.webp){ loading=lazy }
+  <figcaption>El Haori de las Flores de Shion, el del cazador: blanco, con flores lilas.</figcaption>
+</figure>
+</div>
 
 ## Comandos
 

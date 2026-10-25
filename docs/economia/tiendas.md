@@ -1,6 +1,6 @@
 ---
 title: Tiendas y forja
-description: La tienda de Kohei en Tokio, cómo se compra, qué vende cada estantería, los muebles japoneses para tu casa, los mostradores que se desbloquean y la forja.
+description: La tienda de Kohei en Tokio, cómo se compra, qué vende cada estantería, los muebles japoneses para tu casa, los materiales para mejorar tu mochila, los mostradores que se desbloquean y la forja.
 ---
 
 # Tiendas y forja
@@ -45,9 +45,10 @@ está a un paseo.
 | **Casa Taisho** | Muebles japoneses: tatamis, fusuma, futón, braseros, linternas de papel… |
 | **Muebles** | Decoración japonesa en 3D y las mesas de juego, en siete baldas ([ver abajo](#los-muebles-japoneses)). |
 | **Provisiones** | Lo que piden algunas entregas de misión (hierro, carbón, miel, velas, cuerda…). |
+| **Mochilas** | Lo que hace falta para mejorar tu mochila: oro, diamante, netherita y su plantilla ([ver abajo](#mejorar-tu-mochila)). |
 
 !!! demonio "Si eres demonio"
-    Kohei te atiende, pero solo con *«lo de casa»*: Hogar, Materiales, Casa Taisho y Muebles.
+    Kohei te atiende, pero solo con *«lo de casa»*: Hogar, Materiales, Casa Taisho y Muebles. Y las **Mochilas**.
 
 ## Los muebles japoneses
 
@@ -71,6 +72,23 @@ En la estantería **Muebles** hay **40 piezas** de decoración japonesa en 3D, d
 - **Siéntate** con clic derecho en los zabuton, el zaisu y el banco (en plena pelea, no). El taiko solo lo tocan los que
   viven en la casa.
 - Al acabar el alquiler vuelven a tu buzón, como todo lo que pusiste.
+
+## Mejorar tu mochila
+
+En la estantería **Mochilas** de Kohei se vende, de uno en uno, lo que hace falta para subir de nivel tu mochila (la que se
+abre con ++b++). Cada nivel tiene más huecos que el anterior.
+
+| Artículo | Precio | Para qué |
+|---|---|---|
+| Lingote de oro para mochilas | 400 | Ocho alrededor de una mochila de hierro (mesa de crafteo): **mochila de oro**. |
+| Diamante para mochilas | 3.000 | Ocho alrededor de una mochila de oro (mesa de crafteo): **mochila de diamante**. |
+| Lingote de netherita para mochilas | 6.000 | En la mesa de herrería, con la plantilla y una mochila de diamante: **mochila de netherita**. |
+| Plantilla de mejora de mochila | 2.000 | La que pide la mesa de herrería para la de netherita. |
+
+- La escalera es **hierro → oro → diamante → netherita**: subir a oro cuesta 3.200; a diamante, 24.000; y a netherita, 8.000.
+- La de hierro sale de la que te da Genzo con **ocho lingotes de hierro** alrededor (Kohei los vende en Provisiones).
+- **Solo sirven para mejorar mochilas**: no valen para armaduras, herramientas ni ninguna otra receta.
+- Los demonios también pueden comprarlos.
 
 ## Mostradores que se desbloquean
 

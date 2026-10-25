@@ -34,8 +34,10 @@ Amanecer, que es solo de aspecto).
 
 !!! demonio "Si eres demonio"
     Tus misiones y tus encargos de la noche también pagan, y además tienes tu propia paga de la noche (35 por cada cazador de
-    patrulla que rompes, 70 el de élite, cobrada al amanecer: [ver](../demonio/vida.md#la-paga-de-la-noche)) y el precio de la
-    [cabeza de los cazadores](../demonio/combate.md#cabezas-con-precio) que matas. No tienes recompensa nocturna, Luna de
+    patrulla que rompes, 70 el de élite, cobrada al amanecer: [ver](../demonio/vida.md#la-paga-de-la-noche)), los encargos
+    del [Tablón de la Noche](../demonio/mercado.md#el-tablon-de-la-noche) (de 250 a 500 cada uno, +500 los tres y 2.000 el de
+    la semana), la [paga de Muzan](../demonio/vida.md#la-paga-de-muzan) (250 por cada día del mundo que juegas) y el precio de
+    la [cabeza de los cazadores](../demonio/combate.md#cabezas-con-precio) que matas. No tienes recompensa nocturna, Luna de
     Sangre ni Caja del Cuartel.
 
 ## En qué se gasta

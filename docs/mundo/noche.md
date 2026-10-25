@@ -73,7 +73,9 @@ y otra):
 - A mitad de la noche, **la sangre de Muzan levanta una Luna Inferior** cerca de algún cazador. Todo el servidor recibe
   el aviso con las coordenadas: *«Quien le haga sangre, cobra. Tenéis hasta el alba»*.
 - Todos los cazadores que le hagan **al menos un 5 % de daño** y sigan conectados cuando caiga cobran **2.500**, ganan
-  **15 méritos** y el título **«Cazador de Lunas»**. Si nadie la derrota, se deshace en humo al amanecer.
+  **15 méritos** y el título **«Cazador de Lunas»**, además de materiales de la Aldea y, a veces, un
+  [plano](../economia/aldea.md#los-planos-raros-y-legendarios): raro (30 %) o legendario (desde la 1.5, solo el 1,5 %). Si
+  nadie la derrota, se deshace en humo al amanecer.
 
 <div class="galeria" markdown>
 <figure markdown="span">
@@ -88,5 +90,7 @@ y otra):
 
 !!! demonio "La noche de un demonio"
     A los demonios no les salen estos encuentros (la noche es suya). En cambio, si su notoriedad es alta, les buscan
-    **patrullas del Cuerpo**, y en Luna de Sangre salen patrullas de élite… pero la sangre que cazan cuenta doble, y cada
+    **patrullas del Cuerpo**. En Luna de Sangre van a por todos los demonios, y de **élite**, pero de una en una: **un solo
+    cazador de élite vivo a la vez** a por cada demonio (el siguiente, como pronto, un minuto después) y con **la mitad de vida**
+    que antes, de **8 a 25** ([ver](../demonio/combate.md#los-cazadores-del-cuerpo)). La sangre que cazan cuenta doble, y cada
     cazador que rompen suma a su [paga de la noche](../demonio/vida.md#la-paga-de-la-noche), que también se cobra al amanecer.

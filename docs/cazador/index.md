@@ -33,7 +33,8 @@ description: Cómo progresa un cazador en DemonCraft - respiraciones y formas, e
 
     ---
 
-    De Mizunoto a Hashira con **méritos** y **días de servicio**: más vida, armadura y velocidad.
+    De Mizunoto a Hashira con **méritos** y **días de servicio**: más vida, armadura, velocidad y la **Senda del
+    Cazador**, con cinco técnicas del Cuerpo.
 
 </div>
 
