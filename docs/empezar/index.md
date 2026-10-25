@@ -11,26 +11,36 @@ description: Instalar DemonCraft con el launcher o con el zip del pack, la direc
 
 - **Minecraft Java Edition** (versión 1.20.1 con Forge: el launcher lo instala por ti).
 - Un PC con al menos **8 GB de RAM** (el juego usa 4 GB por defecto).
-- Para el **DemonCraft Launcher**: Windows y el **launcher oficial de Minecraft** con tu cuenta de Microsoft.
-- Si usas otro launcher (CurseForge, Prism, etc.), tienes el **zip del pack** (opción B).
+- Para el **DemonCraft Launcher**: Windows y el launcher con el que juegues: el **launcher oficial de Minecraft** con tu
+  cuenta de Microsoft u **otro launcher** (también si juegas sin cuenta premium).
+- Si prefieres CurseForge o instalarlo a mano, tienes el **zip del pack** (opción B).
 
 ## Opción A · DemonCraft Launcher (recomendada)
 
 <ol class="pasos" markdown>
 <li markdown>**Descarga el instalador** desde [la página de descargas del launcher](https://github.com/slava1222/demoncraft-launcher/releases/latest) (el archivo `DemonCraft-Launcher-Setup-….exe`).</li>
 <li markdown>**Ábrelo.** Si Windows muestra un aviso azul de SmartScreen, pulsa *Más información* → *Ejecutar de todas formas* (el instalador no está firmado, es normal).</li>
-<li markdown>**Pulsa JUGAR.** La primera vez descarga el pack, Java si hace falta y Forge, y crea el perfil **DemonCraft** en el launcher oficial. Las siguientes veces solo actualiza lo que haya cambiado.</li>
-<li markdown>**Se abre el launcher oficial** con el perfil DemonCraft ya elegido: entra con tu cuenta y pulsa *Jugar*. El juego entra directo al servidor.</li>
+<li markdown>**Dile cómo juegas.** La primera vez pregunta: *Con cuenta de Microsoft* (el launcher oficial) o *Con otro launcher*. Se puede cambiar después en *Ajustes*.</li>
+<li markdown>**Con cuenta de Microsoft, pulsa JUGAR.** Descarga el pack, Java si hace falta y Forge, crea el perfil **DemonCraft** y abre el launcher oficial con ese perfil elegido: entra con tu cuenta y pulsa *Jugar*. El juego entra directo al servidor.</li>
+<li markdown>**Con otro launcher, elige su carpeta** (normalmente `.minecraft`) y pulsa *Poner el pack aquí*. Después abre tu launcher, elige la versión **DemonCraft** y juega: entra directo al servidor.</li>
 </ol>
 
+Cada vez que abres el DemonCraft Launcher actualiza solo lo que haya cambiado. Con otro launcher, ábrelo antes de jugar.
+
 !!! tip "Consejos del launcher"
-    - La **memoria** del juego se cambia en *Ajustes* del DemonCraft Launcher (no en el launcher oficial: cada vez que
-      pulsas JUGAR se vuelve a escribir el perfil).
-    - **No metas mods tuyos** en la carpeta `mods`: el launcher la deja igual que el pack y borra lo que sobra.
+    - La **memoria** del juego se cambia en *Ajustes* del DemonCraft Launcher si usas el launcher oficial (cada vez que
+      pulsas JUGAR se vuelve a escribir el perfil); con otro launcher, en ese launcher.
+    - **No metas mods tuyos** en la carpeta `mods`: el launcher la deja igual que el pack. Con el launcher oficial borra
+      lo que sobra; con otro launcher lo aparta a la carpeta `mods-guardados-demoncraft`, al lado, sin borrar nada.
     - Los **shaders** sí puedes usarlos: copia el pack de shaders en la carpeta `shaderpacks` y elígelo en el juego con ++o++.
     - El launcher se actualiza solo: si ves «Hay una versión nueva del launcher», pulsa *Instalar y reiniciar*.
+    - Si Minecraft está abierto, el launcher no puede cambiar sus mods: ciérralo antes de actualizar.
 
-## Opción B · El zip del pack (CurseForge y otros launchers)
+!!! info "El aviso de pack viejo"
+    Si los mods que tienes no son los del último pack, el juego te lo dice arriba del menú principal: cierra el juego y
+    abre el DemonCraft Launcher, que lo pone al día solo. Con el zip, descárgalo otra vez.
+
+## Opción B · El zip del pack (CurseForge o a mano)
 
 1. Descarga [**DemonCraft-Modpack.zip**](https://github.com/slava1222/demoncraft-launcher/releases/download/modpack/DemonCraft-Modpack.zip).
 2. **CurseForge:** *Minecraft* → *Create Custom Profile* → *Import* y elige el zip. Dale al menos 4 GB de memoria y pulsa *Play*.
