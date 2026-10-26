@@ -58,7 +58,7 @@ Háblale para abrir el tablón.
 
 - Cada día hay **tres tareas**, las mismas para todos: una de **caza** (cazar demonios, cobrar recompensa nocturna o
   abatir un demonio con nombre), una de **oficio** (pescar, comprar en una tienda o viajar con el cuervo) y otra cualquiera.
-- Cada una paga **entre 250 y 600** y **+3 méritos**. Si cobras las tres: **+600 y una manzana dorada**.
+- Cada una paga **entre 250 y 600** y **+4 méritos**. Si cobras las tres: **+600 y una manzana dorada**.
 - Se cobran en el tablón con **Cobrar** (a menos de 10 bloques del escriba). Si se te olvida, la próxima vez que
   juegues se te abona lo que cumpliste.
 - **Cambian cada día** a las 02:00 (hora de España; a la 01:00 en horario de invierno).

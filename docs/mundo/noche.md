@@ -36,7 +36,7 @@ date la vuelta, suelen venir **por la espalda**.
 - **Racha:** si encadenas muertes con menos de 45 segundos entre una y otra, cada una vale un 10 % más (hasta ×1,5).
 - **Se cobra al amanecer** con un parte: *«☀ Amanece. Buena caza. Has dado caza a N demonios… El Cuerpo te paga +X»*.
   Cada rango del Cuerpo suma un 5 % y un [rango VIP](../vip.md), un 25 %. Si sales a media noche, cobras lo que llevabas.
-- Además, cada demonio te da **+1 mérito** (el de nombre, +4).
+- Además, cada demonio te da **+5 méritos** (el de nombre, 5 más).
 
 ## Refugios
 
@@ -73,7 +73,7 @@ y otra):
 - A mitad de la noche, **la sangre de Muzan levanta una Luna Inferior** cerca de algún cazador. Todo el servidor recibe
   el aviso con las coordenadas: *«Quien le haga sangre, cobra. Tenéis hasta el alba»*.
 - Todos los cazadores que le hagan **al menos un 5 % de daño** y sigan conectados cuando caiga cobran **2.500**, ganan
-  **15 méritos** y el título **«Cazador de Lunas»**, además de materiales de la Aldea y, a veces, un
+  **18 méritos** y el título **«Cazador de Lunas»**, además de materiales de la Aldea y, a veces, un
   [plano](../economia/aldea.md#los-planos-raros-y-legendarios): raro (30 %) o legendario (desde la 1.5, solo el 1,5 %). Si
   nadie la derrota, se deshace en humo al amanecer.
 

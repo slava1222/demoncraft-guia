@@ -47,13 +47,15 @@ Desde la actualización 1.5, cada rango pide un **30 % más de méritos** que an
 
 | Qué | Méritos |
 |---|---|
-| Matar un demonio | +1 |
-| Matar un demonio con nombre (de noche) | +4 |
-| Cobrar un encargo del día | +3 |
-| Derrotar al jefe de una Luna de Sangre | +15 |
-| Cazar a un jugador demonio con precio | +8 |
-| Terminar un encargo | entre 5 y 14 |
-| Terminar una cadena de misiones (historia, Pilar, campaña) | entre 8 y 32 |
+| Matar un demonio | **+5** |
+| Matar un demonio con nombre (de noche) | +5 más (10 en total) |
+| Cobrar un encargo del día | +4 |
+| Derrotar al jefe de una Luna de Sangre | +18 |
+| Cazar a un jugador demonio con precio | +10 |
+| Terminar un encargo | entre 6 y 17 |
+| Terminar una cadena de misiones (historia, Pilar, campaña) | entre 10 y 37 |
+
+Desde la última actualización cada demonio da **5 méritos** (antes, 1) y todo lo demás un **15 % más**.
 
 !!! warning "Morir cuesta méritos"
     Al morir pierdes una parte de los méritos que has ganado desde tu rango: el **15 %** si te mata un demonio jugador y el

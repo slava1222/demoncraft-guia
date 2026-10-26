@@ -107,14 +107,14 @@ Los niveles que más importan (*cazador / demonio*):
 | 1 | 800 | Título «Portador Estelar» / «Portador del Eclipse» y 1.500 |
 | 10 | Título «Mirada al Cielo» / «Ojos de la Luna Roja» y 2.000 | Plano raro: haori del Cazador de Lunas / pergamino raro: kimono de los Doce |
 | 13 | Fūrin de Cristal / Chōchin del Oni | Omamori de la Luna Menguante / Amuleto de la Luna Roja |
-| 15 | **Hoja del Cometa** / **Kanabō del Meteorito** | 100 méritos / 400 de sangre, y 4.000 |
+| 15 | **Hoja del Cometa** / **Kanabō del Meteorito** | 115 méritos / 400 de sangre, y 4.000 |
 | 18 | 1.500 | Netsuke de la grulla / del murciélago |
 | 20 | Kakejiku del Dragón / de la Luna de Sangre, y 2.500 | Lágrima de la Luna de Sangre / loto negro, y 5.000 |
-| 25 | 3.000 y un núcleo de sangre / un vial de sangre marechi | Título «Guardián de la Vía Láctea» / «Señor del Vacío», y 150 méritos / 600 de sangre |
+| 25 | 3.000 y un núcleo de sangre / un vial de sangre marechi | Título «Guardián de la Vía Láctea» / «Señor del Vacío», y 173 méritos / 600 de sangre |
 | 30 | Título «Cazador de Cometas» / «Devorador de Cometas» y 4.000 | **Hoja de la Nebulosa** / **Hoz de la Nebulosa Carmesí** |
 | 35 | Tōrō de Piedra | Omamori del Sol Naciente / Ojo de la Luna Superior (legendarios) |
 | 40 | 5.000 | **Una tirada de tu caja**: un lingote de metal nichirin premium / un vial de Sangre Premium |
-| 41 | Botica | 200 méritos / 800 de sangre |
+| 41 | Botica | 230 méritos / 800 de sangre |
 | 44 | Botica | Netsuke del Dragón de Hierro / del Orochi (legendarios) |
 | 45 | 6.000 | **Torii del Santuario** y 12.000 |
 | 46 a 49 | Botica y dinero | **El conjunto estelar**, una pieza por nivel |

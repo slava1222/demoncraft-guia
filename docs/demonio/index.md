@@ -30,7 +30,7 @@ mejor vas, más fácil es que te acepte, pero nunca es seguro.
 - **Si te rechaza**, te dice qué no le gusta y se marcha. **No volverá por su cuenta.** Pero hay otro camino: más adelante, con
   unos días de servicio y el rango **Tsuchinoto**, **Enmu te visita en sueños** y te ofrece algo. Si lo cumples, Muzan vuelve,
   esta vez **sin juicio**. Si le dices que no a Enmu, vuelve otra noche; a la segunda negativa, nadie volverá a ofrecerte su
-  sangre (y ganas «Voluntad de Hierro» y 10 méritos).
+  sangre (y ganas «Voluntad de Hierro» y 12 méritos).
 - No hay juicio si llevas un [rango VIP](../vip.md) de demonio, ni si ya fuiste demonio y te curaste (la vuelta tiene sus
   propias reglas: [ver la cura](cura.md)).
 
@@ -46,7 +46,7 @@ mejor vas, más fácil es que te acepte, pero nunca es seguro.
 </div>
 
 - **«Seguir siendo cazador»** (verde): se marcha. Volverá otra noche (como mucho **3 visitas**).
-- Si le dices que no en la **tercera** visita, no vuelve nunca: ganas el título **«Voluntad de Hierro»** y 10 méritos.
+- Si le dices que no en la **tercera** visita, no vuelve nunca: ganas el título **«Voluntad de Hierro»** y 12 méritos.
 - **«Aceptar la sangre»** (rojo): tienes que pulsarlo **dos veces**. Empieza un **pacto**: unas misiones que haces aún
   como humano. Al final, Muzan te hace **seis preguntas** que deciden tu **linaje** y despiertas convertido en demonio.
 
