@@ -27,6 +27,10 @@ description: Cómo viajar por el mapa de DemonCraft con el cuervo Kasugai, el ar
 </figure>
 </div>
 
+!!! tip "La Ciudadela"
+    **La Ciudadela**, el mundo de las parcelas, sale **la primera** en K → Lugares, abierta a todos desde el principio: **200**
+    cada viaje entre los dos mundos (también para volver), con las mismas reglas. [Ver la Ciudadela](../ciudadela/index.md).
+
 ## Cuánto cuesta
 
 - **60 + 0,4 por cada bloque** de distancia en línea recta, con un **tope de 1.200**.

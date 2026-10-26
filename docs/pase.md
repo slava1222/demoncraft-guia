@@ -52,12 +52,15 @@ temporada entera son **86.750**.
 | Derrotar a un jugador del otro bando | 120 |
 | Cada 5 minutos de juego (sin estar AFK) | 25 |
 | Demonio: devorar a un humano · recoger un loto de sangre | 10 · 5 |
+| Un plato de los [oficios del Mercado](ciudadela/oficios.md) con 70 o más · un recado entregado | 8 |
 | Cumplir un [desafío de la semana](#los-desafios-de-la-semana) | de 800 a 2.000 |
 
-- **Lo que se repite** (cazar, el PvP, el tiempo de juego, devorar y los lotos) cuenta hasta **3.000 al día**: lo que pasa de
+- **Lo que se repite** (cazar, el PvP, el tiempo de juego, devorar, los lotos y los oficios) cuenta hasta **3.000 al día**: lo que pasa de
   ahí se pierde, y a las 0:00 (hora de Madrid) vuelve a contar. La pantalla te dice cuánto llevas: «Hoy 1.240 / 3.000 de
   caza y tiempo». Lo demás no tiene tope.
 - Un paso o una misión solo dan experiencia **la primera vez** que los haces.
+- **«Bien comido»**: si otro jugador te cocina un plato en el [Mercado de la Ciudadela](ciudadela/oficios.md#el-restaurante-pedirle-a-otro-jugador),
+  durante un rato ganas **un 10 % más** de experiencia del pase.
 - **El Pase Premium suma un 20 %** a toda la experiencia, también a la de los desafíos.
 - **El PvP** solo cuenta contra jugadores del otro bando y fuera del dojo; no entre dos del mismo clan ni desde la misma
   conexión, y la misma pareja cuenta una vez cada 6 horas.

@@ -27,6 +27,7 @@ description: Cómo funciona el dinero en DemonCraft - dónde ver tu saldo, todas
 | **Mercado** | Lo que vendes a otros jugadores, menos un 5 %. |
 | **Temporada del dojo** | 15.000 / 8.000 / 4.000 para los tres primeros del mes. |
 | **Apuestas** en los duelos | Si aciertas, te repartes lo que pierden los demás. |
+| **[Los oficios del Mercado](../ciudadela/oficios.md)** | Cocinar o hacer recados en la Ciudadela: hasta 2.000 al día a paga entera (3.000 en total), más lo que te pagan otros jugadores por sus platos. |
 | **[Mesas de juego](../social/juegos.md)** | Ajedrez, pulso o dardos con apuesta: quien gana se lleva las dos (de 100 a 25.000 cada uno). |
 
 Con un **[rango VIP](../vip.md)** todo lo que paga el servidor (misiones, encargos, noche, Luna) es un **25 % más** (salvo con el

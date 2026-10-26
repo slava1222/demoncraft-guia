@@ -127,6 +127,9 @@ nav:
   - Inicio: index.md
   - Halloween 2026: eventos/halloween.md
   - Pase Estelar: pase.md
+  - La Ciudadela:
+      - ciudadela/index.md
+      - Los oficios del Mercado: ciudadela/oficios.md
   - Empezar:
       - empezar/index.md
       - Tus primeros minutos: empezar/primeros-pasos.md

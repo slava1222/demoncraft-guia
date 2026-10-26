@@ -28,7 +28,17 @@ duelos, los clanes y la economía entre jugadores.
     La temporada I, «El Río del Cielo»: 50 niveles para cazadores y para demonios que se suben jugando, con la Hoja del
     Cometa o el Kanabō del Meteorito gratis en el nivel 15. **K → ✦ Pase** o `/pase`. [Ver el pase](pase.md)
 
-!!! tip "Novedades de la actualización 1.5 (25 de octubre)"
+!!! tip "Novedades de la actualización 1.6 (26 de octubre)"
+    - **[La Ciudadela](ciudadela/index.md)**: un mundo aparte, una gran ciudad japonesa amurallada con nueve barrios (el canal de
+      los cerezos, la colina de los mil torii, el castillo de cinco pisos, el lago, los arces…) y **1056 parcelas** de 20 × 20
+      para alquilar y construir tu casa. Es una ciudad **libre de daños**: allí nada te ataca y nadie te puede herir. Ve con
+      **K → Lugares → La Ciudadela** o `/ciudadela`.
+    - **[Los oficios del Mercado](ciudadela/oficios.md)**: cocina ramen, pan, té y dulces para los clientes con el teclado y el
+      ratón, o haz recados llevando cajas sin que se te caigan. Clic derecho al mostrador de un puesto y «Empezar el turno».
+      Cocina para otros jugadores, que te pagan, se lo comen y te dejan propina. 30 niveles por oficio, títulos y los mejores
+      de la semana.
+
+??? tip "Novedades de la actualización 1.5 (25 de octubre)"
     - **[El Pase Estelar](pase.md)**: 50 niveles para cada bando, con seis desafíos cada semana, armas nuevas y el
       [conjunto estelar](pase.md#el-conjunto-estelar), el mejor del juego.
     - **[El Colgante de las Almas](misiones/colgante.md)**: una cadena nueva para los dos bandos. La empieza Mumyō, el biwa
@@ -59,7 +69,7 @@ duelos, los clanes y la economía entre jugadores.
       [escudo levantado](cazador/combate.md#cubrirse-o-atacar) no se lanzan técnicas; los Niños de Cristal del linaje del Hielo
       obedecen a su dueño; y la máscara de Kokushibo ya tapa la cara.
 
-!!! tip "Novedades de la actualización 1.4 (22 de octubre)"
+??? tip "Novedades de la actualización 1.4 (22 de octubre)"
     - **[La Caja Premium](economia/objetos.md#la-caja-premium-las-cinco-hojas-legendarias)** trae cinco **hojas legendarias**
       (fuego, hielo, rayo, eclipse y agua): brillan de noche, tienen sus efectos y su remate, y su tajo pega **10** a criaturas
       y jefes. Cuando abres una, todo el servidor se entera.
@@ -106,6 +116,12 @@ duelos, los clanes y la economía entre jugadores.
     ---
 
     Cómo te conviertes, tu sangre y el Árbol de la Sangre, tus artes, cómo pelea un demonio y cómo volver a ser humano.
+
+-   :material-temple-buddhist-outline:{ .lg .middle } **[La Ciudadela](ciudadela/index.md)**
+
+    ---
+
+    Un mundo aparte con 1056 parcelas para construir, libre de daños, y los oficios de su Mercado.
 
 -   :material-script-text-outline:{ .lg .middle } **[Misiones](misiones/index.md)**
 

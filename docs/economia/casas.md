@@ -158,6 +158,8 @@ cero**. Cuando queda una libre, el chat lo avisa («¡Parcela libre!») con sus 
   **`/parcela`**, que funciona igual que `/casa` (`ver`, `ir`, `info`, `pagar`, `automatico`, `invitar`, `quitar`, `salir`,
   `dejar`, `pvp`…).
 - Puedes tener **una casa y una parcela** a la vez.
+- En la **[Ciudadela](../ciudadela/index.md#alquilar-una-parcela)** hay **1056 parcelas más**, de 20 × 20, a 12.000 cada 30 días.
+  Una parcela por jugador entre los dos mundos: la de la Ciudadela o la del mundo normal.
 - **Se construye hacia arriba**: desde un bloque por encima del suelo hasta su techo (cada parcela tiene su altura; de serie,
   48 bloques). El suelo no es de nadie: ni se rompe ni se cava. Al acercarte a un borde o al techo de la tuya, una rejilla
   dorada te marca el límite.

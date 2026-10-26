@@ -62,6 +62,15 @@ description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta
 | `/mercado` | Abrir el Mercado (también `/subastas`). [Ver](economia/mercado.md) |
 | `/buy` | Abrir la tienda de rangos y extras. [Ver](vip.md) |
 
+## La Ciudadela y sus oficios
+
+| Comando | Qué hace |
+|---|---|
+| `/ciudadela` · `/ciudadela salir` | Ir a la Ciudadela (200) · volver a Tokio (200). También K → Lugares. [Ver](ciudadela/index.md) |
+| `/ciudadela libres` | Dentro, las 8 parcelas libres más cercanas con su botón [Ver]; fuera, cuántas quedan en cada barrio |
+| `/oficios` | Tu nivel en cada oficio, lo de hoy, los puestos libres y los mejores de la semana. [Ver](ciudadela/oficios.md) |
+| `/oficios carta` · `/oficios dejar` | La carta del puesto que tienes delante · acabar tu turno o tus recados |
+
 ## Halloween 2026 (hasta el 1 de noviembre)
 
 | Comando | Qué hace |
