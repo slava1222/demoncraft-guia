@@ -106,6 +106,20 @@ En los duelos que puntúan, antes del 3-2-1 se abren **15 segundos de apuestas**
 Con un combate en marcha, **`/duelo ver`** (o el botón de la pantalla del dojo) te lleva a la **grada** como espectador.
 Vuelves con `/duelo ver` otra vez. En plena pelea con otro jugador (con la marca de combate) no puedes ir.
 
+## El Gran Dojo
+
+Los combates del **Torneo del Dojo** (y la coronación del campeón) se pelean en el **Gran Dojo**: una isla flotante al atardecer,
+con la tarima de tatami en medio, siete filas de gradas con cojines, el palco y un jardín de cerezos con su gran torii.
+
+- **Ir a mirar:** **`/torneo ver`** (o el botón **«⛩ IR AL GRAN DOJO»** de los avisos del torneo) te lleva a la plaza de llegada.
+  Sube por la escalinata a las gradas y siéntate en un cojín (clic derecho). **`/torneo ver` otra vez** te devuelve a donde estabas.
+- **Si te toca pelear** no tienes que ir: cuando llega tu combate, el humo te lleva a la tarima desde donde estés, y al acabar
+  vuelves a tu sitio.
+- **Allí nadie que no pelee puede molestar, nunca:** no se pisa la arena (si lo intentas, vuelves a la grada), no salen técnicas
+  ni nada que se lance (perlas, flechas, pociones…; solo se puede comer y beber), no se pega a nadie ni te pegan, y no se rompe ni se
+  pone nada. Si te caes de la isla, vuelves a donde estabas de pie.
+- Sin techo: las técnicas de los que pelean se ven enteras.
+
 ## El Trofeo del Dojo
 
 El campeón de cada mes recoge su trofeo en el dojo (**Clasificación → «✦ Reclamar trofeo»**) o con **`/duelo trofeo`**.

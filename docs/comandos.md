@@ -104,6 +104,7 @@ description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta
 | `/duelo dojo` · `/duelo ver` | Pantalla del dojo · ver el combate desde la grada. |
 | `/duelo top` · `/duelo marcador [jugador]` | Clasificación · marcador. |
 | `/duelo trofeo` | Recoger tu Trofeo del Dojo. |
+| `/torneo ver` | Ir al Gran Dojo a ver los combates del torneo (otra vez: volver a donde estabas). |
 
 [Todo sobre los duelos](social/duelos.md)
 
