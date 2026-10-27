@@ -1,11 +1,11 @@
 ---
 title: Duelos y dojo
-description: Duelos en el Dojo de las Glicinas - requisitos, cómo retar por el chat, las reglas del tatami y los 5 segundos para volver a él, el dojo protegido durante un duelo, la puntuación, las temporadas, las apuestas, el Trofeo del Dojo y el muñeco de práctica junto al estanque.
+description: Duelos en el Gran Dojo - requisitos, cómo retar por el chat, las reglas de la tarima y los 5 segundos para volver a ella, nadie que no pelee puede molestar, la puntuación, las temporadas, las apuestas, el Trofeo del Dojo y el muñeco de práctica.
 ---
 
 # Duelos y dojo
 
-<p class="dc-entradilla">En el Dojo de las Glicinas te bates a espada con otro jugador. Los dos entráis iguales y nadie pierde nada: al acabar, cada uno vuelve a donde estaba.</p>
+<p class="dc-entradilla">En el Gran Dojo te bates a espada con otro jugador, en una tarima al aire libre con gradas alrededor. Los dos entráis iguales y nadie pierde nada: al acabar, cada uno vuelve a donde estaba.</p>
 
 ## Requisitos
 
@@ -27,7 +27,7 @@ El retado tiene **30 segundos** para pulsar **[✔ ACEPTAR]** o **[✖ RECHAZAR]
 ## Cómo es un duelo
 
 1. **Humo (3 s):** quédate quieto. Si conoces varias respiraciones, el Maestro te pregunta con cuál vas a luchar.
-2. **El tatami:** los dos aparecéis en vuestras marcas con la vida y la comida al máximo. Si puntúa, hay unos segundos de **apuestas**.
+2. **La tarima del Gran Dojo:** el humo os lleva desde donde estéis y aparecéis en vuestras marcas con la vida y la comida al máximo. Si puntúa, hay unos segundos de **apuestas**.
 3. **3 · 2 · 1 · ¡LUCHAD!** Hasta 5 minutos. Arriba ves la vida de los dos y el tiempo.
 4. **El final:** el golpe que mataría no mata: decide el combate. Si se acaba el tiempo, gana quien conserve más vida.
 
@@ -56,30 +56,17 @@ comida y el desgaste de tu equipo.
 </figure>
 </div>
 
-## El dojo protegido
+## Nadie puede molestar
 
-Desde que los dos duelistas llegan al tatami hasta que acaba el duelo, los demás no pueden molestar:
+En el Gran Dojo **nadie que no pelee puede molestar, nunca** (haya duelo o no):
 
-- **Nadie más pisa el tatami.** Si entras (andando, saltando o con una perla), vuelves fuera, al sitio donde estabas: *«Hay un
-  duelo en el tatami: se mira desde fuera.»* Si ya estabas dentro cuando empieza, sales al porche.
-- **Lo de fuera no llega.** Las flechas y las artes que vuelan de quien no pelea desaparecen al llegar al tatami, y lo que
-  invocan sus artes (lotos, Niños de Cristal, árboles, peces…) desaparece en cuanto está a 12 bloques.
-- **Sin técnicas cerca.** A **12 bloques** del tatami (el salón, los porches y los pasillos del dojo), quien no pelea no lanza
-  formas, artes, ++z++, ++x++, ++c++, el golpe crítico ni el mordisco: *«Hay un duelo en el dojo: aquí no se lanzan técnicas
-  hasta que acabe.»* El Eclipse de Kokushibo, que alcanza a 30 bloques, tampoco sale a esa distancia de un duelo.
-- **Se mira desde fuera**: el porche, el pasillo sur o la [grada](#ver-un-duelo). Los dos que pelean usan todo como siempre.
-- El **patio del estanque**, con el [muñeco de práctica](#el-muneco-de-practica), queda fuera: allí se practica aunque haya un
-  duelo.
-
-<figure markdown="span">
-  ![El aviso al intentar pisar el tatami durante un duelo](../assets/img/capturas/dojo15-tatami.webp){ loading=lazy }
-  <figcaption>Durante un duelo, si intentas pisar el tatami, vuelves fuera.</figcaption>
-</figure>
-
-<figure markdown="span">
-  ![El aviso al lanzar una técnica cerca de un duelo](../assets/img/capturas/dojo15-sin-tecnicas.webp){ loading=lazy }
-  <figcaption>En el porche del dojo, durante un duelo: no sale ninguna técnica hasta que acaba.</figcaption>
-</figure>
+- **No se pisa la arena:** hay un muro con baranda y una barrera invisible; si alguien aparece dentro de algún modo, vuelve al momento a la
+  primera fila de la grada.
+- **Desde las gradas no sale nada:** ni técnicas (formas, artes, ++z++, ++x++, ++c++, el golpe crítico, el mordisco) ni nada que se lance
+  (perlas, flechas, pociones, bolas de nieve…). Solo se puede comer y beber.
+- **Sin PvP fuera de la tarima:** en las gradas, la plaza y el jardín nadie pega a nadie ni le pegan. Solo se hieren los dos que pelean.
+- **No aparece nada:** allí no salen demonios, cazadores ni ninguna criatura.
+- No se rompe ni se pone nada, y si te caes de la isla vuelves a donde estabas de pie.
 
 ## Puntuación y temporadas
 
@@ -103,21 +90,22 @@ En los duelos que puntúan, antes del 3-2-1 se abren **15 segundos de apuestas**
 
 ## Ver un duelo
 
-Con un combate en marcha, **`/duelo ver`** (o el botón de la pantalla del dojo) te lleva a la **grada** como espectador.
-Vuelves con `/duelo ver` otra vez. En plena pelea con otro jugador (con la marca de combate) no puedes ir.
+**`/duelo ver`** (o el botón de la pantalla del dojo) te lleva a la plaza del **Gran Dojo**, haya un combate o no: sube a las gradas y
+siéntate en un cojín. Vuelves a donde estabas con `/duelo ver` otra vez. En plena pelea con otro jugador (con la marca de combate) no
+puedes ir.
 
 ## El Gran Dojo
 
-Los combates del **Torneo del Dojo** (y la coronación del campeón) se pelean en el **Gran Dojo**: una isla flotante al atardecer,
-con la tarima de tatami en medio, siete filas de gradas con cojines, el palco y un jardín de cerezos con su gran torii.
+**Todos los duelos** y los combates del **Torneo del Dojo** (con la coronación del campeón) se pelean en el **Gran Dojo**: una isla
+flotante al atardecer, con la tarima de tatami en medio, siete filas de gradas con cojines, el palco y un jardín de cerezos con su gran
+torii. En la plaza de llegada están **el tablón de la temporada** (los diez primeros, con sus victorias y derrotas) y **el Maestro del
+Dojo**, que abre la pantalla del dojo.
 
-- **Ir a mirar:** **`/torneo ver`** (o el botón **«⛩ IR AL GRAN DOJO»** de los avisos del torneo) te lleva a la plaza de llegada.
-  Sube por la escalinata a las gradas y siéntate en un cojín (clic derecho). **`/torneo ver` otra vez** te devuelve a donde estabas.
+- **Ir a mirar:** **`/duelo ver`** o **`/torneo ver`** (o el botón **«⛩ IR AL GRAN DOJO»**) te lleva a la plaza de llegada. Sube por
+  la escalinata a las gradas y siéntate en un cojín (clic derecho). **Otra vez** te devuelve a donde estabas.
 - **Si te toca pelear** no tienes que ir: cuando llega tu combate, el humo te lleva a la tarima desde donde estés, y al acabar
   vuelves a tu sitio.
-- **Allí nadie que no pelee puede molestar, nunca:** no se pisa la arena (si lo intentas, vuelves a la grada), no salen técnicas
-  ni nada que se lance (perlas, flechas, pociones…; solo se puede comer y beber), no se pega a nadie ni te pegan, y no se rompe ni se
-  pone nada. Si te caes de la isla, vuelves a donde estabas de pie.
+- Allí [nadie que no pelee puede molestar](#nadie-puede-molestar).
 - Sin techo: las técnicas de los que pelean se ven enteras.
 
 ## El Trofeo del Dojo
@@ -129,8 +117,8 @@ Es un trofeo 3D con su nombre, el mes y sus puntos que se coloca en **su casa de
 
 En el **patio de piedra del dojo**, junto al **estanque grande** (a unos 17 bloques del tatami, mirando hacia el dojo), hay un
 **muñeco de práctica** para probar tus golpes, tus formas, tus artes, el [golpe crítico](../cazador/combate.md#el-golpe-critico)
-y el [mordisco](../demonio/combate.md#el-mordisco), sin retar a nadie. Está lejos de los que pelean y fuera del
-[dojo protegido](#el-dojo-protegido): se practica aunque haya un duelo. Funciona igual que siempre.
+y el [mordisco](../demonio/combate.md#el-mordisco), sin retar a nadie. El dojo de las Glicinas ya no se usa para los duelos (ahora son en
+el Gran Dojo), pero el muñeco sigue ahí y funciona igual que siempre.
 
 <figure markdown="span">
   ![El muñeco de práctica en el patio de piedra, junto al estanque](../assets/img/capturas/dojo15-muneco.webp){ loading=lazy }

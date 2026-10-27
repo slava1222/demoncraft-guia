@@ -57,7 +57,7 @@ duelos, los clanes y la economía entre jugadores.
       cualquier rango y [la de tu pilar](vip.md#la-marca-de-cada-pilar).
     - **[La Caja del Cuartel](economia/objetos.md#la-caja-del-cuartel-k-caja)**, nueva: la cuenta atrás de tu siguiente tiro,
       el aviso cuando lo tienes listo y `/caja`.
-    - **Duelos:** mientras dos pelean, [el dojo está protegido](social/duelos.md#el-dojo-protegido); el
+    - **Duelos:** mientras dos pelean, [el dojo está protegido](social/duelos.md#nadie-puede-molestar); el
       [muñeco de práctica](social/duelos.md#el-muneco-de-practica), ahora junto al estanque.
     - **Y además:** cuesta más subir (un [50 % más de sangre](demonio/sangre.md#los-rangos-de-sangre) y un
       [30 % más de méritos](cazador/rangos.md#la-escalera) por rango); los

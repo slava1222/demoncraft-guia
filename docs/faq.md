@@ -58,10 +58,10 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
     Cazador»** y ponlas desde allí en ++z++, ++x++ o ++c++ (cada tecla se abre con su rango); salen con tu katana nichirin en
     la mano. [Ver la Senda](cazador/rangos.md#la-senda-del-cazador)
 
-??? question "No puedo entrar en el tatami ni lanzar técnicas en el dojo"
-    Hay un duelo en marcha: mientras dura, nadie más pisa el tatami y a 12 bloques de él no se lanzan técnicas. Míralo desde el
-    porche, el pasillo o la grada (`/duelo ver`), o practica con el muñeco del patio del estanque, que queda fuera.
-    [Ver el dojo protegido](social/duelos.md#el-dojo-protegido)
+??? question "No puedo entrar en la tarima ni lanzar técnicas en el Gran Dojo"
+    En el Gran Dojo solo pelean los dos del combate: desde las gradas se mira, pero no se pisa la arena ni se lanza nada (técnicas,
+    perlas, flechas, pociones…), haya duelo o no. Para probar tus golpes, el muñeco de práctica del dojo de las Glicinas.
+    [Ver: nadie puede molestar](social/duelos.md#nadie-puede-molestar)
 
 ??? question "La tecla H no hace nada"
     La Marca del Cazador despierta en el rango **Hashira**, o con cualquier rango si tienes un rango VIP del Cuerpo (un pilar,
