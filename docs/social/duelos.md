@@ -103,6 +103,8 @@ Dojo**, que abre la pantalla del dojo.
 
 - **Ir a mirar:** **`/duelo ver`** o **`/torneo ver`** (o el botón **«⛩ IR AL GRAN DOJO»**) te lleva a la plaza de llegada. Sube por
   la escalinata a las gradas y siéntate en un cojín (clic derecho). **Otra vez** te devuelve a donde estabas.
+- **Desde la K:** cuando ya tienes tu primera espada nichirin, **K → Lugares** tiene también **«El Gran Dojo»**, gratis: su botón
+  **«Ir»** te lleva a la misma plaza y vuelves igual, con `/torneo ver` o el botón «VOLVER» del chat.
 - **Si te toca pelear** no tienes que ir: cuando llega tu combate, el humo te lleva a la tarima desde donde estés, y al acabar
   vuelves a tu sitio.
 - Allí [nadie que no pelee puede molestar](#nadie-puede-molestar).

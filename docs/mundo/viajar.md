@@ -31,6 +31,10 @@ description: Cómo viajar por el mapa de DemonCraft con el cuervo Kasugai, el ar
     **La Ciudadela**, el mundo de las parcelas, sale **la primera** en K → Lugares, abierta a todos desde el principio: **200**
     cada viaje entre los dos mundos (también para volver), con las mismas reglas. [Ver la Ciudadela](../ciudadela/index.md).
 
+!!! tip "El Gran Dojo"
+    Cuando ya tienes tu **primera espada nichirin**, sale también **«El Gran Dojo»**, donde se pelean los duelos y el torneo: es
+    **gratis** y su **Ir** te lleva al momento a su plaza (lo mismo que `/torneo ver`; vuelves igual). [Ver el Gran Dojo](../social/duelos.md#el-gran-dojo).
+
 ## Cuánto cuesta
 
 - **60 + 0,4 por cada bloque** de distancia en línea recta, con un **tope de 1.200**.

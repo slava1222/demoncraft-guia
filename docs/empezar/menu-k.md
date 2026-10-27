@@ -20,7 +20,7 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
 | **Encargos** | Los encargos que tienes abiertos y los rumores de quién necesita ayuda. | [Encargos](../misiones/encargos.md) |
 | **Halloween** | Solo durante el evento: tu camino de las calabazas, la tienda de la Anciana y la clasificación. | [Halloween](../eventos/halloween.md) |
 | **Respiración** | El árbol de respiraciones: cuál tienes activa, tus formas, el entrenamiento y tus teclas Z, X y C. | [Respiraciones](../cazador/respiraciones.md) |
-| **Lugares** | La Ciudadela y los lugares que has descubierto, con el precio del viaje y el botón **Ir**. | [Viajar](../mundo/viajar.md) · [La Ciudadela](../ciudadela/index.md) |
+| **Lugares** | La Ciudadela, el Gran Dojo (desde tu primera nichirin) y los lugares que has descubierto, con el precio del viaje y el botón **Ir**. | [Viajar](../mundo/viajar.md) · [La Ciudadela](../ciudadela/index.md) · [El Gran Dojo](../social/duelos.md#el-gran-dojo) |
 | **Títulos** | Todos los títulos, cómo se consiguen y cuál llevas puesto. | [Títulos](../social/chat.md#titulos) |
 | **Ranking** | Clasificaciones: duelos, demonios cazados, jefes y los demonios más temidos. | [Duelos](../social/duelos.md) |
 | **Clan** | Fundar o gestionar tu clan. | [Clanes](../social/clanes.md) |
