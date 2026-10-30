@@ -16,9 +16,14 @@ description: Tipos de misión en DemonCraft, la cadena nueva El Colgante de las 
 | **Campañas del Cuerpo** | Misiones largas con investigación, decisiones y finales distintos. | K → Misiones |
 | **Encargos** | Vecinos con un problema (señal verde sobre la cabeza). | K → Encargos |
 | **Encargos del día** | Tres tareas que cambian cada día. Se cobran en el tablón de Tokio. | [Tablón](encargos.md#encargos-del-dia) |
+| **Sucesos** | Misiones cortas que te salen por el mapa, según dónde estés, la hora y tu bando. Y secretos. | [Los Sucesos](sucesos.md) |
 
 Los demonios tienen su propia historia, sus susurros, sus encargos de la noche ([ver](../demonio/vida.md)) y el
 [Tablón de la Noche](../demonio/mercado.md#el-tablon-de-la-noche).
+
+!!! tip "Campaña nueva: La Fortaleza"
+    Para los cazadores que han terminado el Arco VII: dos partes largas en un mundo propio.
+    [Quién puede hacerla y qué esperar](fortaleza.md).
 
 !!! tip "Cadena nueva: El Colgante de las Almas"
     Para cazadores y demonios: la leyenda de la niña que no podía morir, que empieza Mumyō, el biwa ciego de Tokio. Su

@@ -126,6 +126,7 @@ extra:
 nav:
   - Inicio: index.md
   - Halloween 2026: eventos/halloween.md
+  - Las Calamidades: eventos/calamidades.md
   - Pase Estelar: pase.md
   - La Ciudadela:
       - ciudadela/index.md
@@ -154,6 +155,8 @@ nav:
   - Misiones:
       - misiones/index.md
       - Encargos y tablón: misiones/encargos.md
+      - Los Sucesos: misiones/sucesos.md
+      - La Fortaleza: misiones/fortaleza.md
       - El Colgante de las Almas: misiones/colgante.md
   - Mundo:
       - mundo/index.md

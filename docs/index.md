@@ -18,6 +18,11 @@ los demonios. Y una noche, alguien te ofrecerá su sangre: puedes rechazarla… 
 El mapa está hecho a mano y no se rompe ni se construye en él. Todo gira alrededor de las misiones, el combate, los
 duelos, los clanes y la economía entre jugadores.
 
+!!! tip "Nuevo en la 1.9: las Calamidades, los Sucesos y la Fortaleza"
+    Tres [jefes enormes](eventos/calamidades.md) que despiertan dos veces por semana y se vencen entre todos;
+    [misiones que te salen por el mapa](misiones/sucesos.md), con secretos que nadie te va a contar; y
+    [una campaña nueva](misiones/fortaleza.md) para los cazadores que han terminado la historia.
+
 !!! tip "Halloween 2026: hasta el 1 de noviembre"
     Cada noche salen de la tierra los **Kabocha-oni**. Cázalos para ganar el kit de Halloween de tu bando, la Hoja de la
     Calabaza o el Farol del Rey Calabaza, y decoraciones para tu casa; y, si ya tienes el

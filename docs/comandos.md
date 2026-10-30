@@ -106,6 +106,17 @@ description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta
 | `/duelo trofeo` | Recoger tu Trofeo del Dojo. |
 | `/torneo ver` | Ir al Gran Dojo a ver los combates del torneo (otra vez: volver a donde estabas). |
 
+## Calamidades, Sucesos y Fortaleza
+
+| Comando | Qué hace |
+|---|---|
+| `/calamidad` | La [Calamidad](eventos/calamidades.md) despierta: dónde está y cuánta vida le queda. |
+| `/calamidad ir` | Viajar a su campamento (una vez por Calamidad; es lo mismo que **[IR]** en el chat). |
+| `/suceso` | Tu [Suceso](misiones/sucesos.md) en marcha, qué te falta, o cuándo puede salirte otro. |
+| `/suceso hablar` | Hablar con quien se te ha acercado (es lo mismo que **[ESCUCHAR]** en el chat). |
+| `/suceso abandonar` | Dejar tu Suceso, sin premio. |
+| `/fortaleza salir` | Salir de [la Fortaleza](misiones/fortaleza.md), fuera de combate. |
+
 [Todo sobre los duelos](social/duelos.md)
 
 ## Mesas de juego
