@@ -60,7 +60,9 @@ temporada entera son **86.750**.
   caza y tiempo». Lo demás no tiene tope.
 - Un paso o una misión solo dan experiencia **la primera vez** que los haces.
 - **«Bien comido»**: si otro jugador te cocina un plato en el [Mercado de la Ciudadela](ciudadela/oficios.md#el-restaurante-pedirle-a-otro-jugador),
-  durante un rato ganas **un 10 % más** de experiencia del pase.
+  si comes en el [Ryōtei](ciudadela/ryotei.md) o con la [comida casera de tu pareja](social/relaciones.md#vivir-con-ella), durante un rato
+  ganas **un 10 % más** de experiencia del pase.
+- **«Bien descansado»**: si descansas en casa con tu [pareja](social/relaciones.md#vivir-con-ella), durante dos horas ganas **un 5 % más**.
 - **El Pase Premium suma un 20 %** a toda la experiencia, también a la de los desafíos.
 - **El PvP** solo cuenta contra jugadores del otro bando y fuera del dojo; no entre dos del mismo clan ni desde la misma
   conexión, y la misma pareja cuenta una vez cada 6 horas.

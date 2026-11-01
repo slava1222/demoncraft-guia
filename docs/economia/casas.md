@@ -1,6 +1,6 @@
 ---
 title: Casas y parcelas
-description: Cómo alquilar una casa o una parcela en DemonCraft, cuánto cuesta, cómo pagar más días, vivir con otros jugadores, construir en una parcela, quitar el PvP de tu casa, el Altar de las Almas y qué pasa si se acaba lo pagado.
+description: Cómo alquilar una casa o una parcela en DemonCraft, cuánto cuesta, cómo pagar más días, vivir con otros jugadores, construir en una parcela, quitar el PvP de tu casa, tu mascota, tus plantas y tu pareja, el Altar de las Almas y qué pasa si se acaba lo pagado.
 ---
 
 # Casas y parcelas de alquiler
@@ -44,6 +44,9 @@ Acércate a la placa y pulsa **I** (o haz clic derecho en ella): se abre la **pa
 - **20.000 cada 30 días reales** (667 al día). Son días del calendario: cuentan también mientras no juegas.
 - Solo **una casa** por jugador (la tuya o la de alguien con quien vives).
 
+!!! tip "Con un rango VIP de pago, una mansión gratis"
+    Las [mansiones de Yamanote](../ciudadela/yamanote.md) no pagan alquiler, ya vienen amuebladas y se tienen además de tu casa y tu parcela.
+
 ## Pagar más días
 
 En la pantalla de tu casa (pulsa **I** dentro de ella o junto a su placa, o escribe **`/casa`** desde cualquier sitio) ves
@@ -65,7 +68,9 @@ No la pierdes en ese momento: tienes **3 días de mora**. La casa sigue siendo t
 debes y, con el pago automático y dinero, se cobra sola al conectarte. Pasados esos 3 días, la casa vuelve a como estaba y
 queda libre. **Lo tuyo no se pierde**: lo que colocaste, los marcos, el trofeo y el contenido de los cofres van a tu
 **buzón del Mercado** (K → Subastas → Buzón), y el Colgante de las Almas, si lo tenías colgado en su
-[altar](#el-altar-de-las-almas), vuelve a tu inventario.
+[altar](#el-altar-de-las-almas), vuelve a tu inventario. Tus [macetas](plantas.md#moverlas-y-perder-la-casa) van al buzón con todo su
+estado, tu [mascota](mascotas.md#reglas-que-conviene-saber) se va contigo o se queda en la tienda sin reloj, y tu
+[pareja](../social/relaciones.md#cuidarla-o-perderla) te espera hasta 30 días.
 
 ## Vivir con otros jugadores
 
@@ -94,6 +99,8 @@ su puntuación en el **Dojo** y los demonios y jefes que ha cazado. Desde ahí p
 - Decorarla con los **[muebles japoneses](tiendas.md#los-muebles-japoneses)** de la tienda de Kohei (faroles, biombos, bonsáis,
   cojines para sentarse, un torii…) y poner tus **[mesas de juego](../social/juegos.md)**.
 - Poner el **[Altar de las Almas](#el-altar-de-las-almas)** y colgar en él tu Colgante de las Almas.
+- Tener **[una mascota](mascotas.md)** (se activa y se desactiva desde el menú de la casa), **[hasta 12 macetas](plantas.md)** (el menú te
+  dice cuántas tienen sed o están listas) y **[a tu pareja](../social/relaciones.md)**, si la tienes.
 - Los demás pueden entrar (las puertas funcionan para todos), pero **no tocan nada**.
 - No se pueden usar cubos de agua ni de lava.
 

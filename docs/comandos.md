@@ -1,6 +1,6 @@
 ---
 title: Comandos
-description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta, chat, clanes, duelos, mesas de juego, casas y parcelas, Mercado, VIP, entrenamiento, el Árbol de la Sangre, el Pase Estelar, las cajas y más.
+description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta, chat, clanes, duelos y duelos en pareja, mesas de juego, casas, parcelas y mansiones, mascotas, parejas, emotes, Mercado, VIP, entrenamiento, el Árbol de la Sangre, el Pase Estelar, las cajas y más.
 ---
 
 # Todos los comandos
@@ -45,6 +45,11 @@ description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta
 | `/pase` | El Pase Estelar: tus niveles, lo que puedes recoger y los desafíos de la semana (también **K → ✦ Pase**). [Ver](pase.md) |
 | `/caja` | La Caja del Cuartel desde donde estés (también **K → Caja**); si eres demonio, tu [Caja de Sangre](economia/objetos.md#la-caja-de-sangre-demonios). [Ver](economia/objetos.md#la-caja-del-cuartel-k-caja) |
 | `/kohaku` | Llamar o despedir a Kohaku, el niño fantasma, si le protegiste sin caer en «El Colgante de las Almas». Va en lugar de tu mascota VIP. [Ver](misiones/colgante.md#kohaku-tu-companero) |
+| `/trueque` | Cuánta sangre o cuántos méritos te sobran y dónde se cambian. [Ver](economia/trueque.md) |
+| `/mascota` | Cómo están tus mascotas de casa y dónde. [Ver](economia/mascotas.md) |
+| `/pareja` | Tus relaciones: lo mismo que **K → ♥ Relaciones**. [Ver](social/relaciones.md) |
+| `/emote saludo` · `reverencia` · `meditacion` · `danza` · `victoria` | Hacer un emote sin la rueda (`/emote` los lista). [Ver](social/emotes.md) |
+| `/emote parar` | Acabar el emote que estás haciendo. |
 
 ## Economía
 
@@ -70,6 +75,13 @@ description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta
 | `/ciudadela libres` | Dentro, las 8 parcelas libres más cercanas con su botón [Ver]; fuera, cuántas quedan en cada barrio |
 | `/oficios` | Tu nivel en cada oficio, lo de hoy, los puestos libres y los mejores de la semana. [Ver](ciudadela/oficios.md) |
 | `/oficios carta` · `/oficios dejar` | La carta del puesto que tienes delante · acabar tu turno o tus recados |
+| `/restaurante` | Ir al [Ryōtei](ciudadela/ryotei.md), el restaurante (también K → Lugares). |
+| `/mesa <texto>` | Hablar solo con los de tu mesa del Ryōtei. |
+| `/mansion` · `/mansion ir` | El menú de tu [mansión de Yamanote](ciudadela/yamanote.md) · ir a ella (o a la plaza) |
+| `/mansion lista` · `/mansion ver <id>` | Las libres más cercanas · el menú de esa mansión |
+| `/mansion invitar <jugador>` | De visita, 2 horas. |
+| `/mansion vivir <jugador>` · `aceptar` · `rechazar` | Que viva contigo · responder a una invitación |
+| `/mansion quitar <jugador>` · `/mansion salir` | Que deje de vivir contigo · dejar de vivir en la de otro |
 
 ## Halloween 2026 (hasta el 1 de noviembre)
 
@@ -105,6 +117,9 @@ description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta
 | `/duelo top` · `/duelo marcador [jugador]` | Clasificación · marcador. |
 | `/duelo trofeo` | Recoger tu Trofeo del Dojo. |
 | `/torneo ver` | Ir al Gran Dojo a ver los combates del torneo (otra vez: volver a donde estabas). |
+| `/duelo pareja <jugador>` · `aceptar` · `rechazar` · `deshacer` | [Duelos en pareja](social/duelos-parejas.md): invitar, contestar, dejar de ir en pareja. |
+| `/duelo pareja retar <jugador>` · `aceptarreto` · `rechazarreto` | Retar a su pareja · contestar a un reto. |
+| `/duelo pareja cola` · `salir` | La cola de parejas. |
 
 ## Calamidades, Sucesos y Fortaleza
 
@@ -148,9 +163,10 @@ description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta
 | ++k++ | Tu perfil (la K). |
 | ++j++ | Tu diario de misiones. |
 | ++m++ | El mapa del mundo. |
-| ++b++ | Tu mochila. |
-| ++i++ | Junto a la placa de una casa o al cartel de una parcela: su pantalla. |
+| ++b++ | Tu [mochila](economia/mochilas.md). |
+| **º** (mantener) | La [rueda de emotes](social/emotes.md). |
+| ++i++ | Junto a la placa de una casa o una mansión, o al cartel de una parcela: su pantalla. |
 | ++v++ | El menú del chat de voz. |
-| ++tab++ | La lista de jugadores. |
+| ++tab++ (mantener) | La [lista de jugadores](empezar/menu-k.md#la-lista-de-jugadores-tab). |
 
 [Todas las teclas](empezar/controles.md)

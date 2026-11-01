@@ -18,10 +18,27 @@ los demonios. Y una noche, alguien te ofrecerá su sangre: puedes rechazarla… 
 El mapa está hecho a mano y no se rompe ni se construye en él. Todo gira alrededor de las misiones, el combate, los
 duelos, los clanes y la economía entre jugadores.
 
-!!! tip "Nuevo en la 1.9: las Calamidades, los Sucesos y la Fortaleza"
-    Tres [jefes enormes](eventos/calamidades.md) que despiertan dos veces por semana y se vencen entre todos;
-    [misiones que te salen por el mapa](misiones/sucesos.md), con secretos que nadie te va a contar; y
-    [una campaña nueva](misiones/fortaleza.md) para los cazadores que han terminado la historia.
+!!! tip "Novedades de la actualización 2.0"
+    - **En casa:** [mascotas](economia/mascotas.md) (perro o gato, 10.000 en la tienda de animales de Tokio) y
+      [plantas](economia/plantas.md) que crecen con los días reales y hay que regar.
+    - **[Relaciones y pareja](social/relaciones.md):** ocho mujeres con su vida y su historia en Tokio y en el Barrio del Placer.
+      Conócelas, invítalas a salir y, si la cosa va bien, cásate. Romántico y apto para todos.
+    - **En la Ciudadela:** [Yamanote](ciudadela/yamanote.md), 50 mansiones gratis para quien tiene un rango VIP de pago, y
+      [el Ryōtei](ciudadela/ryotei.md), un restaurante donde sentarse a comer y brindar juntos. En el Mercado, los puestos
+      llevan [un cartel](ciudadela/oficios.md#empezar-un-turno) para que se sepa dónde trabajar.
+    - **[Mochilas nuevas](economia/mochilas.md):** cuatro, que se llevan a la espalda y solo sirven para guardar. Las de antes
+      se cambian solas, sin perder nada.
+    - **[La rueda de emotes](social/emotes.md):** mantén la **º** y elige: saludo, reverencia, meditación, danza y victoria.
+    - **[La lista del Tab](empezar/menu-k.md#la-lista-de-jugadores-tab)**, nueva de arriba abajo, con
+      [los títulos VIP vivos](vip.md#tu-titulo-en-la-lista).
+    - **Combate:** [duelos 2 contra 2](social/duelos-parejas.md) en el Gran Dojo y, para los demonios, la
+      [Senda del Demonio](demonio/senda.md): cinco pasivas y cinco técnicas nuevas. El
+      [Señor de las Ánimas](vip.md#el-senor-de-las-animas-el-agarre-del-esqueleto) sube de nivel.
+    - **Misiones:** [dos arcos largos](misiones/arcos-demonio.md) para los demonios que ya lo han hecho todo y
+      [tres reliquias](misiones/reliquias.md) con su historia, para los dos bandos.
+    - **Objetos:** [la forja mayor](economia/forja-mayor.md), armas, accesorios y pociones que no se compran: se lotean.
+    - **Y además:** los VIP de pago ganan un [10 % más de méritos y de sangre](vip.md#lo-que-da-cualquier-rango), y lo que te
+      sobra de sangre o de méritos ya tiene salida: [el trueque](economia/trueque.md).
 
 !!! tip "Halloween 2026: hasta el 1 de noviembre"
     Cada noche salen de la tierra los **Kabocha-oni**. Cázalos para ganar el kit de Halloween de tu bando, la Hoja de la
@@ -33,7 +50,12 @@ duelos, los clanes y la economía entre jugadores.
     La temporada I, «El Río del Cielo»: 50 niveles para cazadores y para demonios que se suben jugando, con la Hoja del
     Cometa o el Kanabō del Meteorito gratis en el nivel 15. **K → ✦ Pase** o `/pase`. [Ver el pase](pase.md)
 
-!!! tip "Novedades de la actualización 1.6 (26 de octubre)"
+??? tip "Novedades de la actualización 1.9 (30 de octubre): las Calamidades, los Sucesos y la Fortaleza"
+    Tres [jefes enormes](eventos/calamidades.md) que despiertan dos veces por semana y se vencen entre todos;
+    [misiones que te salen por el mapa](misiones/sucesos.md), con secretos que nadie te va a contar; y
+    [una campaña nueva](misiones/fortaleza.md) para los cazadores que han terminado la historia.
+
+??? tip "Novedades de la actualización 1.6 (26 de octubre)"
     - **[La Ciudadela](ciudadela/index.md)**: un mundo aparte, una gran ciudad japonesa amurallada con nueve barrios (el canal de
       los cerezos, la colina de los mil torii, el castillo de cinco pisos, el lago, los arces…) y **1056 parcelas** de 20 × 20
       para alquilar y construir tu casa. Es una ciudad **libre de daños**: allí nada te ataca y nadie te puede herir. Ve con
@@ -69,7 +91,7 @@ duelos, los clanes y la economía entre jugadores.
       [planos](economia/aldea.md#los-planos-raros-y-legendarios) y los
       [pergaminos](demonio/mercado.md#de-donde-salen-los-materiales-y-los-pergaminos) legendarios caen mucho menos; en la Luna
       de Sangre, la [élite del Cuerpo](demonio/combate.md#los-cazadores-del-cuerpo) va de una en una y con la mitad de vida; hay
-      [mochilas](economia/tiendas.md#mejorar-tu-mochila) en la tienda de Tokio; la
+      [materiales para las mochilas](economia/tiendas.md#mejorar-tu-mochila) en la tienda de Tokio; la
       [cabeza de un cazador](demonio/combate.md#cabezas-con-precio) vale como la de un demonio; con el
       [escudo levantado](cazador/combate.md#cubrirse-o-atacar) no se lanzan técnicas; los Niños de Cristal del linaje del Hielo
       obedecen a su dueño; y la máscara de Kokushibo ya tapa la cara.
@@ -126,13 +148,13 @@ duelos, los clanes y la economía entre jugadores.
 
     ---
 
-    Un mundo aparte con 1056 parcelas para construir, libre de daños, y los oficios de su Mercado.
+    Un mundo aparte con 1056 parcelas para construir, libre de daños: los oficios de su Mercado, el Ryōtei y las mansiones de Yamanote.
 
 -   :material-script-text-outline:{ .lg .middle } **[Misiones](misiones/index.md)**
 
     ---
 
-    Cómo seguirlas, hablar con los personajes, los encargos y el tablón de cada día.
+    Cómo seguirlas, hablar con los personajes, los encargos y el tablón de cada día, las reliquias y los arcos del demonio.
 
 -   :material-map-outline:{ .lg .middle } **[Mundo](mundo/index.md)**
 
@@ -144,13 +166,13 @@ duelos, los clanes y la economía entre jugadores.
 
     ---
 
-    Cómo ganar dinero, tiendas y muebles, el Mercado, las casas y parcelas de alquiler y las cajas.
+    Cómo ganar dinero, tiendas y muebles, la forja mayor, el Mercado, el trueque, las casas con su mascota y sus plantas, las mochilas y las cajas.
 
 -   :material-account-group-outline:{ .lg .middle } **[Social](social/index.md)**
 
     ---
 
-    Clanes, duelos en el dojo, mesas de juego, chat, voz y cómo reportar a alguien.
+    Clanes, duelos en el dojo (también en pareja), relaciones, emotes, mesas de juego, chat, voz y cómo reportar a alguien.
 
 -   :material-console-line:{ .lg .middle } **[Comandos](comandos.md)**
 

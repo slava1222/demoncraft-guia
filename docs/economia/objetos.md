@@ -209,7 +209,7 @@ Muchos objetos importantes (tu uniforme inicial, tu hoja personal, la mochila de
 
 ## Mochila, cofre de ender y buzón
 
-- **Mochila:** te la da Genzo al empezar. Se abre con ++b++.
+- **[Mochila](mochilas.md):** te la da Genzo al empezar. Se abre con ++b++, se lleva a la espalda y se mejora con los materiales de la tienda.
 - **Cofre de ender:** funciona en cualquier sitio y es solo tuyo.
 - **Lo que llevas a medias al salir** (en el cursor o en una mesa de trabajo) no se pierde: vuelve a tu inventario, a
   tu cofre de ender o, si no cabe, a tu buzón del Mercado.

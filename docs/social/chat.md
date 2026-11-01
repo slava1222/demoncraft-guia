@@ -37,7 +37,7 @@ Cada hazaña te da un **título**: terminar arcos, aprender respiraciones, encar
 Ninguno da ventajas: son reconocimiento.
 
 - En **K → Títulos** ves todos (los que tienes con ✔ y cómo se consiguen los que te faltan). Pulsa **Usar** para ponértelo.
-- Tu título se ve en la **lista de jugadores** (++tab++) y en tu **tarjeta del chat**.
+- Tu título se ve en la **[lista de jugadores](../empezar/menu-k.md#la-lista-de-jugadores-tab)** (++tab++) y en tu **tarjeta del chat**.
 - Al ganar uno, se anuncia a todo el servidor.
 
 <figure markdown="span">

@@ -1,6 +1,6 @@
 ---
 title: Tiendas y forja
-description: La tienda de Kohei en Tokio, cómo se compra, qué vende cada estantería, los muebles japoneses para tu casa, los materiales para mejorar tu mochila, los mostradores que se desbloquean y la forja.
+description: La tienda de Kohei en Tokio, cómo se compra, qué vende cada estantería, los muebles japoneses para tu casa, la mochila y los materiales para mejorarla, los mostradores que se desbloquean, las tiendas de animales, plantas y regalos, y la forja.
 ---
 
 # Tiendas y forja
@@ -45,7 +45,7 @@ está a un paseo.
 | **Casa Taisho** | Muebles japoneses: tatamis, fusuma, futón, braseros, linternas de papel… |
 | **Muebles** | Decoración japonesa en 3D y las mesas de juego, en siete baldas ([ver abajo](#los-muebles-japoneses)). |
 | **Provisiones** | Lo que piden algunas entregas de misión (hierro, carbón, miel, velas, cuerda…). |
-| **Mochilas** | Lo que hace falta para mejorar tu mochila: oro, diamante, netherita y su plantilla ([ver abajo](#mejorar-tu-mochila)). |
+| **Mochilas** | La mochila de lona y lo que hace falta para mejorarla: oro, diamante, netherita y su plantilla ([ver abajo](#mejorar-tu-mochila)). |
 
 !!! demonio "Si eres demonio"
     Kohei te atiende, pero solo con *«lo de casa»*: Hogar, Materiales, Casa Taisho y Muebles. Y las **Mochilas**.
@@ -75,18 +75,19 @@ En la estantería **Muebles** hay **40 piezas** de decoración japonesa en 3D, d
 
 ## Mejorar tu mochila
 
-En la estantería **Mochilas** de Kohei se vende, de uno en uno, lo que hace falta para subir de nivel tu mochila (la que se
-abre con ++b++). Cada nivel tiene más huecos que el anterior.
+En la estantería **Mochilas** de Kohei se vende la mochila de lona y, de uno en uno, lo que hace falta para subir de nivel la tuya
+(la que se abre con ++b++). Cada nivel tiene más huecos que el anterior. Se mejora desde la ventana de la propia mochila, con lo
+de dentro intacto: [ver las mochilas](mochilas.md).
 
 | Artículo | Precio | Para qué |
 |---|---|---|
-| Lingote de oro para mochilas | 400 | Ocho alrededor de una mochila de hierro (mesa de crafteo): **mochila de oro**. |
-| Diamante para mochilas | 3.000 | Ocho alrededor de una mochila de oro (mesa de crafteo): **mochila de diamante**. |
-| Lingote de netherita para mochilas | 6.000 | En la mesa de herrería, con la plantilla y una mochila de diamante: **mochila de netherita**. |
-| Plantilla de mejora de mochila | 2.000 | La que pide la mesa de herrería para la de netherita. |
+| Mochila de lona | 500 | La básica, de 27 huecos. |
+| Lingote de oro para mochilas | 400 | Ocho: de la de lona a la **de viaje** (54 huecos). |
+| Diamante para mochilas | 3.000 | Ocho: de la de viaje a la **lacada** (81 huecos). |
+| Lingote de netherita para mochilas | 6.000 | Uno, con la plantilla: de la lacada a la **de maki-e** (135 huecos). |
+| Plantilla de mejora de mochila | 2.000 | La que pide la de maki-e. |
 
-- La escalera es **hierro → oro → diamante → netherita**: subir a oro cuesta 3.200; a diamante, 24.000; y a netherita, 8.000.
-- La de hierro sale de la que te da Genzo con **ocho lingotes de hierro** alrededor (Kohei los vende en Provisiones).
+- Subir a la de viaje cuesta 3.200; a la lacada, 24.000; y a la de maki-e, 8.000.
 - **Solo sirven para mejorar mochilas**: no valen para armaduras, herramientas ni ninguna otra receta.
 - Los demonios también pueden comprarlos.
 
@@ -96,10 +97,23 @@ Al terminar algunas campañas y encargos, el personaje que te ayudó **abre su m
 ninguna misión para ti y verás la estantería **«Desbloqueado»** con remedios y objetos especiales (por ejemplo,
 ungüentos de glicina o botiquines). Los demonios no pueden comprar en ellos.
 
+## Otras tiendas de Tokio
+
+Atienden a los dos bandos, en el centro de la ciudad:
+
+| Tienda | Quién | Qué vende |
+|---|---|---|
+| **Tienda de animales** | Criadora Aiko | [Mascotas de casa](mascotas.md), su comida, su agua y sus cosas. |
+| **Floristería** | Florista Sumire | [Macetas](plantas.md), regadera, abono, remedio y tijeras. Y te compra lo que cosechas. |
+| **Regalos y joyas** | Orfebre Sadaji | [Regalos para ellas](../social/relaciones.md#que-regalarles) y el anillo de compromiso. |
+
+En la plaza del Tablón de Encargos está además el **Contador Soemon**: si eres cazador de rango alto, te cambia los méritos que te
+sobran por dinero u objetos ([el trueque](trueque.md)).
+
 ## La forja y la Aldea de los Herreros
 
 Si pierdes tu katana, los herreros te la **reforjan** por un precio. Está explicado en
 [Tu katana nichirin](../cazador/katana.md#si-pierdes-tu-katana-la-reforja).
 
 Para **equiparte** (prendas que protegen de los demonios, máscaras, amuletos, el temple de tu katana) ve a la
-**[Aldea de los Herreros](aldea.md)**.
+**[Aldea de los Herreros](aldea.md)**. Lo mejor de todo está en [la forja mayor](forja-mayor.md).

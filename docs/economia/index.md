@@ -29,6 +29,8 @@ description: Cómo funciona el dinero en DemonCraft - dónde ver tu saldo, todas
 | **Apuestas** en los duelos | Si aciertas, te repartes lo que pierden los demás. |
 | **[Los oficios del Mercado](../ciudadela/oficios.md)** | Cocinar o hacer recados en la Ciudadela: hasta 2.000 al día a paga entera (3.000 en total), más lo que te pagan otros jugadores por sus platos. |
 | **[Mesas de juego](../social/juegos.md)** | Ajedrez, pulso o dardos con apuesta: quien gana se lleva las dos (de 100 a 25.000 cada uno). |
+| **[El trueque](trueque.md)** | Desde rango alto: bolsas de 5.000 a cambio de la sangre o los méritos que te sobran, hasta 30.000 a la semana. |
+| **[Tus plantas](plantas.md)** | Lo que cosechas se le vende a la florista, poco a poco y con poca ganancia. |
 
 Con un **[rango VIP](../vip.md)** todo lo que paga el servidor (misiones, encargos, noche, Luna) es un **25 % más** (salvo con el
 Amanecer, que es solo de aspecto).
@@ -47,10 +49,16 @@ Amanecer, que es solo de aspecto).
 |---|---|
 | [Casa de alquiler](casas.md) | 20.000 cada 30 días |
 | [Parcela](casas.md#parcelas-para-construir) | Lo que diga su cartel, por 30 días |
+| [Mansión de Yamanote](../ciudadela/yamanote.md) | Gratis, con un rango VIP de pago |
+| [Mascota de casa](mascotas.md) | 10.000, más su comida y su agua |
+| [Macetas](plantas.md) | De 600 a 8.000 |
+| [El Ryōtei](../ciudadela/ryotei.md) | De 40 a 380 cada plato o bebida |
+| [Mochilas](mochilas.md) | La de lona, 500; mejorarla, de 3.200 a 24.000 |
 | [Viajes](../mundo/viajar.md) en cuervo | 60 + 0,4 por bloque (máximo 1.200; VIP, la mitad, salvo el Amanecer) |
 | [Tiendas](tiendas.md) | Comida, provisiones, materiales y [muebles japoneses](tiendas.md#los-muebles-japoneses) (de 600 a 16.000) |
 | [Reforja](../cazador/katana.md#si-pierdes-tu-katana-la-reforja) de tu katana | Desde 4.000 |
 | [Equipo de la Aldea](aldea.md) | Prendas de 1.000 a 55.000, amuletos de 400 a 42.000, templar la katana de 1.000 a 15.000 |
+| [La forja mayor](forja-mayor.md) | Armas de 18.000 a 48.000 y accesorios de 9.000 a 16.000, más sus materiales |
 | Fundar un [clan](../social/clanes.md) | 5.000 |
 | Comisión del [Mercado](mercado.md) | 5 % de cada venta |
 

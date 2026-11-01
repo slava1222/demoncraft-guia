@@ -55,7 +55,9 @@ Desde la actualización 1.5, cada rango pide un **30 % más de méritos** que an
 | Terminar un encargo | entre 6 y 17 |
 | Terminar una cadena de misiones (historia, Pilar, campaña) | entre 10 y 37 |
 
-Desde la última actualización cada demonio da **5 méritos** (antes, 1) y todo lo demás un **15 % más**.
+Desde la actualización 1.8 cada demonio da **5 méritos** (antes, 1) y todo lo demás un **15 % más**. Con un
+[rango VIP](../vip.md#lo-que-da-cualquier-rango) de pago, otro **10 % más** sobre todo (el demonio, 6). Y si eres de rango alto y te
+sobran, se cambian por dinero u objetos: [el trueque](../economia/trueque.md).
 
 !!! warning "Morir cuesta méritos"
     Al morir pierdes una parte de los méritos que has ganado desde tu rango: el **15 %** si te mata un demonio jugador y el

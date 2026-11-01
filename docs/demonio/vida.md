@@ -14,6 +14,8 @@ description: Encargos de la noche, el Tablón de la Noche, susurros, dinero, la 
 - **Las herencias** del [Árbol de la Sangre](artes.md#el-arbol-de-la-sangre): la Luna de la sangre siguiente te busca de noche cuando puedes heredarla.
 - **Los cazadores con nombre** que piden tus misiones solo salen a por ti en **la misión que sigues** (la de tu tarjeta). Si te
   espera uno en otra, te lo dice una vez por noche: para que venga, síguela en K → Misiones ([ver](combate.md#los-cazadores-del-cuerpo)).
+- **Cuando ya lo has hecho todo**, te esperan [dos arcos largos](../misiones/arcos-demonio.md) desde el rango 8. Y las
+  [tres reliquias](../misiones/reliquias.md) son también para ti.
 
 | Encargo de la noche | Premio |
 |---|---|
@@ -34,10 +36,12 @@ description: Encargos de la noche, el Tablón de la Noche, susurros, dinero, la 
   [cabezas de los cazadores](combate.md#cabezas-con-precio) pagan.
 - **Tiendas:** al demonio solo le venden *«lo de casa»* (Hogar, Materiales, Casa Taisho y los
   [muebles](../economia/tiendas.md#los-muebles-japoneses)) y las [Mochilas](../economia/tiendas.md#mejorar-tu-mochila). Ni
-  comida ni provisiones.
+  comida ni provisiones. La [tienda de animales](../economia/mascotas.md), la [floristería](../economia/plantas.md) y los
+  [regalos del orfebre](../social/relaciones.md#que-regalarles) atienden a los dos bandos.
 - **Mercado:** se abre tras tu primer rito (el Rito del Hambre), o desde el principio si ya tenías tu katana como cazador.
 - Sin Caja del Cuartel ni forja: son cosas del Cuerpo. Tu caja es la
   [Caja de Sangre](../economia/objetos.md#la-caja-de-sangre-demonios) y tu equipo está en el [Mercado de la Noche](mercado.md).
+- **La sangre que te sobra**, desde Luna Inferior, se cambia por dinero u objetos: [el trueque](../economia/trueque.md).
 
 ### La paga de la noche
 

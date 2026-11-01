@@ -25,6 +25,14 @@ Los demonios tienen su propia historia, sus susurros, sus encargos de la noche (
     Para los cazadores que han terminado el Arco VII: dos partes largas en un mundo propio.
     [Quién puede hacerla y qué esperar](fortaleza.md).
 
+!!! tip "Tres reliquias, para los dos bandos"
+    Los Cascabeles de Kagura, la Máscara del Zorro Blanco y el Remo del Barquero: tres objetos únicos con su personaje y su
+    historia larga. [Dónde empiezan y qué hacen](reliquias.md).
+
+!!! tip "Para los demonios que ya lo han hecho todo"
+    Dos arcos largos, La Luna Vacante y El Jardín de Glicinas Negras, desde el rango de sangre 8 y tras El Asiento Vacío.
+    [Qué hace falta](arcos-demonio.md).
+
 !!! tip "Cadena nueva: El Colgante de las Almas"
     Para cazadores y demonios: la leyenda de la niña que no podía morir, que empieza Mumyō, el biwa ciego de Tokio. Su
     recompensa te devuelve a la vida una vez cada 24 horas. [Quién puede hacerla y qué esperar](colgante.md).
@@ -104,4 +112,5 @@ libre. Si aun así te falta algo, pide ayuda al staff.
 ## Recompensas
 
 Dinero (*«+X a tu banco»*), **méritos** para tu rango, objetos, **títulos** y, al aprender respiraciones o forjar tu
-katana, sus tarjetas especiales. Con un [rango VIP](../vip.md) las misiones pagan un 25 % más (salvo el Amanecer, que es solo de aspecto).
+katana, sus tarjetas especiales. Con un [rango VIP](../vip.md) las misiones pagan un 25 % más y dan un 10 % más de méritos o de
+sangre (salvo el Amanecer, que es solo de aspecto).

@@ -101,6 +101,10 @@ mejor vas, más fácil es que te acepte, pero nunca es seguro.
 
     Cómo creces: rangos de sangre, edades, ritos, el árbol de sangre, el miedo y la notoriedad.
 
+-   **[La Senda del Demonio](senda.md)**
+
+    Cada rango de sangre abre un paso: cinco pasivas y cinco técnicas para ++z++, ++x++ y ++c++. No se compra nada.
+
 -   **[Linajes y artes](artes.md)**
 
     Tus artes de sangre, cómo aprenderlas, cómo ponerlas en las teclas y el Árbol de la Sangre, con la sangre de Enmu.
@@ -117,6 +121,10 @@ mejor vas, más fácil es que te acepte, pero nunca es seguro.
 
     Tu equipo: ropa, armas de sangre, amuletos, la botica y las garras endurecidas, en el Castillo Infinito. Y el Tablón de la
     Noche, con los encargos de Muzan.
+
+-   **[Los arcos del demonio](../misiones/arcos-demonio.md)**
+
+    Dos historias largas para quien ya lo ha hecho todo, desde el rango de sangre 8.
 
 -   **[Volver a ser humano](cura.md)**
 

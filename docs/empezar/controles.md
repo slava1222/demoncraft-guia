@@ -58,12 +58,15 @@ description: Todas las teclas de DemonCraft - combate, formas de respiración, t
 | ++k++ | **Tu perfil** (la K): misiones, lugares, rango, dinero, clan, Mercado… [Ver la K](menu-k.md). |
 | ++j++ | Abre la K directamente en *Misiones*. |
 | ++m++ | Mapa del mundo. |
-| ++b++ | Abrir tu mochila. |
-| ++i++ | Junto a la placa de una casa o al cartel de una parcela: verla ([casas y parcelas](../economia/casas.md)). |
+| ++b++ | Abrir tu [mochila](../economia/mochilas.md): la de la espalda o, si no llevas, la primera que tengas encima. |
+| **º** (mantener) | La [rueda de emotes](../social/emotes.md): mueve el ratón hacia uno y suelta. Es la tecla de arriba a la izquierda, encima del tabulador. |
+| ++i++ | Junto a la placa de una casa o una mansión, o al cartel de una parcela: verla ([casas y parcelas](../economia/casas.md)). |
 | ++v++ | Menú del chat de voz (grupos, ajustes). |
 | ++n++ | Silenciar tu micrófono. |
-| ++tab++ | Lista de jugadores (con tu rango, tu bolsa y el estado de la noche). |
+| ++tab++ (mantener) | [Lista de jugadores](menu-k.md#la-lista-de-jugadores-tab) (con tu rango, tu bolsa y el estado de la noche). |
 | ++f1++ · ++f2++ · ++f5++ | Ocultar la interfaz · captura de pantalla · cambiar de cámara. |
+
+Con la mochila en la mano: **clic derecho** la abre y **++shift++ + clic derecho** te la cuelga a la espalda.
 
 En el inventario, sobre un objeto: ++r++ muestra cómo se fabrica y ++u++ para qué sirve.
 
@@ -79,7 +82,9 @@ del ratón, esa tecla lanza el arte del clic derecho y el clic derecho queda sol
 </figure>
 
 Si ya tenías las teclas de DemonCraft de antes, al entrar se te pone sola la ++o++ para la otra mano (solo si esa tecla
-estaba sin asignar y la O quedaba libre) y te avisa. Los packs de shaders se eligen en *Opciones → Vídeo*.
+estaba sin asignar y la O quedaba libre) y te avisa. Con la actualización 2.0 lo mismo: la ++b++ pasa a la mochila nueva y la
+**º** a los emotes; si ya usabas la º para otra cosa, los emotes se quedan sin tecla, te lo dice el chat y se la pones aquí. Lo que
+hayas cambiado a tu gusto no se toca. Los packs de shaders se eligen en *Opciones → Vídeo*.
 
 ??? tip "Volver a las teclas de DemonCraft"
     Con el juego **cerrado**, borra el archivo `config/demoncraft-controles.txt` de la carpeta del juego

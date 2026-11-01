@@ -46,7 +46,8 @@ ti o a ellos en los últimos 10 segundos (nunca a por quien no puedes atacar). E
 ## Ponerlas en las teclas
 
 En **K → Artes**, elige un arte que ya sepas (con el ratón o ++arrow-up++ ++arrow-down++) y pulsa ++z++, ++x++ o ++c++
-(o los botones *Clic der.*, *Z*, *X*, *C*) para ponerla en esa tecla. Cada arte va en una sola tecla.
+(o los botones *Clic der.*, *Z*, *X*, *C*) para ponerla en esa tecla. Cada arte va en una sola tecla. Las técnicas de la
+[Senda del Demonio](senda.md) también van en ++z++, ++x++ y ++c++: se ponen desde su pantalla.
 
 ### Las teclas se abren con tu rango
 

@@ -64,5 +64,8 @@ Al entrar te avisa: *«✉ Tienes N objetos esperando en el buzón del Mercado»
 - El **Trofeo del Dojo**.
 - Las ofrendas y trofeos de la sangre de los demonios.
 - La katana del kit de un rango VIP.
+- Las [mochilas](mochilas.md), las [reliquias de las tres cadenas](../misiones/reliquias.md), el Nimbo y la Corona del
+  [trueque](trueque.md) y lo que forjas en la [forja mayor](forja-mayor.md) (sus armas y sus accesorios).
 
-Sí se venden, por ejemplo: reliquias, hojas personalizadas, metal nichirin premium, ropa, bloques y comida.
+Sí se venden, por ejemplo: reliquias corrientes, hojas personalizadas, metal nichirin premium, ropa, bloques y comida; y de la
+[forja mayor](forja-mayor.md), los materiales, las pociones y los planos sin estudiar.

@@ -147,6 +147,19 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
 ??? question "Las teclas no son las que pone la guía"
     Cambiaste alguna o tu instalación es antigua. [Así se vuelve a las de DemonCraft](empezar/controles.md#cambiar-las-teclas).
 
+??? question "No me sale la rueda de emotes"
+    Se abre **manteniendo la º** (arriba a la izquierda, encima del tabulador). Si ya usabas esa tecla para otra cosa, los emotes se
+    quedan sin tecla: ponles una en *Opciones → Controles* o usa `/emote saludo`. En combate, en un duelo, sentado, montado, en el
+    agua o en el aire no se pueden hacer: te lo dice encima de la barra de objetos. [Ver los emotes](social/emotes.md).
+
+??? question "Un demonio me ha cogido con una mano gigante y no puedo hacer nada"
+    Es el agarre del Señor de las Ánimas: dura menos de dos segundos y después no te puede volver a coger en diez. Si cae o se va
+    quien lo lanza, la mano te suelta en el acto. [Cómo defenderse](vip.md#el-senor-de-las-animas-el-agarre-del-esqueleto).
+
+??? question "¿Cómo peleo 2 contra 2?"
+    Forma pareja con `/duelo pareja <jugador>` o en la pestaña **Parejas** de `/duelo dojo`, y reta a otra pareja o entra en la cola.
+    Tus técnicas no le hacen nada a tu compañero. [Ver los duelos en pareja](social/duelos-parejas.md).
+
 ## Dinero y comercio
 
 ??? question "¿Cómo gano dinero?"
@@ -160,9 +173,32 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
     **[✔ PAGAR]** en el chat. Necesitas 2 días de servicio y no se puede deshacer. [Ver cómo](economia/index.md#puedo-darle-dinero-a-otro-jugador).
 
 ??? question "¿Dónde mejoro mi mochila?"
-    En la tienda de **Kohei**, en Tokio, estantería **Mochilas**: lingote de oro (400), diamante (3.000), lingote de netherita
-    (6.000) y la plantilla de mejora (2.000). Solo sirven para mejorar mochilas, de hierro a oro, diamante y netherita.
-    [Ver cómo](economia/tiendas.md#mejorar-tu-mochila)
+    Compra los materiales en la tienda de **Kohei**, en Tokio, estantería **Mochilas**: lingote de oro (400), diamante (3.000),
+    lingote de netherita (6.000) y la plantilla de mejora (2.000). Con ellos en el inventario, abre la mochila y pulsa **Mejorar**
+    (dos clics): lo de dentro no se mueve. [Ver cómo](economia/mochilas.md#mejorarla)
+
+??? question "¿Qué ha pasado con mi mochila de antes?"
+    Se cambia sola por una de las nuevas en cuanto el juego la ve, con todo lo que llevaba dentro: la de cuero pasa a la de lona, la de
+    cobre o hierro a la de viaje, la de oro a la lacada y la de diamante o netherita a la de maki-e. Te lo dice el chat.
+    [Ver qué pasa con las de antes](economia/mochilas.md#tu-mochila-de-antes)
+
+??? question "No se me abre la mochila"
+    Con la ++b++ se abre la de la espalda o, si no llevas, la primera que tengas encima; con ella en la mano, clic derecho. No se abre
+    en combate, en un duelo, con una técnica en marcha, nadando, en el aire ni montado: te lo dice encima de la barra de objetos. Si la
+    ++b++ no hace nada, mira en *Opciones → Controles* que siga en esa tecla. [Ver las mochilas](economia/mochilas.md#llevarla-y-abrirla)
+
+??? question "Soy de rango alto y me sobra sangre o méritos: ¿para qué sirven?"
+    Se cambian por dinero, materiales, tiradas, planos legendarios y cosas únicas: [el trueque](economia/trueque.md). Solo se gasta lo que
+    tienes por encima de tu rango: ni bajas de rango ni pierdes nada de lo que ya pagaste. El cazador, con el Contador Soemon, en la plaza del
+    tablón de Tokio; el demonio, con la Vieja Datsue, en el Mercado de la Noche. `/trueque` te dice cuánto te sobra.
+
+??? question "¿Dónde consigo las armas nuevas?"
+    No se compran: se encargan en la [forja mayor](economia/forja-mayor.md), con materiales que hay que lotear cazando, en las Calamidades,
+    en la Luna de Sangre y en los Sucesos. Tardan horas de verdad.
+
+??? question "¿Cómo se trabaja en el Mercado de la Ciudadela?"
+    Busca un puesto con su cartel **«¡SE BUSCA…! Clic derecho aquí»** o su banderola **«TRABAJO AQUÍ»**, haz clic derecho y pulsa
+    **Empezar el turno**. [Ver los oficios](ciudadela/oficios.md#empezar-un-turno).
 
 ??? question "¿Dónde compro comida?"
     En la tienda de **Kohei**, en Tokio. [Ver tiendas](economia/tiendas.md).
@@ -170,6 +206,43 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
 ??? question "¿Dónde consigo armadura y equipo?"
     En la **Aldea de los Herreros**: Kojiro forja las prendas, Kotetsu los amuletos y Hotaru Haganezuka templa tu katana.
     Lo más fuerte pide planos que sueltan los demonios muy de vez en cuando. [Ver la Aldea](economia/aldea.md).
+
+## Tu casa y tu vida
+
+??? question "Tengo un rango VIP: ¿cómo consigo mi mansión?"
+    Ve a **K → Lugares → Yamanote**, cruza el Gran Torii y busca una placa que diga «LIBRE»: clic derecho y **Reclamar**. Es gratis y sin
+    alquiler mientras tengas el rango (el Amanecer, solo de aspecto, no cuenta). [Ver Yamanote](ciudadela/yamanote.md).
+
+??? question "Los guardias me echan de Yamanote"
+    Del Gran Torii para dentro solo pasan los VIP de pago, quienes viven allí y sus invitados. Si tienes un amigo allí, que te invite:
+    `/mansion invitar <jugador>` te deja pasar 2 horas. [Ver quién pasa](ciudadela/yamanote.md#como-se-llega).
+
+??? question "¿Cómo adopto una mascota?"
+    En la **tienda de animales** de Tokio, con la criadora Aiko: 10.000. Necesitas una casa, una parcela o una mansión de la que seas el
+    inquilino. [Ver cómo](economia/mascotas.md#como-se-adopta).
+
+??? question "Mi mascota ha muerto. ¿Quién ha sido?"
+    Nadie: nada puede hacerle daño, solo el hambre y la sed. Si está activa y se le acaba la comida o el agua, muere; te avisa antes por
+    el chat y por el buzón, a las 48 y a las 60 horas. Su recuerdo te llega al buzón y puedes adoptar otra.
+    [Ver sus tres días](economia/mascotas.md#comida-agua-y-sus-tres-dias).
+
+??? question "Me voy unos días: ¿qué hago con la mascota, las plantas y mi pareja?"
+    - **La mascota:** déjale los cuencos llenos (unos 15 días) o [desactívala](economia/mascotas.md#activarla-y-desactivarla) en el menú de la casa: desactivada no le corre el reloj.
+    - **Las plantas:** sin regar mueren a los 3 días y medio. Rómpelas y [llévatelas como objeto](economia/plantas.md#moverlas-y-perder-la-casa): así no corre el tiempo.
+    - **Tu pareja:** dile «me voy de viaje»: [14 días](social/relaciones.md#cuidarla-o-perderla) sin que corra su reloj, una vez al mes.
+
+??? question "¿Cómo pido en el Ryōtei?"
+    Clic derecho en una mesa libre para sentarte. Viene la camarera; sentado, clic derecho otra vez: se abre la carta. Elige y mira el
+    botón de abajo, que dice quién paga y cuánto. [Ver el Ryōtei](ciudadela/ryotei.md#como-te-atienden).
+
+??? question "¿Cómo consigo pareja?"
+    Busca a una de las ocho en Tokio o en el Barrio del Placer (**K → ♥ Relaciones** te dice por dónde anda), habla con ella cada día,
+    regálale lo que le guste y hazle favores. Hacen falta 85 corazones, sus tres historias y una casa tuya: unas dos semanas.
+    [Ver cómo](social/relaciones.md#pedirle-que-sea-tu-pareja).
+
+??? question "Mi pareja se ha ido"
+    A los 7 días sin hacerle caso (10 si estáis casados) te escribe una carta al buzón y, 3 días después, se marcha. Puedes volver a
+    intentarlo, pero cuesta. Si te vas a ausentar, dile «me voy de viaje». [Ver cómo cuidarla](social/relaciones.md#cuidarla-o-perderla).
 
 ## Pase Estelar, cajas y colgante
 
@@ -226,6 +299,14 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
     Los cazadores con nombre solo salen a por ti en **la misión que sigues** (la de tu tarjeta); los de tus otras misiones te
     esperan hasta que sigas la suya, y una vez por noche te dicen dónde. Y cada uno va solo a por su demonio.
     [Ver los cazadores del Cuerpo](demonio/combate.md#los-cazadores-del-cuerpo).
+
+??? question "¿Dónde están mis técnicas nuevas de demonio?"
+    Llegan con tu rango de sangre. Míralas en **K → Sangre → «✦ Senda del Demonio»** y ponlas desde allí en ++z++, ++x++ o ++c++ (cada
+    tecla se abre con su rango). [Ver la Senda](demonio/senda.md).
+
+??? question "Ya he hecho todas las misiones de demonio: ¿qué más hay?"
+    Con **El Asiento Vacío** terminado y la sangre en rango 8, Muzan y Nakime vendrán a buscarte para [dos arcos largos](misiones/arcos-demonio.md).
+    Y las [tres reliquias](misiones/reliquias.md) también son para ti.
 
 ??? question "¿Puedo volver a ser humano?"
     Sí, con la cura de Tamayo, y recuperas tu cazador tal como era. Cada cambio de bando cuesta más que el anterior.

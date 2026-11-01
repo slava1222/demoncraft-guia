@@ -20,6 +20,8 @@ description: Cómo gana sangre un demonio, los diez rangos de sangre, el sol, la
 - **Saciedad:** las 5 primeras comidas de cada noche dan la sangre entera; las 5 siguientes, la mitad; después, muy poca.
 - En **Luna de Sangre**, la sangre que cazas cuenta **doble**.
 - Si estás en un **clan**, cada demonio del clan conectado recibe además un 10 % de lo que cazas.
+- Con un [rango VIP](../vip.md#lo-que-da-cualquier-rango) de pago, un **10 % más** sobre todo lo que ganes.
+- ¿Te sobra? Desde Luna Inferior, lo que tienes por encima de tu rango se cambia por dinero u objetos: [el trueque](../economia/trueque.md).
 
 ## Los rangos de sangre
 
@@ -34,7 +36,8 @@ description: Cómo gana sangre un demonio, los diez rangos de sangre, el sol, la
 Desde la actualización 1.5 cada rango pide **un 50 % más de sangre** que antes. **Nadie baja de rango**: si ya tenías uno, lo
 conservas; la tabla nueva cuenta para el siguiente (y si guardabas sangre para él, puede que ahora te falte).
 
-Cada rango te da más velocidad, un **punto del árbol** y un **punto de linaje**; cada dos rangos, un corazón más.
+Cada rango te da más velocidad, un **punto del árbol**, un **punto de linaje** y un paso de tu
+[Senda del Demonio](senda.md); cada dos rangos, un corazón más.
 Los rangos **3**, **6** y **9** abren además tus teclas ++z++, ++x++ y ++c++ ([ver](artes.md#las-teclas-se-abren-con-tu-rango)).
 Desde el rango 4 te regeneras solo de noche o bajo techo.
 
@@ -69,9 +72,10 @@ superas el **rito** de la edad siguiente. La K te avisa: *«Tu sangre está quie
 - Haz **clic en un nodo** para aprenderlo. Al pasar el ratón ves qué pide (y lo que te falta, sin marcar).
 - **Renegar de la sangre** (botón en K → Sangre) te devuelve los puntos para repartirlos de nuevo. Cuesta **3 lotos negros**.
 
-!!! info "No lo confundas con el Árbol de la Sangre"
+!!! info "No lo confundas con el Árbol de la Sangre ni con la Senda"
     Este árbol (K → Sangre) son tus nodos. El **Árbol de la Sangre** (`/sangre`, o K → Artes) son las seis sangres de las
-    Lunas, que puedes ir heredando: [ver](artes.md#el-arbol-de-la-sangre).
+    Lunas, que puedes ir heredando: [ver](artes.md#el-arbol-de-la-sangre). La **[Senda del Demonio](senda.md)** (K → Sangre →
+    «✦ Senda del Demonio») llega sola con tu rango y no gasta nada.
 
 <figure markdown="span">
   ![K, pestaña Sangre](../assets/img/capturas/kd-sangre.webp){ loading=lazy }

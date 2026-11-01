@@ -32,7 +32,7 @@ Cada vez que abres el DemonCraft Launcher actualiza solo lo que haya cambiado. C
       pulsas JUGAR se vuelve a escribir el perfil); con otro launcher, en ese launcher.
     - **No metas mods tuyos** en la carpeta `mods`: el launcher la deja igual que el pack. Con el launcher oficial borra
       lo que sobra; con otro launcher lo aparta a la carpeta `mods-guardados-demoncraft`, al lado, sin borrar nada.
-    - Los **shaders** sí puedes usarlos: copia el pack de shaders en la carpeta `shaderpacks` y elígelo en el juego con ++o++.
+    - Los **shaders** sí puedes usarlos: copia el pack de shaders en la carpeta `shaderpacks` y elígelo en el juego, en *Opciones → Vídeo*.
     - El launcher se actualiza solo: si ves «Hay una versión nueva del launcher», pulsa *Instalar y reiniciar*.
     - Si Minecraft está abierto, el launcher no puede cambiar sus mods: ciérralo antes de actualizar.
 

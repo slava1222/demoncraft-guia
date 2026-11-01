@@ -5,7 +5,7 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
 
 # La K y la pantalla
 
-<p class="dc-entradilla">Pulsa ++k++ y tendrás delante casi todo el servidor: tus misiones, a dónde puedes viajar, tu rango, tu dinero, tu clan y el Mercado.</p>
+<p class="dc-entradilla">Pulsa la <strong>K</strong> y tendrás delante casi todo el servidor: tus misiones, a dónde puedes viajar, tu rango, tu dinero, tu clan y el Mercado.</p>
 
 ## La K, tu perfil
 
@@ -20,7 +20,7 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
 | **Encargos** | Los encargos que tienes abiertos y los rumores de quién necesita ayuda. | [Encargos](../misiones/encargos.md) |
 | **Halloween** | Solo durante el evento: tu camino de las calabazas, la tienda de la Anciana y la clasificación. | [Halloween](../eventos/halloween.md) |
 | **Respiración** | El árbol de respiraciones: cuál tienes activa, tus formas, el entrenamiento y tus teclas Z, X y C. | [Respiraciones](../cazador/respiraciones.md) |
-| **Lugares** | La Ciudadela, el Gran Dojo (desde tu primera nichirin) y los lugares que has descubierto, con el precio del viaje y el botón **Ir**. | [Viajar](../mundo/viajar.md) · [La Ciudadela](../ciudadela/index.md) · [El Gran Dojo](../social/duelos.md#el-gran-dojo) |
+| **Lugares** | La Ciudadela, Yamanote, el Ryōtei, el Gran Dojo (desde tu primera nichirin) y los lugares que has descubierto, con el precio del viaje y el botón **Ir**. | [Viajar](../mundo/viajar.md) · [La Ciudadela](../ciudadela/index.md) · [Yamanote](../ciudadela/yamanote.md) · [El Ryōtei](../ciudadela/ryotei.md) · [El Gran Dojo](../social/duelos.md#el-gran-dojo) |
 | **Títulos** | Todos los títulos, cómo se consiguen y cuál llevas puesto. | [Títulos](../social/chat.md#titulos) |
 | **Ranking** | Clasificaciones: duelos, demonios cazados, jefes y los demonios más temidos. | [Duelos](../social/duelos.md) |
 | **Clan** | Fundar o gestionar tu clan. | [Clanes](../social/clanes.md) |
@@ -28,11 +28,12 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
 | **Caja** | La Caja del Cuartel (un premio gratis cada 24 horas, con la cuenta atrás del siguiente) y la Caja Premium. Cuando tienes el tiro gratis listo, la pestaña late con una estrella **✦**. | [Cajas](../economia/objetos.md#la-caja-del-cuartel-k-caja) |
 | **✦ Pase** | El Pase Estelar: tus niveles, sus recompensas y los desafíos de la semana. Si tienes algo por recoger, la pestaña lo cuenta (**✦3**). | [Pase Estelar](../pase.md) |
 | **Subastas** | El Mercado entre jugadores. | [Mercado](../economia/mercado.md) |
+| **♥ Relaciones** | Las ocho mujeres de Tokio y del Barrio del Placer: tus corazones con cada una, por dónde anda y, si tienes pareja, cómo está y cuánto aguanta sin ti. | [Relaciones](../social/relaciones.md) |
 | **Perfil** | Tu ficha: rango, cacería y dinero. Con el Colgante de las Almas, también tus almas guiadas y tus campanadas. | [El Colgante](../misiones/colgante.md#en-la-k) |
 
 !!! demonio "Si eres demonio"
-    Tu K cambia: no tienes *Respiración* ni *Rango*, y a cambio tienes **Sangre** (tu rango de sangre, el árbol
-    y los encargos de la noche) y **Artes** (tus artes de sangre, sus teclas y el
+    Tu K cambia: no tienes *Respiración* ni *Rango*, y a cambio tienes **Sangre** (tu rango de sangre, el árbol,
+    la [Senda del Demonio](../demonio/senda.md) y los encargos de la noche) y **Artes** (tus artes de sangre, sus teclas y el
     [Árbol de la Sangre](../demonio/artes.md#el-arbol-de-la-sangre)). *Caja* te abre la tuya, la
     [Caja de Sangre](../economia/objetos.md#la-caja-de-sangre-demonios), y el *Pase* es el de los demonios. *Encargos* pasa a
     ser «Susurros de la noche» y *Lugares*, «Las puertas de Nakime» (con el [Mercado de la Noche](../demonio/mercado.md)).
@@ -89,10 +90,25 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
 
 ## La lista de jugadores (++tab++)
 
-Además de quién está conectado (con su rango, su clan y su título), muestra el **estado de la noche** («☀ Día»,
-«☾ Noche · hora del buey»…, o **LUNA DE SANGRE**) y, abajo, tu rango, tus méritos y tu **bolsa** (tu dinero).
+**Mantén pulsado ++tab++** y se abre la lista de quién está en el servidor: una caja de laca negra con marco dorado, el cielo de
+ahora arriba y un bando a cada lado de la katana. Al soltar, se va.
 
 <figure markdown="span">
-  ![Lista de jugadores durante una Luna de Sangre](../assets/img/capturas/tab-luna.webp){ width="640" loading=lazy }
-  <figcaption>La lista con Tab durante una Luna de Sangre: el Cuerpo paga el doble.</figcaption>
+  ![La lista de jugadores](../assets/img/capturas/tab-lista.webp){ width="640" loading=lazy }
+  <figcaption>La lista con Tab: el cielo de ahora arriba, un bando a cada lado y, abajo, lo tuyo. Los nombres están difuminados.</figcaption>
 </figure>
+
+- **Arriba, el cielo.** DemonCraft y cómo está la noche, en tus palabras: el día, la noche cerrada, la hora del buey y la **Luna de
+  Sangre** tienen su color, su kanji y su luna (o su sol) sobre las montañas. Y cuántos estáis conectados.
+- **Dos bandos.** 隊 Cuerpo a la izquierda y 鬼 Demonios a la derecha, cada uno con su cuenta. Los VIP salen los primeros; después, por rango.
+- **Cada fila.** La cara del jugador, el sello de su rango (el tronco celeste de cada rango del Cuerpo o el kanji de su rango de
+  sangre), la etiqueta de su clan, su nombre y su título, y la latencia en cuatro barras (verde, dorado, naranja, rojo). Tu propia
+  fila lleva un filete dorado. Un **♥** junto al nombre: [está casado](../social/relaciones.md#prometerse-y-casarse).
+- **Abajo, lo tuyo.** Tu rango, tu progreso hacia el siguiente (méritos o sangre, y los días de servicio si te faltan), tu **bolsa**
+  y, si tienes un VIP de pago, tu **+10 %**.
+
+Con pocos jugadores cada fila va a dos líneas y con mucha gente se aprieta y baja de tamaño lo justo: con los sesenta del máximo
+también caben todos, a cualquier tamaño de ventana y con cualquier escala de interfaz. Los títulos de los VIP están vivos:
+[cada rango con su paleta y su manera de moverse](../vip.md#tu-titulo-en-la-lista).
+
+Quien aún no ha actualizado el pack sigue viendo la lista de siempre, con el título de los VIP en el degradado de su rango.

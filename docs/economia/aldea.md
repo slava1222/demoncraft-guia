@@ -23,6 +23,10 @@ Háblales con **clic derecho**. Si alguno tiene una misión pendiente contigo, d
     Los artesanos de la Aldea no atienden a demonios: tu equipo está en el [Mercado de la Noche](../demonio/mercado.md),
     en el Castillo Infinito.
 
+!!! tip "La forja mayor"
+    Lo mejor que se puede encargar (la Hoja Tsukikage, el Ōdachi Yamaoroshi, la Hoja Kodama, sus accesorios y la botica nueva) pide
+    materiales que hay que lotear: [ver la forja mayor](forja-mayor.md).
+
 <div class="galeria" markdown>
 <figure markdown="span">
   ![El taller de Kojiro con el probador](../assets/img/capturas/aldea-kojiro.webp){ loading=lazy }

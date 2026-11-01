@@ -35,10 +35,16 @@ description: Cómo viajar por el mapa de DemonCraft con el cuervo Kasugai, el ar
     Cuando ya tienes tu **primera espada nichirin**, sale también **«El Gran Dojo»**, donde se pelean los duelos y el torneo: es
     **gratis** y su **Ir** te lleva al momento a su plaza (lo mismo que `/torneo ver`; vuelves igual). [Ver el Gran Dojo](../social/duelos.md#el-gran-dojo).
 
+!!! tip "Yamanote y el Ryōtei"
+    En K → Lugares salen también [Yamanote](../ciudadela/yamanote.md), el barrio de las mansiones, y
+    [el Ryōtei](../ciudadela/ryotei.md), el restaurante, los dos en la Ciudadela. Desde el mundo normal cuestan lo mismo que ella;
+    dentro de la Ciudadela, según la distancia.
+
 ## Cuánto cuesta
 
 - **60 + 0,4 por cada bloque** de distancia en línea recta, con un **tope de 1.200**.
 - Con un [rango VIP](../vip.md) pagas **la mitad**.
+- Con [el Remo del Barquero](../misiones/reliquias.md#el-remo-del-barquero), un viaje gratis cada 6 horas.
 - Ejemplos desde Tokio: Monte Natagumo 120 · Dojo de las Glicinas 160 · Tren Infinito 240 · Aldea de los Herreros 300 ·
   Templo Kyogai 400 · Barrio del Placer 540.
 

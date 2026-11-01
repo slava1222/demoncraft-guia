@@ -1,6 +1,6 @@
 ---
 title: La Ciudadela
-description: La Ciudadela de DemonCraft - un mundo aparte, una ciudad japonesa amurallada de nueve barrios con 1056 parcelas de 20 × 20 para construir tu casa, libre de daños. Cómo se va, cómo se alquila una parcela y qué hay en cada barrio.
+description: La Ciudadela de DemonCraft - un mundo aparte, una ciudad japonesa amurallada de nueve barrios con 1056 parcelas de 20 × 20 para construir tu casa, libre de daños. Cómo se va, cómo se alquila una parcela, qué hay en cada barrio, el restaurante y las mansiones de Yamanote.
 ---
 
 # La Ciudadela
@@ -118,4 +118,15 @@ Son [parcelas para construir](../economia/casas.md#parcelas-para-construir) como
 ## El Mercado y sus oficios
 
 En la calle del Mercado hay **20 puestos** donde trabajar: cocina ramen, pan, té y dulces para los clientes, o haz recados
-llevando cajas a las tiendas. Y si en un puesto cocina otro jugador, puedes pedirle un plato. [Ver los oficios](oficios.md).
+llevando cajas a las tiendas. Cada puesto lleva su cartel: clic derecho y a trabajar. Y si en un puesto cocina otro jugador, puedes
+pedirle un plato. [Ver los oficios](oficios.md).
+
+## El Ryōtei
+
+Un restaurante de dos plantas junto al río: te sientas a la mesa, le pides a la camarera, comes y brindas con quien quieras. Cada uno
+paga lo suyo, o invita. **K → Lugares → El Ryōtei** o `/restaurante`. [Ver el Ryōtei](ryotei.md).
+
+## Yamanote, el barrio de las mansiones
+
+Pasando la Puerta Norte, por el Camino de los Torii, están las **50 mansiones** de quienes tienen un rango VIP de pago: gratis, sin
+alquiler y listas para entrar a vivir. A la plaza puede ir cualquiera a mirar. **K → Lugares → Yamanote**. [Ver Yamanote](yamanote.md).

@@ -1,6 +1,6 @@
 ---
 title: Rangos VIP
-description: Los rangos de apoyo (VIP) de DemonCraft - qué da cada uno, sus kits, la mascota de cada pilar, las gemelas del Sonido y de La Bestia, la marca de cada pilar, respiraciones y linaje propios, las cuatro Lunas (rangos de demonio), el Amanecer (solo de aspecto), los comandos /vip y /kit y cómo conseguirlos.
+description: Los rangos de apoyo (VIP) de DemonCraft - qué da cada uno, el 10 % más de méritos y sangre, la mansión de Yamanote, sus títulos en la lista, sus kits, la mascota de cada pilar, las gemelas del Sonido y de La Bestia, la marca de cada pilar, respiraciones y linaje propios, el agarre del Señor de las Ánimas, las cuatro Lunas (rangos de demonio), el Amanecer (solo de aspecto), los comandos /vip y /kit y cómo conseguirlos.
 ---
 
 # Rangos de apoyo (VIP)
@@ -12,16 +12,19 @@ description: Los rangos de apoyo (VIP) de DemonCraft - qué da cada uno, sus kit
 - **Viajes a mitad de precio** (el cuervo, o la biwa si eres demonio).
 - **+25 %** en todo lo que paga el servidor: misiones, encargos del día, recompensa nocturna, Luna de Sangre y, al demonio, su
   paga de la noche, la paga de Muzan y el Tablón de la Noche.
+- **+10 % de méritos y de sangre**, cazador o demonio, sobre todo lo que ganes (el demonio cazado da 6 méritos en vez de 5). Lo
+  dicen el mensaje de lo ganado, la K y la lista de jugadores. Lo que concede un administrador, sin él.
+- **Una mansión gratis** en [Yamanote](ciudadela/yamanote.md), el barrio VIP de la Ciudadela, sin alquiler, mientras tengas el rango.
 - **Todas las formas** de tus respiraciones, también las de la 7.ª en adelante.
 - Un **kit semanal** con la ropa y la katana (o el arma) del rango: `/kit <id>`.
 - Una **mascota** propia del rango que te acompaña: `/vip mascota`.
-- **Su título** (se queda aunque el rango caduque), prefijo en el chat, nombre dorado con ✦ en la lista de jugadores,
+- **Su título** (se queda aunque el rango caduque), prefijo en el chat, [su título vivo en la lista de jugadores](#tu-titulo-en-la-lista),
   la línea «VIP · *RANGO*» sobre tu cabeza y un anuncio cuando entras al servidor.
 - Si es un rango **del Cuerpo** (de cazador), la **Marca del Cazador** (++h++) con cualquier rango, con el poder de su pilar
   ([ver](#la-marca-de-cada-pilar)).
 
 El **Amanecer** es la excepción: solo trae lo de aspecto (título, equipo, mascota y la línea sobre tu cabeza), sin viajes a mitad
-de precio, sin el +25 %, sin las formas y sin la Marca. [Ver abajo](#amanecer-el-rango-de-aspecto).
+de precio, sin el +25 %, sin el +10 %, sin mansión, sin las formas y sin la Marca. [Ver abajo](#amanecer-el-rango-de-aspecto).
 
 ## Los rangos
 
@@ -36,7 +39,7 @@ de precio, sin el +25 %, sin las formas y sin la Marca. [Ver abajo](#amanecer-el
 | 【獣】 | **La Bestia** | Cazador | `/kit bestia` | Jabato de la bestia | [Dos colmillos](#las-gemelas-del-sonido-y-de-la-bestia), uno en cada mano; rematas a los enemigos heridos. |
 | 【灰】 | **Ceniza Oscura** | Cazador | `/kit cenizaoscura` | Zorro de ceniza | **Su propia respiración**: la Ceniza, cinco formas. |
 | 【紅】 | **Oscuridad Carmesí** | Cazador | `/kit oscuridadcarmesi` | Mariposa del abismo | **Su propia respiración**: la Oscuridad Carmesí, cinco formas. |
-| 【魂】 | **Señor de las Ánimas** | **Demonio** | `/kit animas` | Farol maldito | **Su propio linaje**: cinco artes de sangre que se suman a las tuyas. |
+| 【魂】 | **Señor de las Ánimas** | **Demonio** | `/kit animas` | Farol maldito | **Su propio linaje**: cinco artes de sangre que se suman a las tuyas, con [el agarre del esqueleto](#el-senor-de-las-animas-el-agarre-del-esqueleto). |
 | 【夢】 | **Enmu** | **Demonio** | `/kit enmu` | Tren Infinito | [Una Luna](#las-lunas-rangos-de-demonio): su mano duerme a los cazadores del Cuerpo que te golpean. |
 | 【破】 | **Akaza** | **Demonio** | `/kit akaza` | Brújula de Koyuki | [Una Luna](#las-lunas-rangos-de-demonio): pelea con los puños; cada tercer puñetazo abre la brújula. |
 | 【氷】 | **Douma** | **Demonio** | `/kit douma` | Niño de Cristal | [Una Luna](#las-lunas-rangos-de-demonio): dos abanicos de hielo, uno en cada mano. |
@@ -102,6 +105,68 @@ Ceniza Oscura, Oscuridad Carmesí y Señor de las Ánimas traen técnicas que no
   paran con el bloqueo ni con la parada, no se esquivan rodando y la defensa del demonio no las frena.
 - Con el **farol de las Ánimas** en la mano, su arte del clic derecho no alcanza a ningún jugador a más de **6 bloques**. Sin el
   farol, con Z, X y C, y contra los demonios de la noche y los jefes, igual que siempre.
+
+## Tu título en la lista
+
+En la [lista de jugadores](empezar/menu-k.md#la-lista-de-jugadores-tab) (++tab++) el título de un VIP está vivo: cada rango tiene su
+paleta y su manera de moverse, y se ve el del rango que llevas **a la vista** (`/vip titulo`). Si no llevas ningún título puesto, se
+lee el de tu rango. Su fila, su marco y su sello llevan los mismos colores, y alrededor del título flota lo suyo: gotas, chispas,
+brasas, ceniza, hojas, fuegos fatuos…
+
+| Rango | Su título |
+|---|---|
+| Amanecer | De rosa a oro, con una luz que lo cruza despacio |
+| Pilar del Agua | Azules y espuma: una ola que recorre las letras |
+| Pilar Superior del Trueno | Oro eléctrico y una chispa blanca que cruza de golpe |
+| Pilar de la Niebla | Blanco y gris azulado: bancos de niebla que van y vienen |
+| Pilar de la Llama | Brasas: cada letra arde por su cuenta |
+| Pilar del Sonido | Magenta, oro y azul que saltan a compás |
+| La Bestia | Verde monte y corteza, con un rugido que pasa |
+| Ceniza Oscura | Gris de hoguera apagada y, de pronto, una brasa |
+| Oscuridad Carmesí | Violeta y sangre que corren |
+| Señor de las Ánimas | Turquesa de fuego fatuo: cada letra respira a su ritmo |
+| Enmu | Orquídea, rosa y añil, lentísimos |
+| Akaza | Rosa y una onda que sale del centro como un golpe |
+| Douma | Hielo con un arcoíris muy pálido |
+| Kokushibo | La plata fría de la luna y un tajo de sangre |
+
+## El Señor de las Ánimas: el agarre del esqueleto
+
+Desde la actualización 2.0, las artes de las Ánimas pegan **un 15 % más** contra los jugadores y contra los cazadores del Cuerpo que
+no son jugadores. Lo que cuelga de sus golpes **también llega a los jugadores**: la quemadura de fuego fatuo, los empujones y las
+**Manos del Inframundo**, que de verdad sujetan a quien pillan (un segundo y medio, sin poder saltar).
+
+Y el **Desfile de los Cien Demonios** cambia: si al lanzarlo tienes a alguien **a diez bloques y a la vista**, el esqueleto gigante
+sale de la tierra detrás de tu presa, la coge con la mano, se la lleva a la cara, la estruja y la estrella contra el suelo. Luego la
+suelta y el desfile de faroles y ánimas lo arrasa todo, como siempre (a ella ya no la toca). Los demás que estén a diez bloques no se
+libran: las manos de hueso les cogen de los tobillos y el golpe contra el suelo les alcanza.
+
+<figure markdown="span">
+  ![El esqueleto del Desfile de los Cien Demonios coge a su presa](assets/img/capturas/animas-agarre.webp){ width="760" loading=lazy }
+  <figcaption>El esqueleto, con su presa en la mano.</figcaption>
+</figure>
+
+| Lo que quita | |
+|---|---|
+| Al que aplasta (un jugador) | Hasta el **65 % de su vida máxima** de una vez |
+| El Desfile entero | Nunca más del **90 %**: a quien está entero no le tumba de una vez (a quien ya está herido, sí puede) |
+| A un cazador NPC | Muchísimo (los jefes, como mucho un 25 % por golpe) |
+| A los de alrededor | Un golpe fuerte, con los topes de siempre |
+| En un duelo del dojo | Hasta el **30 %** de la vida del duelo |
+
+**La espera:** si coge a un jugador, **90 segundos** (81 con el Kimono de las Ánimas). Si coge a un NPC o a nadie, la de siempre.
+
+**Cómo defenderse:**
+
+- **Golpea a quien lo lanza:** mientras su esqueleto hace, casi no se mueve. Si cae o se va, **la mano te suelta en el acto**.
+- **Cúbrete antes de que se cierre la mano:** no te salva de ella, pero la guardia y el escudo tiran como contra cualquier técnica: si
+  aguantan, gastas estamina y **entra un 40 % menos**. Si se rompen, entero.
+- **Rompe la línea de visión:** tras una pared no te ve. Y solo se libra de la mano quien se aleja de verdad en ese instante (una perla, un teletransporte).
+- Dentro de la mano no se puede hacer nada, pero nadie más puede pegarte: dura menos de dos segundos. Después de soltarte, **diez segundos** en los que ninguna mano te vuelve a coger.
+
+**Dónde no coge:** en zonas seguras, refugios, la Ciudadela, casas sin PvP, cerca de una Calamidad despierta ni a quien acaba de llegar:
+las reglas de siempre del combate entre jugadores. En el dojo, solo entre los que pelean, y nadie de fuera puede lanzarlo a 24 bloques
+de un duelo. Allí tampoco empuja: nadie pierde fuera del tatami por un soplido.
 
 ## Las mascotas de los pilares
 
@@ -252,7 +317,7 @@ cazador, otro a juego.
 ![Amanecer: la primera luz camina contigo](assets/img/vip/sello-amanecer.webp){ align=right width="260" loading=lazy }
 
 El rango más sencillo y **solo de aspecto**: no da ninguna ventaja, ni en combate ni en tu cuenta (ni viajes a mitad de precio,
-ni el +25 %, ni las formas, ni la Marca). Lo suyo es verse:
+ni el +25 %, ni el +10 %, ni mansión, ni las formas, ni la Marca). Lo suyo es verse:
 
 - **Sobre tu nombre**, «VIP · AMANECER» con los colores del alba y un destello que lo recorre; el prefijo 【暁】 en el chat y su
   título, «Amanecer» (o «Ocaso» si eres demonio).

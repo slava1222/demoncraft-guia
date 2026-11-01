@@ -24,7 +24,12 @@ al castillo y **desde dentro del castillo es gratis**.
 Háblales con **clic derecho**. La pantalla es como la de la Aldea: estanterías (clic o ++tab++), lo que da cada pieza, lo que
 pide (*«4/2»* = llevas 4, pide 2) y el probador. Pulsa **ENCARGAR** (o ++enter++).
 
-En la misma sala está el **Mensajero de Muzan**, con los encargos de tu señor: el [Tablón de la Noche](#el-tablon-de-la-noche).
+En la misma sala está el **Mensajero de Muzan**, con los encargos de tu señor: el [Tablón de la Noche](#el-tablon-de-la-noche). Y
+enfrente, la **Vieja Datsue**, que te compra la sangre que te sobra: [el trueque](../economia/trueque.md).
+
+!!! tip "La forja mayor"
+    Lo mejor que se puede encargar (la Espada Yoikage, el Zanbatō Hitokui, la Espada Urami, sus accesorios y la botica nueva) pide
+    materiales que hay que lotear: [ver la forja mayor](../economia/forja-mayor.md).
 
 <div class="galeria" markdown>
 <figure markdown="span">

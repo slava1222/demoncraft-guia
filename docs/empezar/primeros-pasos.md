@@ -38,7 +38,7 @@ Mientras dura no te puedes mover y nada te hace daño. No se puede saltar (si se
 
 ## Tu primer equipo
 
-Genzo te da tu primer equipo: el **uniforme del Cuerpo** (pecho, pantalón y botas), un **hacha**, una **mochila**
+Genzo te da tu primer equipo: el **uniforme del Cuerpo** (pecho, pantalón y botas), un **hacha**, una [**mochila**](../economia/mochilas.md)
 (se abre con ++b++), comida y una **foto vieja**. Casi todo va **ligado** a ti: no se puede tirar y no se pierde al morir.
 
 !!! tip "Mirar un objeto"

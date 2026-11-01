@@ -131,6 +131,8 @@ nav:
   - La Ciudadela:
       - ciudadela/index.md
       - Los oficios del Mercado: ciudadela/oficios.md
+      - El Ryōtei: ciudadela/ryotei.md
+      - Yamanote, las mansiones: ciudadela/yamanote.md
   - Empezar:
       - empezar/index.md
       - Tus primeros minutos: empezar/primeros-pasos.md
@@ -147,6 +149,7 @@ nav:
   - Demonio:
       - demonio/index.md
       - Sangre, rangos y árbol: demonio/sangre.md
+      - La Senda del Demonio: demonio/senda.md
       - Linajes y artes: demonio/artes.md
       - Combate: demonio/combate.md
       - La vida de un demonio: demonio/vida.md
@@ -158,6 +161,8 @@ nav:
       - Los Sucesos: misiones/sucesos.md
       - La Fortaleza: misiones/fortaleza.md
       - El Colgante de las Almas: misiones/colgante.md
+      - Las tres Reliquias: misiones/reliquias.md
+      - Los arcos del demonio: misiones/arcos-demonio.md
   - Mundo:
       - mundo/index.md
       - Viajar: mundo/viajar.md
@@ -167,13 +172,21 @@ nav:
       - economia/index.md
       - Tiendas y forja: economia/tiendas.md
       - La Aldea de los Herreros: economia/aldea.md
+      - La forja mayor: economia/forja-mayor.md
       - El Mercado: economia/mercado.md
+      - El trueque: economia/trueque.md
       - Casas y parcelas: economia/casas.md
+      - Mascotas de casa: economia/mascotas.md
+      - Plantas de casa: economia/plantas.md
+      - Las mochilas: economia/mochilas.md
       - Cajas y objetos: economia/objetos.md
   - Social:
       - social/index.md
       - Clanes: social/clanes.md
       - Duelos y dojo: social/duelos.md
+      - Duelos en pareja: social/duelos-parejas.md
+      - Relaciones y pareja: social/relaciones.md
+      - Emotes: social/emotes.md
       - Mesas de juego: social/juegos.md
       - Chat, voz y reportes: social/chat.md
   - Rangos VIP: vip.md

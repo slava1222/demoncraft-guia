@@ -1,6 +1,6 @@
 ---
 title: Social
-description: Clanes, duelos en el dojo, mesas de juego, chat, chat de voz, títulos y reportes en DemonCraft.
+description: Clanes, duelos en el dojo, duelos en pareja, relaciones, emotes, mesas de juego, chat, chat de voz, títulos y reportes en DemonCraft.
 ---
 
 # Social
@@ -18,6 +18,24 @@ description: Clanes, duelos en el dojo, mesas de juego, chat, chat de voz, títu
     ---
 
     Combates justos en el dojo, puntuación por temporadas, apuestas y el Trofeo del Dojo.
+
+-   :material-account-multiple-outline:{ .lg .middle } **[Duelos en pareja](duelos-parejas.md)**
+
+    ---
+
+    2 contra 2 en el tatami: tus técnicas no le hacen nada a tu compañero.
+
+-   :material-heart-outline:{ .lg .middle } **[Relaciones y pareja](relaciones.md)**
+
+    ---
+
+    Ocho mujeres con su historia: conócelas, invítalas a salir y, si la cosa va bien, cásate. Romántico y apto para todos.
+
+-   :material-hand-wave-outline:{ .lg .middle } **[Emotes](emotes.md)**
+
+    ---
+
+    La rueda de la º: saludo, reverencia, meditación, danza y victoria.
 
 -   :material-chess-knight:{ .lg .middle } **[Mesas de juego](juegos.md)**
 

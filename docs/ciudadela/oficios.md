@@ -15,7 +15,14 @@ description: Los oficios del Mercado de la Ciudadela de DemonCraft - cocinar ram
 ## Los puestos
 
 Al cruzar la Gran Puerta de la Ciudadela, la calle de los farolillos rojos que tienes delante es la del Mercado. Cada puesto
-tiene su **mostrador abierto a la calle**, con la cortina (el noren) del color de su oficio.
+tiene su **mostrador abierto a la calle**, con la cortina (el noren) del color de su oficio, una **banderola «TRABAJO AQUÍ»** que se
+ve de lejos y, encima del mostrador, un **cartel** con una mano y un ratón: **«¡SE BUSCA…! Clic derecho aquí»**. Si brillan, el puesto
+está libre; si está ocupado, dicen quién trabaja ahí.
+
+<figure markdown="span">
+  ![El cartel «Se busca» sobre el mostrador de un puesto](../assets/img/capturas/oficios-cartel.webp){ loading=lazy }
+  <figcaption>El cartel de un puesto de fideos: clic derecho y se abre su panel.</figcaption>
+</figure>
 
 | Oficio | Puestos | Qué se hace |
 |---|---|---|
@@ -28,7 +35,7 @@ tiene su **mostrador abierto a la calle**, con la cortina (el noren) del color d
 ## Empezar un turno
 
 <ol class="pasos" markdown>
-<li markdown>**Clic derecho al mostrador** de un puesto donde no trabaje nadie, desde la calle. Se abre su **panel**: tu nivel y tu rango en ese oficio, lo que llevas ganado hoy, el oficio del día, las recetas que sabes hacer (con lo que pagan) y los mejores de la semana.</li>
+<li markdown>**Clic derecho al cartel, a la banderola o al mostrador** de un puesto donde no trabaje nadie, desde la calle. Se abre su **panel**: tu nivel y tu rango en ese oficio, lo que llevas ganado hoy, el oficio del día, las recetas que sabes hacer (con lo que pagan) y los mejores de la semana.</li>
 <li markdown>**Empezar el turno.** Te pone detrás del mostrador, mirando a la calle.</li>
 <li markdown>**Llegan los clientes**, andando por la calle (uno cada pocos segundos, como mucho tres a la vez). Al llegar piden: su plato flota encima de su cabeza con un anillo de **paciencia** que se va vaciando.</li>
 <li markdown>**Elige un pedido** de la cola de abajo con su número (++1++, ++2++, ++3++) o con un clic, y cocínalo. Mientras cocinas, la paciencia de ese cliente se para.</li>
@@ -51,7 +58,7 @@ tiene su **mostrador abierto a la calle**, con la cortina (el noren) del color d
   puesto libre del mismo oficio.
 - De noche, a veces, llega un **demonio** que pide un plato de sangre (lo sabes hacer desde el nivel 3).
 
-!!! warning "Si al darle al mostrador no se abre nada"
+!!! warning "Si al darle al cartel o al mostrador no se abre nada"
     Tu juego tiene el pack de antes de la 1.6. Cierra Minecraft del todo y ábrelo con el
     [launcher](../empezar/index.md): se actualiza solo. Si juegas con otro launcher, baja el modpack nuevo.
 
@@ -126,7 +133,8 @@ Cada oficio tiene cuatro recetas que se abren con el nivel y un plato de sangre 
 
 ## El restaurante: pedirle a otro jugador
 
-Cuando otro jugador trabaja en un puesto, puedes pedirle un plato:
+Cuando otro jugador trabaja en un puesto, puedes pedirle un plato (para sentarte a la mesa y que te atienda una camarera, está
+[el Ryōtei](ryotei.md)):
 
 <ol class="pasos" markdown>
 <li markdown>**Clic derecho a su mostrador** desde la calle (o `/oficios carta` delante de él): sale **la carta**, con lo que sabe cocinar y su precio.</li>

@@ -1,11 +1,15 @@
 ---
 title: Duelos y dojo
-description: Duelos en el Gran Dojo - requisitos, cómo retar por el chat, las reglas de la tarima y los 5 segundos para volver a ella, nadie que no pelee puede molestar, la puntuación, las temporadas, las apuestas, el Trofeo del Dojo y el muñeco de práctica.
+description: Duelos en el Gran Dojo - requisitos, cómo retar por el chat, las reglas de la tarima y los 5 segundos para volver a ella, nadie que no pelee puede molestar, la puntuación, las temporadas, las apuestas, los duelos en pareja, el Trofeo del Dojo y el muñeco de práctica.
 ---
 
 # Duelos y dojo
 
 <p class="dc-entradilla">En el Gran Dojo te bates a espada con otro jugador, en una tarima al aire libre con gradas alrededor. Los dos entráis iguales y nadie pierde nada: al acabar, cada uno vuelve a donde estaba.</p>
+
+!!! tip "También en pareja"
+    Desde la actualización 2.0 se pelea también **2 contra 2**: forma pareja con `/duelo pareja <jugador>` o en la pestaña
+    **Parejas** de la pantalla del dojo. Tus técnicas no le hacen nada a tu compañero. [Ver los duelos en pareja](duelos-parejas.md).
 
 ## Requisitos
 
@@ -146,3 +150,4 @@ el Gran Dojo), pero el muñeco sigue ahí y funciona igual que siempre.
 | `/duelo ver` | Entra o sale de la grada. |
 | `/duelo top` · `/duelo marcador [jugador]` | Top 10 de la temporada · victorias y derrotas. |
 | `/duelo trofeo` | Recoge tu Trofeo del Dojo. |
+| `/duelo pareja …` | Los [duelos en pareja](duelos-parejas.md#ordenes). |
