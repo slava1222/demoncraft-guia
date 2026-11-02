@@ -74,6 +74,14 @@ Se mejora desde la propia ventana, con los materiales en el inventario.
 - Lo de dentro se guarda en el servidor, cada vez que la cierras.
 - Con **el Colgante de las Almas** o una [reliquia](../misiones/reliquias.md), ojo: tienen que ir en el inventario, no dentro de la mochila.
 
+## La bolsa de viaje
+
+Además de la mochila, todos tienen una **bolsa de viaje**: **18 casillas más** en el inventario (++e++), detrás de la casilla de la espalda.
+
+- Guarda lo mismo que una mochila y se usa como el resto del inventario: arrastrar, ++shift++ + clic...
+- Con ++shift++ + clic sobre algo de la bolsa, pasa al inventario; desde el inventario, va donde siempre y, si no cabe, a la bolsa.
+- Es tuya como tu cofre de ender: no se pierde al morir.
+
 ## Tu mochila de antes
 
 Las mochilas de antes de la actualización 2.0 se cambian solas por una de estas en cuanto el juego las ve: al entrar, al abrir un cofre donde la tengas, al recogerla… Te lo dice el chat.

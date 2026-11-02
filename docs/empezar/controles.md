@@ -70,6 +70,11 @@ Con la mochila en la mano: **clic derecho** la abre y **++shift++ + clic derecho
 
 En el inventario, sobre un objeto: ++r++ muestra cómo se fabrica y ++u++ para qué sirve.
 
+## La pantalla de juego y el inventario
+
+- **Abajo**, la barra de objetos lacada en oro, con un **medallón** en medio con el kanji de tu respiración (o de tu linaje, si eres demonio) y la experiencia en su arco; brilla cuando lanzas una técnica. A la izquierda, tu **vida** (con la armadura y lo que te afecta) y a la derecha, tu **comida** con su reserva y el aire bajo el agua.
+- **El inventario (++e++)**: tu personaje en 3D en el centro (arrástralo para girarlo; la rueda lo acerca), a la izquierda tus casillas y la [bolsa de viaje](../economia/mochilas.md#la-bolsa-de-viaje), y a la derecha lo que te dan tus objetos y tus técnicas. Al pasar por un objeto ves su ficha comparada con lo que llevas puesto.
+
 ## Cambiar las teclas
 
 Todas se cambian en *Opciones → Controles → Teclas*. Las propias del servidor están en la categoría **DemonCraft**. Allí

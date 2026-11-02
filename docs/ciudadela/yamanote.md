@@ -69,7 +69,10 @@ Y lo que es solo para ti: al entrar, el nombre de tu mansión en grande con su s
 
 ## Vivir allí
 
-- **Coloca y quita lo que quieras** dentro de tu mansión. Lo que venía con la casa no se puede romper; lo que pongas tú, sí. Si un día la dejas, lo tuyo y lo que haya en la nevera y los armarios va a tu **buzón** (K → Subastas → Buzón).
+- **Cámbiala a tu gusto:** coloca y quita lo que quieras dentro de tu mansión, en la casa y en el jardín. Lo que pongas tú lo recuperas al quitarlo, como siempre.
+- **Lo que venía con la mansión** también se quita (solo el dueño, con su rango VIP). Lo recoges como una **pieza de la mansión**: se ve igual y se llama igual («Tōrō de Piedra (de la mansión)»), y la vuelves a poner donde quieras **dentro de tu mansión** con el clic derecho. Así mueves los muebles, abres una pared o cambias el jardín. Es de la mansión: no se pone fuera de ella ni se vende.
+- **No se quitan:** la capa de abajo del terreno (debajo no hay nada), la placa de la mansión y lo que la sostiene, y lo que toca el agua del estanque (se saldría).
+- Si un día la dejas, lo tuyo y lo que haya en la nevera y los armarios va a tu **buzón** (K → Subastas → Buzón), las piezas de la mansión vuelven a ella y la mansión vuelve a estar como el primer día.
 - **Compañeros** (hasta 4): **`/mansion vivir <jugador>`** para que viva contigo. Se apaña como en cualquier casa: `/mansion aceptar`, `/mansion rechazar`, `/mansion quitar <jugador>`, `/mansion salir`.
 - **Visitas:** **`/mansion invitar <jugador>`** deja pasar a alguien sin VIP durante **2 horas**.
 - **Macetas y mascota:** caben [30 macetas](../economia/plantas.md#donde-se-ponen) y [una mascota](../economia/mascotas.md).

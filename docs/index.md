@@ -18,7 +18,15 @@ los demonios. Y una noche, alguien te ofrecerá su sangre: puedes rechazarla… 
 El mapa está hecho a mano y no se rompe ni se construye en él. Todo gira alrededor de las misiones, el combate, los
 duelos, los clanes y la economía entre jugadores.
 
-!!! tip "Novedades de la actualización 2.0"
+!!! tip "Novedades de la actualización 2.1"
+    - **[La pantalla de juego y el inventario](empezar/controles.md#la-pantalla-de-juego-y-el-inventario), nuevos:** la barra de
+      objetos lacada con el medallón de tu respiración, las alas de vida y comida, y el inventario (++e++) con tu personaje en 3D.
+    - **[La bolsa de viaje](economia/mochilas.md#la-bolsa-de-viaje):** 18 casillas más en el inventario, para todos.
+    - **[Yamanote](ciudadela/yamanote.md#vivir-alli):** el dueño de una mansión ya puede cambiarla entera; lo que venía con ella
+      se recoge como pieza de la mansión y se vuelve a poner dentro.
+    - **[Ellas](social/relaciones.md)** ya no se repiten por las calles: pasean por su barrio.
+
+??? tip "Novedades de la actualización 2.0 (1 de noviembre)"
     - **En casa:** [mascotas](economia/mascotas.md) (perro o gato, 10.000 en la tienda de animales de Tokio) y
       [plantas](economia/plantas.md) que crecen con los días reales y hay que regar.
     - **[Relaciones y pareja](social/relaciones.md):** ocho mujeres con su vida y su historia en Tokio y en el Barrio del Placer.

@@ -33,7 +33,7 @@ Cada jugador tiene su propia historia con cada una: varios pueden cortejar a la 
 | **Someka** | 27 | Bailarina, y de las que lo dicen | Barrio del Placer, hacia x 1084, z 898 |
 | **Ranko** | 30 | Narradora de yose: cuenta cuentos y no se calla | Barrio del Placer, hacia x 1172, z 780 |
 
-Tienen rutina: por la mañana, por la tarde y por la noche están en sitios distintos de su barrio, siempre cerca. **K → ♥ Relaciones** (o **`/pareja`**) te dice en qué parte de la ciudad buscar a cada una.
+Tienen rutina: por la mañana, por la tarde y por la noche están en sitios distintos de su barrio, siempre cerca, y entre medias **pasean** por su calle y vuelven. Si le hablas mientras anda, se para contigo. **K → ♥ Relaciones** (o **`/pareja`**) te dice en qué parte de la ciudad buscar a cada una.
 
 ## Hablar con ellas
 
