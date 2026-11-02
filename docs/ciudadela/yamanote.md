@@ -65,7 +65,7 @@ Todo funciona desde el primer día:
   <figcaption>El salón de una de las mansiones, listo para entrar a vivir.</figcaption>
 </figure>
 
-Y lo que es solo para ti: al entrar, el nombre de tu mansión en grande con su sonido. De día caen pétalos; de noche salen las luciérnagas. Y el barrio suena distinto de día y de noche.
+Y lo que es solo para ti: al entrar, el nombre de tu mansión en grande con su sonido. De día caen pétalos; de noche salen las luciérnagas.
 
 ## Vivir allí
 
