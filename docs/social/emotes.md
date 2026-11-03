@@ -33,6 +33,8 @@ También sin rueda: `/emote saludo`, `/emote reverencia`, `/emote meditacion`, `
 | **Danza** | Bon odori, el baile de los festivales de verano, con su música. |
 | **Victoria** | La hoja al cielo, con su destello. Si no llevas una en la mano, el puño. |
 
+**Y uno de rango: la Danza de Orochi.** Solo lo tiene quien tiene el rango [Orochi](../vip.md#orochi-la-serpiente-de-ocho-cabezas): no sale en la rueda de los demás; a él le sale en un **medallón** de jade y oro a la derecha de la rueda (también con el 6 y con `/emote orochi`). Las serpientes salen de la tierra y bailan a su alrededor.
+
 Mientras dura, la cámara pasa a tercera persona y da la vuelta para verte; **el ratón la gira** y la rueda del ratón la acerca o la aleja. Al acabar vuelve sola a donde estaba. Lo que llevas en las manos se guarda mientras dura (la katana, en la cintura) y vuelve al acabar.
 
 **Muévete, salta o pega para acabarlo cuando quieras.** Entre un emote y otro hay una espera corta, de unos segundos.

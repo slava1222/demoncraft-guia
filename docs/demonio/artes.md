@@ -155,6 +155,11 @@ mordisco y las armas no cambian.
     con las de tu linaje y van en las mismas teclas. Con su **farol** en la mano, el arte del clic derecho no alcanza a
     ningún jugador a más de **6 bloques**. [Ver los rangos VIP](../vip.md).
 
+!!! vip "Orochi"
+    El rango de demonio **Orochi** te presta el linaje de la serpiente de ocho cabezas: cinco artes propias (el Colmillo, las
+    Ocho Cabezas, la Muda de Escamas, la Niebla de Izumo y el **Abrazo de Orochi**, la serpiente colosal que coge, sube y
+    estampa a su presa), que van en las mismas teclas que las tuyas. [Ver el rango](../vip.md#orochi-la-serpiente-de-ocho-cabezas).
+
 ## El Árbol de la Sangre
 
 Tu sangre no es la única que puedes llevar: las seis Lunas tienen la suya y puedes **heredarlas una a una**. Y, aparte, está

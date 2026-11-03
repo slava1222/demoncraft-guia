@@ -1,6 +1,6 @@
 ---
 title: Rangos VIP
-description: Los rangos de apoyo (VIP) de DemonCraft - qué da cada uno, el 10 % más de méritos y sangre, la mansión de Yamanote, sus títulos en la lista, sus kits, la mascota de cada pilar, las gemelas del Sonido y de La Bestia, la marca de cada pilar, respiraciones y linaje propios, el agarre del Señor de las Ánimas, las cuatro Lunas (rangos de demonio), el Amanecer (solo de aspecto), los comandos /vip y /kit y cómo conseguirlos.
+description: Los rangos de apoyo (VIP) de DemonCraft - qué da cada uno, el 10 % más de méritos y sangre, la mansión de Yamanote, sus títulos en la lista, sus kits, la mascota de cada pilar, las gemelas del Sonido y de La Bestia, la marca de cada pilar, respiraciones y linaje propios, el agarre del Señor de las Ánimas, las cuatro Lunas y Orochi (rangos de demonio), el Amanecer (solo de aspecto), los comandos /vip y /kit y cómo conseguirlos.
 ---
 
 # Rangos de apoyo (VIP)
@@ -44,6 +44,7 @@ pero sin viajes a mitad de precio, sin el +25 %, sin el +10 %, sin las formas y 
 | 【破】 | **Akaza** | **Demonio** | `/kit akaza` | Brújula de Koyuki | [Una Luna](#las-lunas-rangos-de-demonio): pelea con los puños; cada tercer puñetazo abre la brújula. |
 | 【氷】 | **Douma** | **Demonio** | `/kit douma` | Niño de Cristal | [Una Luna](#las-lunas-rangos-de-demonio): dos abanicos de hielo, uno en cada mano. |
 | 【月】 | **Kokushibo** | **Demonio** | `/kit kokushibo` | Luna de los Seis Ojos | [Una Luna](#las-lunas-rangos-de-demonio): su espada, Kyokoku Kamusari, y seis ojos que ven lo que acecha. |
+| 【蛇】 | **Orochi** | **Demonio** | `/kit orochi` | Orochi menor | **Su propio linaje**: cinco artes de serpiente, con [el Abrazo de Orochi](#orochi-la-serpiente-de-ocho-cabezas), su espada Murakumo y un emote que solo es suyo. |
 
 Ceniza Oscura, Oscuridad Carmesí y Señor de las Ánimas traen técnicas que no existen en ningún otro sitio del juego:
 
@@ -129,6 +130,7 @@ brasas, ceniza, hojas, fuegos fatuos…
 | Akaza | Rosa y una onda que sale del centro como un golpe |
 | Douma | Hielo con un arcoíris muy pálido |
 | Kokushibo | La plata fría de la luna y un tajo de sangre |
+| Orochi | Esmeralda y oro: las letras ondulan como una serpiente y sueltan escamas |
 
 ## El Señor de las Ánimas: el agarre del esqueleto
 
@@ -167,6 +169,82 @@ libran: las manos de hueso les cogen de los tobillos y el golpe contra el suelo 
 **Dónde no coge:** en zonas seguras, refugios, la Ciudadela, casas sin PvP, cerca de una Calamidad despierta ni a quien acaba de llegar:
 las reglas de siempre del combate entre jugadores. En el dojo, solo entre los que pelean, y nadie de fuera puede lanzarlo a 24 bloques
 de un duelo. Allí tampoco empuja: nadie pierde fuera del tatami por un soplido.
+
+## Orochi: la serpiente de ocho cabezas
+
+**Orochi** es el rango de demonio más alto: la serpiente de ocho cabezas de la leyenda de Izumo. Escamas, veneno, niebla y
+serpientes que salen de la tierra. Como el Señor de las Ánimas, es **de demonio**: siendo cazador tienes lo de cualquier rango y
+lo demás te espera al otro lado.
+
+**El kit** (`/kit orochi`, una vez por semana): el **Cráneo de Orochi**, el **Haori de las Ocho Cabezas**, el **Hakama de Escamas**,
+los **Tabi de la Serpiente** y **Murakumo, la Hoja de la Cola**, una espada de jade y escamas negras con la serpiente enroscada en la guarda.
+
+- **Cada pieza:** armadura, dureza y **un 4 % menos** de las técnicas de los cazadores del Cuerpo.
+- **El conjunto:** +10 de armadura, +6 de dureza, **un 21 % menos** de sus técnicas, **+3 corazones** y te empujan menos.
+- **En el haori lleva una serpiente viva** enroscada al cuerpo que asoma la cabeza por tu hombro: **muerde a quien te pega** cuerpo a
+  cuerpo y le deja el veneno. Con el haori puesto, tus artes de Orochi esperan **un 15 % menos**.
+- **Murakumo** (+3 de daño con el rango): a los cazadores del Cuerpo les deja el veneno y, cada tercer tajo, la cola muerde a otros dos.
+- **El golpe de gracia «Ocho Cabezas»:** cuando bajas del 30 % de vida, ocho cabezas salen en corona, muerden todo lo que tienes
+  alrededor y te devuelven **cinco corazones**.
+
+<div class="galeria" markdown>
+<figure markdown="span">
+  ![Ocho Cabezas: las serpientes salen en corro y muerden hacia fuera](assets/img/vip/orochi-cabezas.webp){ loading=lazy }
+  <figcaption>«Ocho Cabezas»: muerden hacia fuera, una tras otra.</figcaption>
+</figure>
+<figure markdown="span">
+  ![El golpe de gracia de Orochi: la corona de serpientes](assets/img/vip/orochi-corona.webp){ loading=lazy }
+  <figcaption>El golpe de gracia: la corona que muerde todo lo de alrededor.</figcaption>
+</figure>
+</div>
+
+**Su linaje** (pestaña «蛇 Orochi» en **K → Artes**): cinco artes, listas desde que compras el rango.
+
+| Arte | Espera | Qué hace |
+|---|---|---|
+| **Colmillo de Orochi** | 10 s | la tierra se abre bajo lo que miras (hasta 16 bloques) y una cabeza de serpiente le muerde desde arriba: golpe fuerte, veneno y por los aires |
+| **Ocho Cabezas** | 20 s | ocho cabezas en corro a tu alrededor muerden hacia fuera, una tras otra, en espiral |
+| **Muda de Escamas** | 14 s | te deslizas diez bloques y dejas tu piel vacía, que revienta en una nube de veneno; mientras te deslizas aguantas mucho más |
+| **Niebla de Izumo** | 24 s | una cúpula de niebla venenosa de siete bloques, seis segundos: los demás se envenenan y se frenan dentro; tú te curas |
+| **Abrazo de Orochi** | 57 s | **la definitiva**: ver abajo |
+
+Contra los jugadores y contra los cazadores del Cuerpo que no son jugadores, sus artes pegan **un 25 % más**.
+
+### El Abrazo de Orochi
+
+Si al lanzarlo tienes a alguien **a doce bloques y a la vista**, una **serpiente colosal** sale de la tierra bajo tu presa, **se le
+enrosca**, la sube seis bloques, la mira a la cara y **la estampa contra el suelo**. Al golpe, su cola barre a los de alrededor y les
+deja el veneno. Si no hay nadie, la serpiente embiste en línea recta dieciséis bloques.
+
+<figure markdown="span">
+  ![La serpiente colosal del Abrazo de Orochi sube a su presa](assets/img/vip/orochi-abrazo.webp){ width="760" loading=lazy }
+  <figcaption>El Abrazo de Orochi: la serpiente colosal sube a su presa antes de estamparla.</figcaption>
+</figure>
+
+| Lo que quita | |
+|---|---|
+| Al que estampa (un jugador) | Hasta el **70 % de su vida máxima** de una vez |
+| A un cazador NPC | Muchísimo (los jefes, como mucho un 25 % por golpe) |
+| A los de alrededor | El golpe de la cola, con los topes de siempre |
+| En un duelo del dojo | Hasta el **32 %** de la vida del duelo |
+
+**La espera:** si coge a un jugador, **80 segundos** (68 con el haori). Si coge a un NPC o a nadie, la de siempre.
+
+**Cómo defenderse:** lo mismo que contra [el agarre del esqueleto](#el-senor-de-las-animas-el-agarre-del-esqueleto): golpea a quien lo
+lanza (si cae o se va, la serpiente te suelta), cúbrete antes de que se cierren los anillos (si la guardia aguanta, entra menos),
+rompe la línea de visión. Un jugador al que ya tiene cogido el esqueleto no puede cogerlo la serpiente, y al revés; y después de
+soltarte, **diez segundos** en los que ninguno de los dos te vuelve a coger. No coge donde no coge el esqueleto (zonas seguras,
+refugios, la Ciudadela, casas sin PvP, a quien acaba de llegar…).
+
+**Su compañero:** la **Orochi menor** (`/vip mascota`), una serpiente de ocho cabezas en abanico que flota a tu lado.
+
+**Su emote, solo tuyo:** **la Danza de Orochi**. No sale en la rueda de los demás: a ti te sale en su **medallón**, al lado de la
+rueda (tecla **º**).
+
+<figure markdown="span">
+  ![La rueda de emotes con el medallón de la Danza de Orochi](assets/img/vip/orochi-rueda.webp){ width="560" loading=lazy }
+  <figcaption>La rueda de quien tiene Orochi: su medallón, a la derecha.</figcaption>
+</figure>
 
 ## Las mascotas de los pilares
 
@@ -376,7 +454,7 @@ Y además:
 - **Regalar la ropa no regala el rango:** sin el rango, la ropa es solo aspecto. La katana del kit solo funciona con su rango.
 - **Si el rango caduca:** la ropa se queda contigo sin efectos, la katana del kit se va y el título se queda.
 - **El Amanecer** no tiene ninguno de estos efectos: su equipo es solo aspecto (su mansión de Yamanote, sí).
-- **Los rangos de demonio** (Señor de las Ánimas y [las Lunas](#las-lunas-rangos-de-demonio)) no llevan la regeneración del
+- **Los rangos de demonio** (Señor de las Ánimas, [las Lunas](#las-lunas-rangos-de-demonio) y [Orochi](#orochi-la-serpiente-de-ocho-cabezas)) no llevan la regeneración del
   pecho ni la katana: tienen lo suyo, más arriba.
 
 ## Si tienes varios rangos
@@ -387,7 +465,7 @@ Tú eliges qué rango enseñas y qué mascota te acompaña:
   tu nombre en los mensajes del servidor, tu anuncio al entrar y tu título. También lo eliges poniéndote su título en
   **K → Títulos**.
 - **`/vip mascota <cuál>`**: `koi`, `gorrion`, `lechuza`, `fenix`, `avelira`, `jabato`, `zorro`, `mariposa`, `farol`,
-  `dragon`, `tren`, `brujula`, `nino` o `luna`. Al llamar a tu mascota con `/vip mascota` verás las demás para cambiar
+  `dragon`, `tren`, `brujula`, `nino`, `luna` u `orochi`. Al llamar a tu mascota con `/vip mascota` verás las demás para cambiar
   pulsando. Seas cazador o demonio, te acompaña cualquiera de las de tus rangos.
 - Con **`ropa`** (`/vip titulo ropa`, `/vip mascota ropa`) vuelves a lo de siempre: lo del conjunto que llevas puesto.
 
