@@ -211,7 +211,7 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
 
 ??? question "Tengo un rango VIP: ¿cómo consigo mi mansión?"
     Ve a **K → Lugares → Yamanote**, cruza el Gran Torii y busca una placa que diga «LIBRE»: clic derecho y **Reclamar**. Es gratis y sin
-    alquiler mientras tengas el rango (el Amanecer, solo de aspecto, no cuenta). [Ver Yamanote](ciudadela/yamanote.md).
+    alquiler mientras tengas el rango (cualquier rango VIP, también el Amanecer). [Ver Yamanote](ciudadela/yamanote.md).
 
 ??? question "Los guardias me echan de Yamanote"
     Del Gran Torii para dentro solo pasan los VIP de pago, quienes viven allí y sus invitados. Si tienes un amigo allí, que te invite:

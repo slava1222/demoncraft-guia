@@ -23,8 +23,8 @@ description: Los rangos de apoyo (VIP) de DemonCraft - qué da cada uno, el 10 %
 - Si es un rango **del Cuerpo** (de cazador), la **Marca del Cazador** (++h++) con cualquier rango, con el poder de su pilar
   ([ver](#la-marca-de-cada-pilar)).
 
-El **Amanecer** es la excepción: solo trae lo de aspecto (título, equipo, mascota y la línea sobre tu cabeza), sin viajes a mitad
-de precio, sin el +25 %, sin el +10 %, sin mansión, sin las formas y sin la Marca. [Ver abajo](#amanecer-el-rango-de-aspecto).
+El **Amanecer** es la excepción: trae lo de aspecto (título, equipo, mascota y la línea sobre tu cabeza) y **su mansión de Yamanote**,
+pero sin viajes a mitad de precio, sin el +25 %, sin el +10 %, sin las formas y sin la Marca. [Ver abajo](#amanecer-el-rango-de-aspecto).
 
 ## Los rangos
 
@@ -316,8 +316,8 @@ cazador, otro a juego.
 
 ![Amanecer: la primera luz camina contigo](assets/img/vip/sello-amanecer.webp){ align=right width="260" loading=lazy }
 
-El rango más sencillo y **solo de aspecto**: no da ninguna ventaja, ni en combate ni en tu cuenta (ni viajes a mitad de precio,
-ni el +25 %, ni el +10 %, ni mansión, ni las formas, ni la Marca). Lo suyo es verse:
+El rango más sencillo y **de aspecto**: no da ventajas de combate ni de tu cuenta (ni viajes a mitad de precio, ni el +25 %, ni el
++10 %, ni las formas, ni la Marca), pero **sí su mansión gratis en [Yamanote](ciudadela/yamanote.md)**, como cualquier VIP. Lo suyo es verse:
 
 - **Sobre tu nombre**, «VIP · AMANECER» con los colores del alba y un destello que lo recorre; el prefijo 【暁】 en el chat y su
   título, «Amanecer» (o «Ocaso» si eres demonio).
@@ -356,13 +356,26 @@ ni el +25 %, ni el +10 %, ni mansión, ni las formas, ni la Marca). Lo suyo es v
 Los efectos del equipo funcionan cuando **tienes el rango y llevas sus piezas puestas** (siendo del bando del rango).
 En el tatami del dojo no cuentan.
 
-- **Pecho:** regeneración cuando llevas 10 segundos sin recibir golpes. **Botas:** sin daño de caída. **Katana:** +2 de daño.
-- **Con el conjunto completo** (las cuatro piezas y la katana en la mano): +2 corazones, regeneración más fuerte, una
-  estela al esprintar y un **golpe de gracia** automático cuando bajas del 30 % de vida (una vez cada 3 minutos).
+**Cada pieza de armadura** (cabeza, pecho, piernas y pies):
+
+- **Armadura de diamante:** cada pieza protege como la de diamante (20 de armadura con las cuatro, contando lo que ya trae la prenda).
+- **+2,5 de dureza** (10 con las cuatro: casi como la netherita) y **+1 corazón**.
+- **Un 5 % menos de daño de las artes demoníacas**, de los demonios del mundo y de los jugadores demonio.
+
+**Con el conjunto completo** (las cuatro piezas y la katana en la mano):
+
+- **+2 corazones más** (6 en total), **otro 5 % menos de las artes demoníacas** (un 25 % en total), firmeza (te empujan menos) y una estela al esprintar.
+- Su **golpe de gracia** automático cuando bajas del 30 % de vida, **una vez cada 2 minutos**.
+
+Y además:
+
+- **Pecho:** regeneración cuando llevas 10 segundos sin recibir golpes (más fuerte con el conjunto) y la **Respiración de Concentración
+  Total**: en plena pelea, si bajas del 40 % de vida, recuperas **3 corazones de golpe** (una vez por minuto).
+- **Botas:** sin daño de caída. **Katana:** **+3 de daño**.
 - Cada rango tiene además sus efectos propios en la cabeza, las piernas y los pies (los de la tabla de arriba).
 - **Regalar la ropa no regala el rango:** sin el rango, la ropa es solo aspecto. La katana del kit solo funciona con su rango.
 - **Si el rango caduca:** la ropa se queda contigo sin efectos, la katana del kit se va y el título se queda.
-- **El Amanecer** no tiene ninguno de estos efectos: su equipo es solo aspecto.
+- **El Amanecer** no tiene ninguno de estos efectos: su equipo es solo aspecto (su mansión de Yamanote, sí).
 - **Los rangos de demonio** (Señor de las Ánimas y [las Lunas](#las-lunas-rangos-de-demonio)) no llevan la regeneración del
   pecho ni la katana: tienen lo suyo, más arriba.
 

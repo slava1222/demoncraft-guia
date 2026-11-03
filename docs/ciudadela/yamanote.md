@@ -42,8 +42,8 @@ Hay ocho casas distintas (La Casa del Patio, La Nube, El Palacio Sukiya, Las Ter
 
 **`/mansion lista`** te dice las libres más cercanas.
 
-!!! info "El Amanecer no cuenta"
-    Hace falta un rango **de pago** con ventajas. El [Amanecer](../vip.md#amanecer-el-rango-de-aspecto), que es solo de aspecto, no da mansión.
+!!! info "Cualquier rango VIP, también el Amanecer"
+    Vale **cualquier rango VIP**, de cazador o de demonio, también el [Amanecer](../vip.md#amanecer-el-rango-de-aspecto).
 
 ## Lo que trae
 
