@@ -10,7 +10,7 @@ los rangos de apoyo y todos los comandos.
 
 - Servidor: `demoncraft.world`
 - Launcher: https://github.com/slava1222/demoncraft-launcher/releases/latest
-- Discord: https://discord.gg/mdwAvAMBvr
+- Discord: https://discord.gg/2q2Up8t7Vk
 
 ---
 

@@ -8,7 +8,7 @@ description: Respuestas rápidas a las dudas más comunes de los jugadores de De
 ## Entrar y cuenta
 
 ??? question "No me deja entrar"
-    - **«¡No estás en la lista blanca!»**: pide acceso en el [Discord](https://discord.gg/mdwAvAMBvr).
+    - **«¡No estás en la lista blanca!»**: pide acceso en el [Discord](https://discord.gg/2q2Up8t7Vk).
     - **Error de mods o de versión** (también después de una actualización: con el pack anterior no se entra): cierra el
       juego y abre el DemonCraft Launcher, que lo pone al día solo (si tu pack es viejo, el juego te lo avisa arriba del
       menú principal); si juegas sin él, baja el

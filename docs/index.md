@@ -207,7 +207,7 @@ duelos, los clanes y la economía entre jugadores.
 |---|---|
 | **Dirección** | `demoncraft.world` |
 | **Versión** | Minecraft Java 1.20.1 con Forge (el launcher lo instala todo) |
-| **Discord** | [discord.gg/mdwAvAMBvr](https://discord.gg/mdwAvAMBvr) |
+| **Discord** | [discord.gg/2q2Up8t7Vk](https://discord.gg/2q2Up8t7Vk) |
 | **Tienda** | [Rangos de apoyo y extras](vip.md) |
 
 !!! tip "¿No sabes para qué sirve algo?"

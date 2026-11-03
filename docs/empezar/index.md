@@ -58,7 +58,7 @@ Con el launcher ya viene puesta. Con el zip también aparece en *Multijugador*; 
 *Multijugador → Añadir servidor*.
 
 Si al entrar ves **«¡No estás en la lista blanca del servidor!»**, el servidor está con lista blanca: pide acceso en el
-[Discord](https://discord.gg/mdwAvAMBvr).
+[Discord](https://discord.gg/2q2Up8t7Vk).
 
 ## Tu cuenta: crear la contraseña
 
