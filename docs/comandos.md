@@ -121,6 +121,12 @@ description: Todos los comandos que puede usar un jugador en DemonCraft - cuenta
 | `/duelo pareja retar <jugador>` · `aceptarreto` · `rechazarreto` | Retar a su pareja · contestar a un reto. |
 | `/duelo pareja cola` · `salir` | La cola de parejas. |
 
+## El tiempo
+
+| Comando | Qué hace |
+|---|---|
+| `/estacion` | La [estación](mundo/estaciones.md) en la que estamos, su día, el tiempo que hace y el desastre natural en marcha (también sale en el **TAB**). |
+
 ## Calamidades, Sucesos y Fortaleza
 
 | Comando | Qué hace |

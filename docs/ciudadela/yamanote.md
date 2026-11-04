@@ -21,8 +21,8 @@ description: Yamanote, el barrio de las mansiones de la Ciudadela de DemonCraft 
 A la plaza puede venir todo el mundo a mirar. **Del Gran Torii para dentro** solo pasan los VIP, quienes viven allí y sus invitados: a los demás los guardias los devuelven a la plaza.
 
 <figure markdown="span">
-  ![K, Lugares con Yamanote y el Ryōtei](../assets/img/capturas/k-lugares-yamanote.webp){ loading=lazy }
-  <figcaption>K → Lugares: Yamanote y el Ryōtei (aquí, los precios desde dentro de la Ciudadela).</figcaption>
+  ![La maqueta de la Ciudadela con Yamanote y el Ryōtei](../assets/img/capturas/maqueta-ciudadela.webp){ loading=lazy }
+  <figcaption>K → Lugares → La Ciudadela: en su maqueta están Yamanote y el Ryōtei.</figcaption>
 </figure>
 
 ## Reclamar la tuya

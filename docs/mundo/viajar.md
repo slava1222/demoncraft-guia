@@ -5,21 +5,32 @@ description: Cómo viajar por el mapa de DemonCraft con el cuervo Kasugai, el ar
 
 # Viajar
 
-<p class="dc-entradilla">Por el mapa se viaja con el cuervo: abre la K, ve a <strong>Lugares</strong> y pulsa <strong>Ir</strong>.</p>
+<p class="dc-entradilla">Por el mapa se viaja con el cuervo: abre la K, ve a <strong>Lugares</strong>, abre la <strong>maqueta en 3D</strong>
+del sitio y elige en ella dónde quieres aparecer.</p>
 
 ## El cuervo Kasugai
 
 <ol class="pasos" markdown>
 <li markdown>**Descubre el lugar.** Solo puedes viajar a sitios que ya hayas pisado (sale la tarjeta «LUGAR DESCUBIERTO»).</li>
-<li markdown>**K → Lugares → Ir.** Al lado de cada lugar ves lo que cuesta ir desde donde estás.</li>
+<li markdown>**K → Lugares.** Cada sitio (Japón, la Ciudadela, el Castillo Infinito…) tiene su tarjeta: pulsa **Ver la maqueta**.</li>
+<li markdown>**Elige el punto en la maqueta.** Gírala arrastrando, acércala con la rueda y pincha uno de los puntos de viaje (o elígelo
+en la lista de la derecha, con lo que cuesta ir desde donde estás). Luego pulsa **✦ Viajar**.</li>
 <li markdown>**Quédate quieto 3 segundos** mientras el cuervo marca el rumbo. Si te mueves o te hacen daño, se cancela sin cobrar.</li>
 <li markdown>**Llegas** y se te cobra: *«Has llegado a … -precio»*.</li>
 </ol>
 
 <div class="galeria" markdown>
 <figure markdown="span">
-  ![K, pestaña Lugares con los precios](../assets/img/capturas/k-lugares.webp){ loading=lazy }
-  <figcaption>K → Lugares: precio de cada viaje y el botón Ir.</figcaption>
+  ![K, pestaña Lugares con las maquetas](../assets/img/capturas/k-lugares-maquetas.webp){ loading=lazy }
+  <figcaption>K → Lugares: cada sitio con su maqueta.</figcaption>
+</figure>
+<figure markdown="span">
+  ![La maqueta de Japón en 3D](../assets/img/capturas/maqueta-japon.webp){ loading=lazy }
+  <figcaption>La maqueta de Japón: se gira 360° y se elige el punto de viaje en ella o en la lista.</figcaption>
+</figure>
+<figure markdown="span">
+  ![La maqueta de la Ciudadela](../assets/img/capturas/maqueta-ciudadela.webp){ loading=lazy }
+  <figcaption>La maqueta de la Ciudadela, con Yamanote y el Ryōtei.</figcaption>
 </figure>
 <figure markdown="span">
   ![El cuervo marca el rumbo](../assets/img/capturas/cuervo-viaje.webp){ loading=lazy }
@@ -28,12 +39,12 @@ description: Cómo viajar por el mapa de DemonCraft con el cuervo Kasugai, el ar
 </div>
 
 !!! tip "La Ciudadela"
-    **La Ciudadela**, el mundo de las parcelas, sale **la primera** en K → Lugares, abierta a todos desde el principio: **200**
+    **La Ciudadela**, el mundo de las parcelas, tiene su propia maqueta en K → Lugares, abierta a todos desde el principio: **200**
     cada viaje entre los dos mundos (también para volver), con las mismas reglas. [Ver la Ciudadela](../ciudadela/index.md).
 
 !!! tip "El Gran Dojo"
     Cuando ya tienes tu **primera espada nichirin**, sale también **«El Gran Dojo»**, donde se pelean los duelos y el torneo: es
-    **gratis** y su **Ir** te lleva al momento a su plaza (lo mismo que `/torneo ver`; vuelves igual). [Ver el Gran Dojo](../social/duelos.md#el-gran-dojo).
+    **gratis** y te lleva al momento a su plaza (lo mismo que `/torneo ver`; vuelves igual). [Ver el Gran Dojo](../social/duelos.md#el-gran-dojo).
 
 !!! tip "Yamanote y el Ryōtei"
     En K → Lugares salen también [Yamanote](../ciudadela/yamanote.md), el barrio de las mansiones, y

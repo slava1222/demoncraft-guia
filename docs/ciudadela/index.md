@@ -17,14 +17,15 @@ description: La Ciudadela de DemonCraft - un mundo aparte, una ciudad japonesa a
 No hay que desbloquear nada: está abierta a todos, cazadores y demonios, desde el principio.
 
 <ol class="pasos" markdown>
-<li markdown>**K → Lugares → La Ciudadela → Ir.** Sale la primera de la lista. También vale escribir **`/ciudadela`**.</li>
+<li markdown>**K → Lugares → La Ciudadela.** Se abre su maqueta en 3D: elige **La Ciudadela** (o Yamanote, o el Ryōtei) y pulsa
+**✦ Viajar**. También vale escribir **`/ciudadela`**.</li>
 <li markdown>**Quédate quieto 3 segundos** mientras el cuervo marca el rumbo, como en cualquier [viaje](../mundo/viajar.md).</li>
 <li markdown>**Llegas a la Gran Puerta**, mirando a la ciudad, y se te cobra el viaje.</li>
 </ol>
 
 <figure markdown="span">
-  ![K → Lugares con la Ciudadela la primera](../assets/img/capturas/k-lugares-ciudadela.webp){ loading=lazy }
-  <figcaption>K → Lugares: la Ciudadela, la primera, con su precio y el botón Ir.</figcaption>
+  ![La maqueta de la Ciudadela en K → Lugares](../assets/img/capturas/maqueta-ciudadela.webp){ loading=lazy }
+  <figcaption>K → Lugares → La Ciudadela: su maqueta, con los puntos de viaje y su precio.</figcaption>
 </figure>
 
 - Cada viaje entre los dos mundos cuesta **200**, a la ida y a la vuelta (con un [rango VIP](../vip.md), la mitad).
