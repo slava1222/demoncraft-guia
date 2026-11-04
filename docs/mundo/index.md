@@ -31,7 +31,7 @@ description: Mapa completo del mundo de DemonCraft con los lugares principales, 
 ## Descubrir lugares
 
 La primera vez que entras en uno de estos lugares aparece la tarjeta **«LUGAR DESCUBIERTO»**. Desde entonces puedes
-volver con el [cuervo](viajar.md) (K → Lugares → **Ir**).
+volver con el [cuervo](viajar.md): sale como punto de viaje en su maqueta de K → Lugares.
 
 <div class="galeria" markdown>
 <figure markdown="span">
@@ -79,5 +79,7 @@ volver con el [cuervo](viajar.md) (K → Lugares → **Ir**).
 
 - **Por el campo**, lejos de los pueblos, te cruzarás con lobos, osos, jabalíes, vacas y ciervos: [fauna y caza](fauna.md).
 - **Zonas seguras**: bares y plazas donde nadie pelea, que además son refugio de la noche: [ver](noche.md#zonas-seguras).
+- **Las estaciones**: primavera, verano, otoño e invierno, cada una con su tiempo y sus desastres naturales (tormentas, tornados,
+  ventiscas…): [ver](estaciones.md).
 - **Parcelas**: trozos de suelo con su valla y su cartel que se alquilan para construir desde cero:
   [ver](../economia/casas.md#parcelas-para-construir).

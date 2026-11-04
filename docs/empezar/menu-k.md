@@ -20,7 +20,7 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
 | **Encargos** | Los encargos que tienes abiertos y los rumores de quién necesita ayuda. | [Encargos](../misiones/encargos.md) |
 | **Halloween** | Solo durante el evento: tu camino de las calabazas, la tienda de la Anciana y la clasificación. | [Halloween](../eventos/halloween.md) |
 | **Respiración** | El árbol de respiraciones: cuál tienes activa, tus formas, el entrenamiento y tus teclas Z, X y C. | [Respiraciones](../cazador/respiraciones.md) |
-| **Lugares** | La Ciudadela, Yamanote, el Ryōtei, el Gran Dojo (desde tu primera nichirin) y los lugares que has descubierto, con el precio del viaje y el botón **Ir**. | [Viajar](../mundo/viajar.md) · [La Ciudadela](../ciudadela/index.md) · [Yamanote](../ciudadela/yamanote.md) · [El Ryōtei](../ciudadela/ryotei.md) · [El Gran Dojo](../social/duelos.md#el-gran-dojo) |
+| **Lugares** | Una tarjeta por sitio (Japón, la Ciudadela, el Castillo Infinito…) que abre su **maqueta en 3D**: se gira, se acerca y en ella se elige el punto de viaje (los que has descubierto, la Ciudadela, Yamanote, el Ryōtei y el Gran Dojo desde tu primera nichirin), con su precio. | [Viajar](../mundo/viajar.md) · [La Ciudadela](../ciudadela/index.md) · [Yamanote](../ciudadela/yamanote.md) · [El Ryōtei](../ciudadela/ryotei.md) · [El Gran Dojo](../social/duelos.md#el-gran-dojo) |
 | **Títulos** | Todos los títulos, cómo se consiguen y cuál llevas puesto. | [Títulos](../social/chat.md#titulos) |
 | **Ranking** | Clasificaciones: duelos, demonios cazados, jefes y los demonios más temidos. | [Duelos](../social/duelos.md) |
 | **Clan** | Fundar o gestionar tu clan. | [Clanes](../social/clanes.md) |
@@ -45,8 +45,8 @@ description: Qué hay en cada pestaña de la K (tu perfil), qué significa cada 
   <figcaption>Misiones: cada cadena con su paso actual y los botones Seguir y Pausar.</figcaption>
 </figure>
 <figure markdown="span">
-  ![K, pestaña Lugares](../assets/img/capturas/k-lugares.webp){ loading=lazy }
-  <figcaption>Lugares: el precio del viaje y el botón Ir.</figcaption>
+  ![K, pestaña Lugares](../assets/img/capturas/k-lugares-maquetas.webp){ loading=lazy }
+  <figcaption>Lugares: cada sitio con su maqueta en 3D.</figcaption>
 </figure>
 <figure markdown="span">
   ![K, pestaña Rango, con el botón de la Senda del Cazador](../assets/img/capturas/senda-k-rango.webp){ loading=lazy }
