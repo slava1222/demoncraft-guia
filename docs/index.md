@@ -18,7 +18,24 @@ los demonios. Y una noche, alguien te ofrecerá su sangre: puedes rechazarla… 
 El mapa está hecho a mano y no se rompe ni se construye en él. Todo gira alrededor de las misiones, el combate, los
 duelos, los clanes y la economía entre jugadores.
 
-!!! tip "Novedades de la actualización 2.1"
+!!! tip "Novedades de la actualización 3.0 · Hinomoto (12 de noviembre)"
+    **Se abre [Hinomoto, el Continente del Alba](hinomoto/index.md)**: un mundo nuevo de unos 16 km de lado, para cazadores y
+    para demonios. La primera vez que llegas, una película te lo presenta (se salta con ESPACIO; para verla otra vez,
+    `/continente presentacion`).
+
+    - **Cómo se llega:** los cazadores, con su primera nichirin, por **K → Lugares → Hinomoto**; los demonios, con su biwa
+      despertada, al Castillo del Lamento.
+    - **Asahi-kyō** y cuatro aldeas (Mizuho, Kiyama, Kurogane y Kirimura) con su gente, sus tiendas, su hospital y
+      [sus caballos](hinomoto/caballos.md); y **el Castillo del Lamento**, la ciudad de los demonios.
+    - **Tres jefes de región:** [el Nushi de la Niebla](hinomoto/nushi.md), [el Ōmukade](hinomoto/omukade.md) y
+      [Shuten-dōji](hinomoto/oni.md), el Rey de los Oni. Y **la Galería Vieja**, la primera mazmorra.
+    - **Descubrir:** santuarios de viaje, seis caminos, 117 lugares pequeños con sus cofres, cinco lugares legendarios y
+      16 historias. Lo llevas todo en [el diario de la K](hinomoto/diario.md).
+    - **La caravana**, [la Tatara del Primer Hierro](hinomoto/tatara.md) y, para el demonio,
+      [los contratos de la Corte](hinomoto/contratos.md).
+    - **Antes de entrar:** el DemonCraft Launcher se pone al día solo; con otro launcher, baja el modpack nuevo.
+
+??? tip "Novedades de la actualización 2.1 (2 de noviembre)"
     - **[La pantalla de juego y el inventario](empezar/controles.md#la-pantalla-de-juego-y-el-inventario), nuevos:** la barra de
       objetos lacada con el medallón de tu respiración, las alas de vida y comida, y el inventario (++e++) con tu personaje en 3D.
     - **[La bolsa de viaje](economia/mochilas.md#la-bolsa-de-viaje):** 18 casillas más en el inventario, para todos.
@@ -48,11 +65,9 @@ duelos, los clanes y la economía entre jugadores.
     - **Y además:** los VIP de pago ganan un [10 % más de méritos y de sangre](vip.md#lo-que-da-cualquier-rango), y lo que te
       sobra de sangre o de méritos ya tiene salida: [el trueque](economia/trueque.md).
 
-!!! tip "Halloween 2026: hasta el 1 de noviembre"
-    Cada noche salen de la tierra los **Kabocha-oni**. Cázalos para ganar el kit de Halloween de tu bando, la Hoja de la
-    Calabaza o el Farol del Rey Calabaza, y decoraciones para tu casa; y, si ya tienes el
-    [Colgante de las Almas](misiones/colgante.md), [el recuerdo de Shion](eventos/halloween.md#el-recuerdo-de-shion).
-    [Ver el evento](eventos/halloween.md)
+!!! tip "Navidad 2026: desde el 1 de diciembre"
+    Llega **la Noche de los Faroles de Nieve**: muñecos de nieve que atacan, Kuro Santa (la Calamidad de Navidad), el Gran
+    Árbol, el calendario de Adviento y un kit nuevo para cada bando. Mira el avance en **K → ❄ Navidad**.
 
 !!! tip "Pase Estelar: hasta el 22 de enero"
     La temporada I, «El Río del Cielo»: 50 niveles para cazadores y para demonios que se suben jugando, con la Hoja del

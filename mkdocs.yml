@@ -125,6 +125,15 @@ extra:
 
 nav:
   - Inicio: index.md
+  - Hinomoto, el continente:
+      - hinomoto/index.md
+      - El diario de la K: hinomoto/diario.md
+      - Los caballos: hinomoto/caballos.md
+      - El Nushi de la Niebla: hinomoto/nushi.md
+      - El Ōmukade: hinomoto/omukade.md
+      - Shuten-dōji: hinomoto/oni.md
+      - La Tatara del Primer Hierro: hinomoto/tatara.md
+      - Los contratos de la Corte: hinomoto/contratos.md
   - Halloween 2026: eventos/halloween.md
   - Las Calamidades: eventos/calamidades.md
   - Pase Estelar: pase.md
