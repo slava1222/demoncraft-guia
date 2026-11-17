@@ -67,7 +67,8 @@ duelos, los clanes y la economía entre jugadores.
 
 !!! tip "Navidad 2026: desde el 1 de diciembre"
     Llega **la Noche de los Faroles de Nieve**: muñecos de nieve que atacan, Kuro Santa (la Calamidad de Navidad), el Gran
-    Árbol, el calendario de Adviento y un kit nuevo para cada bando. Mira el avance en **K → ❄ Navidad**.
+    Árbol, el calendario de Adviento y un kit nuevo para cada bando. Todo, en [Navidad 2026](eventos/navidad.md); en el juego,
+    **K → ❄ Navidad**.
 
 !!! tip "Pase Estelar: hasta el 22 de enero"
     La temporada I, «El Río del Cielo»: 50 niveles para cazadores y para demonios que se suben jugando, con la Hoja del
