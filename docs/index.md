@@ -18,6 +18,11 @@ los demonios. Y una noche, alguien te ofrecerá su sangre: puedes rechazarla… 
 El mapa está hecho a mano y no se rompe ni se construye en él. Todo gira alrededor de las misiones, el combate, los
 duelos, los clanes y la economía entre jugadores.
 
+!!! tip "Novedades de la actualización 3.1.1 (18 de noviembre): las quintas de la Ceniza y la Carmesí"
+    Los rangos **Ceniza Oscura** y **Oscuridad Carmesí** estrenan formas, con efectos y sonidos nuevos en las cinco. Su 5.ª forma
+    atrapa a todo enemigo a 10 bloques: el **Sol Negro**, un agujero negro que acaba en supernova, y la **Noche sin Fin**, con
+    Tokoyami y sus garras. Míralas en [Rangos VIP](vip.md).
+
 !!! tip "Novedades de la actualización 3.0 · Hinomoto (12 de noviembre)"
     **Se abre [Hinomoto, el Continente del Alba](hinomoto/index.md)**: un mundo nuevo de unos 16 km de lado, para cazadores y
     para demonios. La primera vez que llegas, una película te lo presenta (se salta con ESPACIO; para verla otra vez,

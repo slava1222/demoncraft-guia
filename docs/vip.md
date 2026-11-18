@@ -73,8 +73,8 @@ Ceniza Oscura, Oscuridad Carmesí y Señor de las Ánimas traen técnicas que no
   <figcaption>El zorro de ceniza, su compañero.</figcaption>
 </figure>
 <figure markdown="span">
-  ![Quinta forma de la Ceniza](assets/img/vip/ceniza-forma.webp){ loading=lazy }
-  <figcaption>«Tormenta de Ceniza Negra», 5.ª forma de la Respiración de la Ceniza.</figcaption>
+  ![Quinta forma de la Ceniza: el Sol Negro](assets/img/vip/ceniza-forma.webp){ loading=lazy }
+  <figcaption>«Sol Negro», 5.ª forma de la Respiración de la Ceniza: un agujero negro que atrapa todo a 10 bloques.</figcaption>
 </figure>
 <figure markdown="span">
   ![El conjunto de la Oscuridad Carmesí](assets/img/vip/carmesi-conjunto.webp){ loading=lazy }
@@ -85,8 +85,8 @@ Ceniza Oscura, Oscuridad Carmesí y Señor de las Ánimas traen técnicas que no
   <figcaption>La mariposa del abismo, su compañera.</figcaption>
 </figure>
 <figure markdown="span">
-  ![Cuarta forma de la Oscuridad Carmesí](assets/img/vip/carmesi-forma.webp){ loading=lazy }
-  <figcaption>«Eclipse Carmesí», 4.ª forma de la Oscuridad Carmesí.</figcaption>
+  ![Quinta forma de la Oscuridad Carmesí: la Noche sin Fin](assets/img/vip/carmesi-forma.webp){ loading=lazy }
+  <figcaption>«Noche sin Fin», 5.ª forma de la Oscuridad Carmesí: Tokoyami y sus garras, vistos por su presa.</figcaption>
 </figure>
 <figure markdown="span">
   ![El conjunto de las Ánimas](assets/img/vip/animas-conjunto.webp){ loading=lazy }
@@ -102,8 +102,14 @@ Ceniza Oscura, Oscuridad Carmesí y Señor de las Ánimas traen técnicas que no
 </figure>
 </div>
 
-- La **5.ª forma de la Ceniza** y la de la **Oscuridad Carmesí** atrapan y arrastran a quien está cerca y le dan siempre: no se
-  paran con el bloqueo ni con la parada, no se esquivan rodando y la defensa del demonio no las frena.
+- La **5.ª forma de la Ceniza, «Sol Negro»**, y la de la **Oscuridad Carmesí, «Noche sin Fin»**, atrapan a **todo enemigo a 10
+  bloques**, aunque haya un muro de por medio: el Sol Negro lo hace girar alrededor de un agujero negro hasta que estalla en una
+  supernova; en la Noche sin Fin sale **Tokoyami**, el oni de la noche, y una garra sube a cada uno y lo estampa contra el suelo.
+  No se paran con el bloqueo ni con la parada, no se esquivan rodando y la defensa del demonio no las frena. Mientras te tienen no
+  puedes moverte, usar nada ni irte con una orden, y **a un jugador lo dejan siempre a 3 corazones** (sin absorción): nunca matan.
+  En un duelo del dojo, en cambio, es un golpe fuerte con los topes del duelo. Si atrapan a un jugador, la quinta tarda **90 s**
+  en volver, y quien sale tiene 15 s en los que ningún agarre le vuelve a coger. Las zonas seguras y la protección al llegar las
+  paran, como siempre.
 - Con el **farol de las Ánimas** en la mano, su arte del clic derecho no alcanza a ningún jugador a más de **6 bloques**. Sin el
   farol, con Z, X y C, y contra los demonios de la noche y los jefes, igual que siempre.
 
